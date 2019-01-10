@@ -7,4 +7,6 @@ category: reflectometry
 posts: false
 ---
 
+<center><img src="/img/reflectometry.png" width="60%"></center>
+
 Information to come.
