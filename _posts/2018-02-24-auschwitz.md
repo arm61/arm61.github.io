@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Auschwitz - Laurence Rees
+subtitle: An intense book about and intense subject
 date: 2018-02-24
 category: books
 ---

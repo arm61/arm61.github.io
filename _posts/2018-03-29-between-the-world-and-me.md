@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Between the World and Me - Ta-Nehisi Coates
+subtitle: Our book club looks at the US
 date: 2018-03-29
 category: books
 ---

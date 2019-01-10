@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Waste Lands - Stephen King
+subtitle: The Dark Tower looms closer
 date: 2018-05-27
 category: books
 ---

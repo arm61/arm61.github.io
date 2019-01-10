@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Open Source Friday
+subtitle: Working on open projects
 date: 2018-08-16
 ---
 [Open source Friday](https://opensourcefriday.com/) in an initiative started by GitHub, which pushes people and businesses to contribute to open source code once a week.

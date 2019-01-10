@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Jupyter Notebooks in Tutorials
+subtitle: Programming to make maths simpler
 date: 2017-10-28
 category: teaching
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Reason I Jump - Naoki Higashida
+subtitle: A beautiful book about autism
 date: 2018-02-16
 category: books
 ---

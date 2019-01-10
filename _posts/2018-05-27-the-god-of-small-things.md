@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The God of Small Things - Arundhati Roy
+subtitle: One of my favourite books ever
 date: 2018-05-27
 category: books
 ---
