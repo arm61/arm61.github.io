@@ -3,6 +3,7 @@ layout: post
 title: Presentation Prize
 subtitle: I did a thing
 date: 2018-10-23
+category: talks
 ---
 A few weeks ago, I was lucky enough to attend [SAS2018](https://sas2018.anl.gov/) conference in Michigan, USA.
 This will be the last large, international conference of my PhD, so I decided to go all out with abstracts for talks, submitting two (one in the machine learning and one in the education session).
