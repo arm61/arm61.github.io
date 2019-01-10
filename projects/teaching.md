@@ -2,7 +2,7 @@
 layout: project
 title: "Teaching"
 description: "Programming and maths for chemists"
-header-img: "img/sadie.png"
+header-img: "img/banner.png"
 category: teaching
 ---
 

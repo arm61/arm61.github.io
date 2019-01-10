@@ -2,7 +2,7 @@
 layout: project
 title: "Talks"
 description: "A record of talks I have given"
-header-img: "img/sadie.png"
+header-img: "img/banner.png"
 category: talks
 ---
 

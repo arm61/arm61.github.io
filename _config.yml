@@ -8,7 +8,7 @@ url: "https://armccluskey.com"
 
 # Secondary Parameters
 baseurl: "/"
-header-img: img/sadie.png
+header-img: img/banner.png
 headercolor: "#FFFFFF"
 
 # Tertiary Parameters
@@ -34,7 +34,7 @@ defaults:
       type: "pages"
     values:
       layout: "project"
-      header-img: "img/sadie.png"
+      header-img: "img/banner.png"
 
 # Prose Settings
 prose:

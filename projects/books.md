@@ -2,7 +2,7 @@
 layout: project
 title: "Books"
 description: "Trying to read more"
-header-img: "img/sadie.png"
+header-img: "img/banner.png"
 category: books
 ---
 
