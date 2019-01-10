@@ -10,7 +10,7 @@ url: "https://armccluskey.com"
 baseurl: "/"
 header-img: img/sadie.png
 headercolor: "#FFFFFF"
-logo: /img/logos/Project-Pages-New-Logo-Inverted.png
+logo: 
 
 # Tertiary Parameters
 github_username:  arm61
