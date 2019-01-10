@@ -10,7 +10,7 @@ category: teaching
 
 The growth of computer availability at University has been massive in the past ten years.
 We are aiming to maximise the use of this technology through the development of tools for the education of chemistry and physics students.
-This includes introducing <a href="http://pythoninchemistry.org">undergraduate chemistry students to Python programming</a> and developing software tools such as pylj <a href="https://doi.org/10.21105/jose.00019">[1]</a>.
+This includes introducing undergraduate chemistry students to Python programming through the <a href="http://pythoninchemistry.org">pythoninchemistry project</a> and developing software tools such as pylj <a href="https://doi.org/10.21105/jose.00019">[1]</a>.
 pylj is designed to allow students to easily interact with molecular dynamics and Monte Carlo simulations, and has now been implemented in Bath's undergraduate computational chemistry laboratory <a href="https://github.com/symmy596/Advanced_Practical_Chemistry_Teaching">[2]</a>
 
 # References
