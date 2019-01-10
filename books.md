@@ -1,9 +1,8 @@
 ---
-layout: project
+layout: page
 title: "Books"
 description: "Trying to read more"
 header-img: "img/banner.png"
-category: books
 ---
 
 This is a catalogue of the books I have read in the past year. Occasionally I might review them. I am also trying to track and rate these books on [Goodreads](https://www.goodreads.com/user/show/56385381-andrew-mccluskey).

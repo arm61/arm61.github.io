@@ -1,10 +1,8 @@
 ---
-layout: project
+layout: page
 title: "Other"
 description: "Stuff that doesn't fit anywhere elsee"
 header-img: "img/banner.png"
-category: other
-posts: false
 ---
 
 # Demos

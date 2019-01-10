@@ -1,9 +1,8 @@
 ---
-layout: project
+layout: page
 title: "Talks"
 description: "A record of talks I have given"
 header-img: "img/banner.png"
-category: talks
 ---
 
 # 2018
