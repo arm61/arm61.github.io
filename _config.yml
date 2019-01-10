@@ -34,7 +34,7 @@ defaults:
       type: "pages"
     values:
       layout: "project"
-      header-img: "img/home-bg.jpg"
+      header-img: "img/sadie.png"
 
 # Prose Settings
 prose:
