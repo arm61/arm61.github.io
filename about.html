@@ -8,11 +8,13 @@ header-img: "img/banner.png"
 
 {% for member in site.data.members %} {% if member.visible == true %}
 
-	<img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin-right:10px; float:left; width:150px !important">
-
+	<center>
+	<img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin-right:10px; float:left; width:300px !important">
+	<br>
 	<h1>{{ member.name }}</h1>
-
+	<br>
 	<h2>{{ member.role }}</h2>
+	</center>
 
 	{% if member.github %}
 	<span class="social-share-googleplus"><a href="https://github.com/{{ member.github }}" title="Github"><img src="{{ "/img/icons/github-icon.png" | prepend: site.baseurl }}" style="height:20px">Github</a></span>
@@ -24,7 +26,7 @@ header-img: "img/banner.png"
 	<span class="social-share-googleplus"><a href="{{ member.url }}" title="URL"><img src="{{ "/img/icons/url-icon.png"| prepend: site.baseurl }}" style="height:20px">Website</a></span>
 	{% endif %}
 
-	</br>
+	<br>
 
 	{% if member.bio %}
 	{{ member.bio }}
