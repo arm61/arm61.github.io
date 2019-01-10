@@ -1,6 +1,22 @@
 ---
 layout: page
 ---
+<!-- Post Content -->
+{% include imagezoom.html %}
+
+<article>
+    <div id="content" class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+				{{ content | markdownify }}
+
+                <hr>
+            </div>
+        </div>
+    </div>
+</article>
+
 {% for post in site.posts %}
 {% if post.category == page.category %}
 <div class="post-preview">
