@@ -10,10 +10,11 @@ url: "https://armccluskey.com"
 baseurl: "/"
 header-img: img/sadie.png
 headercolor: "#FFFFFF"
-logo: 
+logo:
 
 # Tertiary Parameters
 github_username:  arm61
+twitter_username: an_drewmcc
 project_repository: arm61.github.io
 altmetric: true
 
