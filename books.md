@@ -10,6 +10,7 @@ This is a catalogue of the books I have read in the past year. Occasionally I mi
 # 2019
 
 1. The Fifth Risk - Michael Lewis
+2. The Last Wish - Andrzej Sapkowski
 
 # 2018
 
