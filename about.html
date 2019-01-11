@@ -42,6 +42,10 @@ header-img: "img/banner.png"
 	<br>
 	<a href="{{ member.scholar }}">View Publications</a>
 	{% endif %}
+	{% if member.bibtex %}
+	<br>
+	<a href="{{ member.bibtex }}">Bibtex of Publications</a>
+	{% endif %}
 
 	<hr>
 
