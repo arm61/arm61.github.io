@@ -12,7 +12,7 @@ The <a href="http://pythoninchemistry.org">pythoninchemistry project</a> aims to
 
 <center><a href="http://pythoninchemistry.org/pylj"><img src="/img/pylj.png" width="60%"></a></center>
 
-Additionally, software packages, such as pylj <a href="https://doi.org/10.21105/jose.00019">[1]</a>, have been create to allow students to utilise these programming skills in a chemistry-relevant context.
+Additionally, software packages, such as pylj <a href="https://doi.org/10.21105/jose.00019">[1]</a>, have been created to allow students to utilise these programming skills in a chemistry-relevant context.
 pylj is designed to allow students to easily interact with molecular dynamics and Monte Carlo simulations, and has now been implemented in Bath's undergraduate computational chemistry laboratory <a href="https://github.com/symmy596/Advanced_Practical_Chemistry_Teaching">[2]</a>
 
 # References
