@@ -34,10 +34,14 @@ header-img: "img/banner.png"
 	<br>
 	Email: {{ member.email }}
 	{% endif %}
+	{% if member.cv %}
 	<br>
-	<a href="https://github.com/arm61/arm_cv/raw/master/resume.pdf">Download CV</a>
+	<a href="{{ member.cv }}">Download CV</a>
+	{% endif %}
+	{% if member.scholar %}
 	<br>
-	<a href="https://scholar.google.co.uk/citations?user=nfB-dDEAAAAJ&hl=en">View Publications</a>
+	<a href="{{ member.scholar }}">View Publications</a>
+	{% endif %}
 
 	<hr>
 
