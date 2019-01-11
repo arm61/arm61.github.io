@@ -30,8 +30,10 @@ header-img: "img/banner.png"
 	{% if member.bio %}
 	{{ member.bio }}
 	{% endif %}
+	{% if member.email %}
 	<br>
-	Email: a.r.mccluskey'at'bath.ac.uk
+	Email: {{ member.email }}
+	{% endif %}
 	<br>
 	<a href="https://github.com/arm61/arm_cv/raw/master/resume.pdf">Download CV</a>
 	<br>
