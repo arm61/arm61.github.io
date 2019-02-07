@@ -11,6 +11,7 @@ This is a catalogue of the books I have read in the past year. Occasionally I mi
 
 1. The Fifth Risk - Michael Lewis
 2. The Last Wish - Andrzej Sapkowski
+3. Two Essays on Analytical Psychology - Carl Jung
 
 # 2018
 
