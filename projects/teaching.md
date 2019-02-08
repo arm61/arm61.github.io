@@ -13,8 +13,8 @@ The <a href="http://pythoninchemistry.org">pythoninchemistry project</a> aims to
 <center><a href="http://pythoninchemistry.org/pylj"><img src="/img/pylj.png" width="60%"></a></center>
 
 Software packages, such as pylj <a href="https://doi.org/10.21105/jose.00019">[1]</a>, have been created to allow students to utilise these programming skills in a chemistry-relevant context.
-pylj is designed to allow students to easily interact with molecular dynamics and Monte Carlo simulations, and has now been implemented in Bath's undergraduate computational chemistry laboratory <a href="https://github.com/symmy596/Advanced_Practical_Chemistry_Teaching">[2]</a>
-Futhermore, it is also possible to develop online, open educational resources that may be used by anyone to gain familiarity with a particular topic in their own time.
+pylj is designed to allow students to easily interact with molecular dynamics and Monte Carlo simulations and has now been implemented in Bath's undergraduate computational chemistry laboratory <a href="https://github.com/symmy596/Advanced_Practical_Chemistry_Teaching">[2]</a>
+Furthermore, it is also possible to develop online, open educational resources that may be used by anyone to gain familiarity with a particular topic in their own time.
 For example, the "The interaction between simulation and scattering" module developed as part of the pythoninchemistry project <a href="https://arxiv.org/abs/1901.05514">[3]</a>.
 
 # References
