@@ -19,6 +19,6 @@ For example, the "The interaction between simulation and scattering" module deve
 
 # References
 
-1. A. R. McCluskey, B. J. Morgan, K. J. Edler, & S. C. Parker. (2018). pylj: A teaching tool for classical atomistic simulation. *Journal of Open Source Education*, 1(2), 19, [10.21105/jose.00019](https://doi.org/10.21105/jose.00019).
+1. A. R. McCluskey, B. J. Morgan, K. J. Edler, & S. C. Parker. (2018). pylj: A teaching tool for classical atomistic simulation. *J. Open Source Educ.*, 1(2), 19, [10.21105/jose.00019](https://doi.org/10.21105/jose.00019).
 2. A. R. Symington, & A. R. McCluskey. (2018, October 30). symmy596/Advanced_Practical_Chemistry_Teaching: Advanced Lab 2018 (Version 1.0.0). Zenodo. [10.5281/zenodo.1475176](http://doi.org/10.5281/zenodo.1475176)
 3. A. R. McCluskey, J. Grant, A. R. Symington, T. Snow, J. Doutch, B. J. Morgan, S. C. Parker, & K. J. Edler.  *(Submitted)*. [arXiv:1902.01324](https://arxiv.org/abs/1902.01324)
