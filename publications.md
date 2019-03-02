@@ -5,8 +5,7 @@ description: "Some writing"
 header-img: "img/banner.png"
 ---
 
-### Bayesian determination of the effect of a deep eutectic solvent on the structure of lipid monolayers
-
+**Bayesian determination of the effect of a deep eutectic solvent on the structure of lipid monolayers**<br>
 <small>[Paper](http://dx.doi.org/10.1039/C9CP00203K) \| [arXiv](https://arxiv.org/abs/1810.07616) \| [ESI](https://github.com/arm61/lipids_at_airdes/tree/1.0) \| [Data](https://doi.org/10.15125/BATH-00548)</small>
 
 *Physical Chemistry Chemical Physics*, Advance Article, 2019<br>
@@ -16,8 +15,7 @@ header-img: "img/banner.png"
 <center><a href="http://dx.doi.org/10.1039/C9CP00203K"><img src="https://raw.githubusercontent.com/arm61/lipids_at_airdes/master/toc_figure/ToC_figure.png" width="600px"></a></center>
 *A novel reflectometry analysis method reveals the structure of lipid monolayers at the air-DES interface.*
 
-### pylj: A teaching tool for classical atomistic simulation
-
+**pylj: A teaching tool for classical atomistic simulation**<br>
 <small>[Paper](https://doi.org/10.21105/jose.00019) \| [Code](https://github.com/arm61/pylj)</small>
 
 *Journal of Open Source Education*, **1**(2), 19, 2018.<br>
@@ -26,8 +24,7 @@ header-img: "img/banner.png"
 
 *pylj is an educational software to introduce students to classical atomistic simulation using a Lennnard-Jones potential model.*
 
-### Model-dependent Small-angle Scattering for the Study of Complex Organic Materials
-
+**Model-dependent Small-angle Scattering for the Study of Complex Organic Materials**<br>
 <small>[Paper](https://doi.org/10.2174/1875692115666170612104439)</small>
 
 *Current Organic Chemistry*, **22**(8), 750, 2018<br>
