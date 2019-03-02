@@ -24,7 +24,6 @@ header-img: "img/banner.png"
 
 \*[a.r.mccluskey@bath.ac.uk](mailto:a.r.mccluskey@bath.ac.uk)/[andrew.mccluskey@diamond.ac.uk](mailto:andrew.mccluskey@diamond.ac.uk)
 
-<center><a href="https://doi.org/10.21105/jose.00019"><img src="https://github.com/arm61/pylj/raw/master/paper/fig1.png" width="600px"></a></center>
 *pylj is an educational software to introduce students to classical atomistic simulation using a Lennnard-Jones potential model.*
 
 ### Model-dependent Small-angle Scattering for the Study of Complex Organic Materials
