@@ -31,8 +31,8 @@ header-img: "img/banner.png"
 
 [Paper](https://doi.org/10.2174/1875692115666170612104439)
 
-[Andrew R. McCluskey](https://orcid.org/0000-0003-3381-5911) and [Karen J. Edler](https://orcid.org/0000-0001-5822-0127)&ast;.
+[Andrew R. McCluskey](https://orcid.org/0000-0003-3381-5911) and [Karen J. Edler](https://orcid.org/0000-0001-5822-0127)\*.
 
-&ast;[k.edler@bath.ac.uk](mailto:k.edler@bath.ac.uk)
+\*[k.edler@bath.ac.uk](mailto:k.edler@bath.ac.uk)
 
 *This review article introduces the method of model-dependent analysis of small angle scattering.*
