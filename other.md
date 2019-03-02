@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Other"
-description: "Stuff that doesn't fit anywhere elsee"
+description: "Stuff that doesn't fit anywhere else"
 header-img: "img/banner.png"
 ---
 
