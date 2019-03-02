@@ -18,16 +18,27 @@
                 <li>
                     <a href="{{ site.baseurl }}/">Home</a>
                 </li>
-                {% for page in site.pages %}{% if page.url contains "projects/" %}{% else %}{% if page.url contains "search/" %}{% else %}{% if page.title %}
                 <li>
-                    <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                    <a href="{{ site.baseurl }}/about/">About</a>
                 </li>
-                {% endif %}{% endif %}{% endif %}{% endfor %}
-                {% for page in site.pages %}{% if page.url contains "projects/" %}{% if page.title %}
                 <li>
-                    <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                    <a href="{{ site.baseurl }}/books/">Books</a>
                 </li>
-                {% endif %}{% endif %}{% endfor %}
+                <li>
+                    <a href="{{ site.baseurl }}/other/">Other</a>
+                </li>
+                <li>
+                    <a href="{{ site.baseurl }}/projects/reflectometry/">Reflectometry</a>
+                </li>
+                <li>
+                    <a href="{{ site.baseurl }}/projects/teaching/">Teaching</a>
+                </li>
+                <li>
+                    <a href="{{ site.baseurl }}/publications/">Publications</a>
+                </li>
+                <li>
+                    <a href="{{ site.baseurl }}/talks/">Talks</a>
+                </li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
