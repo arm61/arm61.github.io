@@ -7,7 +7,7 @@ header-img: "img/banner.png"
 
 ### Bayesian determination of the effect of a deep eutectic solvent on the structure of lipid monolayers
 
-[Paper](http://dx.doi.org/10.1039/C9CP00203K) | [arXiv](https://arxiv.org/abs/1810.07616) | [ESI](https://github.com/arm61/lipids_at_airdes/tree/1.0) | [Data](https://doi.org/10.15125/BATH-00548)
+[Paper](http://dx.doi.org/10.1039/C9CP00203K) \| [arXiv](https://arxiv.org/abs/1810.07616) \| [ESI](https://github.com/arm61/lipids_at_airdes/tree/1.0) \| [Data](https://doi.org/10.15125/BATH-00548)
 
 [Andrew R. McCluskey](https://orcid.org/0000-0003-3381-5911)\*, [Adrian Sanchez-Fernandez](https://orcid.org/0000-0002-0241-1191), [Karen J. Edler](https://orcid.org/0000-0001-5822-0127), [Stephen C. Parker](https://orcid.org/0000-0003-3804-0975), [Andrew J. Jackson](https://orcid.org/0000-0002-6296-0336), [Richard A. Campbell](https://orcid.org/0000-0002-6296-314X), and [Thomas Arnold](https://orcid.org/0000-0001-7196-7831)\*.
 
