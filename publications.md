@@ -13,7 +13,7 @@ header-img: "img/banner.png"
 <small>\*[a.r.mccluskey@bath.ac.uk](mailto:a.r.mccluskey@bath.ac.uk)/[andrew.mccluskey@diamond.ac.uk](mailto:andrew.mccluskey@diamond.ac.uk) & [tom.arnold@esss.se](mailto:tom.arnold@esss.se)</small>
 
 <center><a href="http://dx.doi.org/10.1039/C9CP00203K"><img src="https://raw.githubusercontent.com/arm61/lipids_at_airdes/master/toc_figure/ToC_figure.png" width="600px"></a></center>
-*A novel reflectometry analysis method reveals the structure of lipid monolayers at the air-DES interface.*
+<small><i>A novel reflectometry analysis method reveals the structure of lipid monolayers at the air-DES interface.</i></small>
 <hr>
 **pylj: A teaching tool for classical atomistic simulation**<br>
 <small>[Paper](https://doi.org/10.21105/jose.00019) \| [Code](https://github.com/arm61/pylj)</small>
@@ -22,7 +22,7 @@ header-img: "img/banner.png"
 [Andrew R. McCluskey](https://orcid.org/0000-0003-3381-5911)\*, [Benjamin J. Morgan](https://orcid.org/0000-0002-3056-8233), [Karen J. Edler](https://orcid.org/0000-0001-5822-0127), and [Stephen C. Parker](https://orcid.org/0000-0003-3804-0975).<br>
 <small>\*[a.r.mccluskey@bath.ac.uk](mailto:a.r.mccluskey@bath.ac.uk)/[andrew.mccluskey@diamond.ac.uk](mailto:andrew.mccluskey@diamond.ac.uk)</small>
 
-*pylj is an educational software to introduce students to classical atomistic simulation using a Lennnard-Jones potential model.*
+<small><i>pylj is an educational software to introduce students to classical atomistic simulation using a Lennnard-Jones potential model.</i></small>
 <hr>
 **Model-dependent Small-angle Scattering for the Study of Complex Organic Materials**<br>
 <small>[Paper](https://doi.org/10.2174/1875692115666170612104439)</small>
@@ -31,4 +31,4 @@ header-img: "img/banner.png"
 [Andrew R. McCluskey](https://orcid.org/0000-0003-3381-5911) and [Karen J. Edler](https://orcid.org/0000-0001-5822-0127)\*.<br>
 <small>\*[k.edler@bath.ac.uk](mailto:k.edler@bath.ac.uk)</small>
 
-*This review article introduces the method of model-dependent analysis of small angle scattering.*
+<small><i>This review article introduces the method of model-dependent analysis of small angle scattering.</i></small>
