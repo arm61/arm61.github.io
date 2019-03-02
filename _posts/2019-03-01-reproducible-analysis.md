@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reproducible Analysis
-subtitle: a pythoninchemistry cross-post
+subtitle: A pythoninchemistry cross-post
 date: 2019-03-01
 ---
 
