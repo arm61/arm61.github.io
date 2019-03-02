@@ -18,7 +18,7 @@ header-img: "img/banner.png"
 
 ### pylj: A teaching tool for classical atomistic simulation
 
-[Paper](https://doi.org/10.21105/jose.00019) | [Code](https://github.com/arm61/pylj)
+[Paper](https://doi.org/10.21105/jose.00019) \| [Code](https://github.com/arm61/pylj)
 
 [Andrew R. McCluskey](https://orcid.org/0000-0003-3381-5911)\*, [Benjamin J. Morgan](https://orcid.org/0000-0002-3056-8233), [Karen J. Edler](https://orcid.org/0000-0001-5822-0127), and [Stephen C. Parker](https://orcid.org/0000-0003-3804-0975).
 
