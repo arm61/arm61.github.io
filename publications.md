@@ -7,21 +7,23 @@ header-img: "img/banner.png"
 
 ### Bayesian determination of the effect of a deep eutectic solvent on the structure of lipid monolayers
 
+[Paper](http://dx.doi.org/10.1039/C9CP00203K) | [arXiv](https://arxiv.org/abs/1810.07616) | [ESI](https://github.com/arm61/lipids_at_airdes/tree/1.0) | [Data](https://doi.org/10.15125/BATH-00548)
+
 [Andrew R. McCluskey](https://orcid.org/0000-0003-3381-5911)\*, [Adrian Sanchez-Fernandez](https://orcid.org/0000-0002-0241-1191), [Karen J. Edler](https://orcid.org/0000-0001-5822-0127), [Stephen C. Parker](https://orcid.org/0000-0003-3804-0975), [Andrew J. Jackson](https://orcid.org/0000-0002-6296-0336), [Richard A. Campbell](https://orcid.org/0000-0002-6296-314X), and [Thomas Arnold](https://orcid.org/0000-0001-7196-7831)\*.
 
-\*[a.r.mccluskey@bath.ac.uk](mailto:a.r.mccluskey@bath.ac.uk) & [tom.arnold@esss.se](mailto:tom.arnold@esss.se)
+\*[a.r.mccluskey@bath.ac.uk](mailto:a.r.mccluskey@bath.ac.uk)/[andrew.mccluskey@diamond.ac.uk](mailto:andrew.mccluskey@diamond.ac.uk) & [tom.arnold@esss.se](mailto:tom.arnold@esss.se)
 
-<center><a href="http://dx.doi.org/10.1039/C9CP00203K"><img src="https://raw.githubusercontent.com/arm61/lipids_at_airdes/master/toc_figure/ToC_figure.png" width="500px"></a></center>
+<center><a href="http://dx.doi.org/10.1039/C9CP00203K"><img src="https://raw.githubusercontent.com/arm61/lipids_at_airdes/master/toc_figure/ToC_figure.png" width="600px"></a></center>
 *A novel reflectometry analysis method reveals the structure of lipid monolayers at the air-DES interface.*
 
 ### pylj: A teaching tool for classical atomistic simulation
 
-[Andrew R. McCluskey](https://orcid.org/0000-0003-3381-5911)&ast;, [Adrian Sanchez-Fernandez](https://orcid.org/0000-0002-0241-1191), [Karen J. Edler](https://orcid.org/0000-0001-5822-0127), [Stephen C. Parker](https://orcid.org/0000-0003-3804-0975), [Andrew J. Jackson](https://orcid.org/0000-0002-6296-0336), [Richard A. Campbell](https://orcid.org/0000-0002-6296-314X), and [Thomas Arnold](https://orcid.org/0000-0001-7196-7831)&ast;.
+[Andrew R. McCluskey](https://orcid.org/0000-0003-3381-5911)\*, [Benjamin J. Morgan](https://orcid.org/0000-0002-3056-8233), [Karen J. Edler](https://orcid.org/0000-0001-5822-0127), and [Stephen C. Parker](https://orcid.org/0000-0003-3804-0975).
 
-&ast;[a.r.mccluskey@bath.ac.uk](mailto:a.r.mccluskey@bath.ac.uk) & [tom.arnold@esss.se](mailto:tom.arnold@esss.se)
+\*[a.r.mccluskey@bath.ac.uk](mailto:a.r.mccluskey@bath.ac.uk)/[andrew.mccluskey@diamond.ac.uk](mailto:andrew.mccluskey@diamond.ac.uk)
 
-[![ToCFigure](https://raw.githubusercontent.com/arm61/lipids_at_airdes/master/toc_figure/ToC_figure.png)](http://dx.doi.org/10.1039/C9CP00203K)
-*A novel reflectometry analysis method reveals the structure of lipid monolayers at the air-DES interface.*
+<center><a href="https://doi.org/10.21105/jose.00019"><img src="https://github.com/arm61/pylj/raw/master/paper/fig1.png" width="600px"></a></center>
+*pylj is an educational software to introduce students to classical atomistic simulation using a Lennnard-Jones potential model.*
 
 ### Model-dependent Small-angle Scattering for the Study of Complex Organic Materials
 
@@ -29,5 +31,4 @@ header-img: "img/banner.png"
 
 &ast;[k.edler@bath.ac.uk](mailto:k.edler@bath.ac.uk)
 
-[![ToCFigure](https://raw.githubusercontent.com/arm61/lipids_at_airdes/master/toc_figure/ToC_figure.png)](http://dx.doi.org/10.1039/C9CP00203K)
-*A novel reflectometry analysis method reveals the structure of lipid monolayers at the air-DES interface.*
+*This review article introduces the method of model-dependent analysis of small angle scattering.*
