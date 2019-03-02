@@ -22,6 +22,7 @@ header-img: "img/banner.png"
 [Andrew R. McCluskey](https://orcid.org/0000-0003-3381-5911)\*, [Benjamin J. Morgan](https://orcid.org/0000-0002-3056-8233), [Karen J. Edler](https://orcid.org/0000-0001-5822-0127), and [Stephen C. Parker](https://orcid.org/0000-0003-3804-0975).<br>
 <small>\*[a.r.mccluskey@bath.ac.uk](mailto:a.r.mccluskey@bath.ac.uk)/[andrew.mccluskey@diamond.ac.uk](mailto:andrew.mccluskey@diamond.ac.uk)</small>
 
+<hr>
 *pylj is an educational software to introduce students to classical atomistic simulation using a Lennnard-Jones potential model.*
 
 **Model-dependent Small-angle Scattering for the Study of Complex Organic Materials**<br>
