@@ -14,7 +14,7 @@ This means that it is necessary to data analysis procedures to evolve, moving to
 
 <center><img src="/img/reflectometry.png" width="60%"></center>
 
-This work has involved two aspects of reflectometry data analysis to date; the development of chemically-consistent analysis for lipid monolayers <a href="https://arxiv.org/abs/1810.07616">[1]</a>, and the use of molecular simulation to augment the analysis of neutron reflectometry <a href="https://arxiv.org/abs/1901.05514">[2]</a>.
+This work has involved two aspects of reflectometry data analysis to date; the development of chemically-consistent analysis for lipid monolayers <a href="https://doi.org/10.1039/C9CP00203K">[1]</a>, and the use of molecular simulation to augment the analysis of neutron reflectometry <a href="https://arxiv.org/abs/1901.05514">[2]</a>.
 The former allowed for the use of Bayesian inference and Markov chain Monte Carlo, a powerful technique for the understanding of the inverse uncertainty in an analytical model, to be applied to study the structure of lipid monolayers.
 While in the latter, we are investigating the utility of different coarse-grained force fields for the understanding of reflectometry measurements.
 
