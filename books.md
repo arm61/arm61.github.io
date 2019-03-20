@@ -13,6 +13,8 @@ This is a catalogue of the books I have read in the past year. Occasionally I mi
 2. The Last Wish - Andrzej Sapkowski
 3. Two Essays on Analytical Psychology - Carl Jung
 4. Wizard and Glass - Stephen King
+5. The Virgin Suicides - Jeffrey Eugenides
+6. Milkman - Anna Burns
 
 # 2018
 
