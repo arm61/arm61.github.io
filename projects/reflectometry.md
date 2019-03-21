@@ -20,5 +20,5 @@ While in the latter, we are investigating the utility of different coarse-graine
 
 # References
 
-1. A. R. McCluskey, A. Sanchez-Fernandez, K. J. Edler, S. C. Parker, A. J. Jackson, R. A. Campbell, & T. Arnold. *Phys. Chem. Chem. Phys.*, Advance Article, 2019. DOI: [10.1039/C9CP00203K](https://doi.org/10.1039/C9CP00203K).
+1. A. R. McCluskey, A. Sanchez-Fernandez, K. J. Edler, S. C. Parker, A. J. Jackson, R. A. Campbell, & T. Arnold. *Phys. Chem. Chem. Phys.*, **21**(11), 6133-6141, 2019. DOI: [10.1039/C9CP00203K](https://doi.org/10.1039/C9CP00203K).
 2. A. R. McCluskey, J. Grant, A. J. Smith, J. L. Rawle, D. J. Barlow, M. J. Lawrence, S. C. Parker, & K. J. Edler. *(Submitted)*, 2019. [arXiv:1901.05514](https://arxiv.org/abs/1901.05514)
