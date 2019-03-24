@@ -10,7 +10,7 @@ The growth of computing at Universities and Facilities has been massive in the p
 However, students in the physical and life sciences are not able to harness these tools, due to a lack of undergraduate training in programming.
 The <a href="http://pythoninchemistry.org">pythoninchemistry project</a> aims to offer students of chemistry an introduction to programming using the Python language.
 
-<center><a href="http://pythoninchemistry.org/pylj"><img src="/img/pylj.png" width="60%"></a></center>
+<center><a href="http://pythoninchemistry.org/pylj"><img src="/img/pylj.png" width="80%"></a></center>
 
 Software packages, such as pylj <a href="https://doi.org/10.21105/jose.00019">[1]</a>, have been created to allow students to utilise these programming skills in a chemistry-relevant context.
 pylj is designed to allow students to easily interact with molecular dynamics and Monte Carlo simulations and has now been implemented in Bath's undergraduate computational chemistry laboratory.

@@ -12,7 +12,7 @@ These measurements may be performed at large scale facilities such as the Diamon
 However, as the application of this technique is becoming more varied, it is more and more necessary for non-expert users to perform experiments, and analyse the resulting datasets.
 This means that it is necessary to data analysis procedures to evolve, moving towards more informed and automated data analysis.
 
-<center><img src="/img/reflectometry.png" width="60%"></center>
+<center><img src="/img/reflectometry.png" width="80%"></center>
 
 This work has involved two aspects of reflectometry data analysis to date; the development of chemically-consistent analysis for lipid monolayers <a href="https://doi.org/10.1039/C9CP00203K">[1]</a>, and the use of molecular simulation to augment the analysis of neutron reflectometry <a href="https://arxiv.org/abs/1901.05514">[2]</a>.
 The former allowed for the use of Bayesian inference and Markov chain Monte Carlo, a powerful technique for the understanding of the inverse uncertainty in an analytical model, to be applied to study the structure of lipid monolayers.
