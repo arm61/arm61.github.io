@@ -20,4 +20,4 @@ For example, the "The interaction between simulation and scattering" module deve
 # References
 
 1. A. R. McCluskey, B. J. Morgan, K. J. Edler, & S. C. Parker. *J. Open Source Educ.*, 1(2), 19, 2018. DOI: [10.21105/jose.00019](https://doi.org/10.21105/jose.00019).
-2. A. R. McCluskey, J. Grant, A. R. Symington, T. Snow, J. Doutch, B. J. Morgan, S. C. Parker, & K. J. Edler.  *J. Appl. Crystallogr.*, Accepted, 2019. [arXiv:1902.01324](https://arxiv.org/abs/1902.01324)
+2. A. R. McCluskey, J. Grant, A. R. Symington, T. Snow, J. Doutch, B. J. Morgan, S. C. Parker, & K. J. Edler.  *J. Appl. Crystallogr.*, Accepted, 2019. DOI: [10.1107/S1600576719004333](https://doi.org/10.1107/S1600576719004333)
