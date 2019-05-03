@@ -5,10 +5,11 @@ description: "Some writing"
 header-img: "img/banner.png"
 ---
 
-[**An introduction to classical molecular dynamics simulation for experimental scattering users**](https://arxiv.org/abs/1902.01324)<br>
+[**An introduction to classical molecular dynamics simulation for experimental scattering users**](https://doi.org/10.1107/S1600576719004333)<br>
 <small>[Paper](https://doi.org/10.1107/S1600576719004333) \| [ESI](https://github.com/arm61/sim_and_scat_paper) \| [OER](https://pythoninchemistry.org/sim_and_scat) \| [arXiv](https://arxiv.org/abs/1902.01324)</small><br>
-*J. Appl. Crystallogr.*, Accepted, 2019<br>
+*J. Appl. Crystallogr.*, **52**(3), 2019<br>
 [Andrew R. McCluskey](https://orcid.org/0000-0003-3381-5911)\*, [James Grant](https://orcid.org/0000-0003-1362-2055), [Adam R. Symington](https://orcid.org/0000-0001-6059-497X), [Tim Snow](https://orcid.org/0000-0001-7146-6885), James Doutch, [Benjamin J. Morgan](https://orcid.org/0000-0002-3056-8233)\*, [Stephen C. Parker](https://orcid.org/0000-0003-3804-0975), [Karen J. Edler](https://orcid.org/0000-0001-5822-0127)<br>
+<center><a href="https://doi.org/10.1107/S1600576719004333"><img src="https://github.com/arm61/sim_and_scat_paper/raw/master/toc.png" width="80%"></a></center>
 <small><i>An open educational resource to engage users of scattering techniques in classical simulation.</i></small>
 <hr>
 [**Assessing molecular simulation for the analysis of lipid monolayer reflectometry**](https://doi.org/10.1088/2399-6528/ab12a9)<br>
