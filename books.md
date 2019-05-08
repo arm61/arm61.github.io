@@ -17,6 +17,9 @@ This is a catalogue of the books I have read in the past year. Occasionally I mi
 6. Milkman - Anna Burns
 7. Fall Down 7 Times Get Up 8 - Naoki Higashida
 8. Human Acts - Han Kang
+9. Home Fire - Kamila Shamsie
+10. This is Going to Hurt - Adam Kay
+11. The Ocean at the End of the Lane - Neil Gaiman
 
 # 2018
 
