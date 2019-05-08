@@ -5,18 +5,18 @@ description: "Some writing"
 header-img: "img/banner.png"
 ---
 
+[**Assessing molecular simulation for the analysis of lipid monolayer reflectometry**](https://doi.org/10.1088/2399-6528/ab12a9)<br>
+<small>[Paper](https://doi.org/10.1088/2399-6528/ab12a9) \| [ESI](https://github.com/arm61/sim_vs_trad) \| [arXiv](https://arxiv.org/abs/1901.05514)</small><br>
+*J. Phys. Comm.*, Accepted, 2019<br>
+[Andrew R. McCluskey](https://orcid.org/0000-0003-3381-5911)\*, [James Grant](https://orcid.org/0000-0003-1362-2055), [Andrew J. Smith](https://orcid.org/0000-0003-3745-7082), [Jonathan L. Rawle](https://orcid.org/0000-0001-8767-4443), [David J. Barlow](https://orcid.org/0000-0002-0094-5122), [M. Jayne Lawrence](https://orcid.org/0000-0003-4738-4841), [Stephen C. Parker](https://orcid.org/0000-0003-3804-0975), [Karen J. Edler](https://orcid.org/0000-0001-5822-0127)\*<br>
+<small><i>Comparing different molecular dynamics potential models to improve reflectometry analysis.</i></small>
+<hr>
 [**An introduction to classical molecular dynamics simulation for experimental scattering users**](https://doi.org/10.1107/S1600576719004333)<br>
 <small>[Paper](https://doi.org/10.1107/S1600576719004333) \| [ESI](https://github.com/arm61/sim_and_scat_paper) \| [OER](https://pythoninchemistry.org/sim_and_scat) \| [arXiv](https://arxiv.org/abs/1902.01324)</small><br>
 *J. Appl. Crystallogr.*, **52**(3), 2019<br>
 [Andrew R. McCluskey](https://orcid.org/0000-0003-3381-5911)\*, [James Grant](https://orcid.org/0000-0003-1362-2055), [Adam R. Symington](https://orcid.org/0000-0001-6059-497X), [Tim Snow](https://orcid.org/0000-0001-7146-6885), James Doutch, [Benjamin J. Morgan](https://orcid.org/0000-0002-3056-8233)\*, [Stephen C. Parker](https://orcid.org/0000-0003-3804-0975), [Karen J. Edler](https://orcid.org/0000-0001-5822-0127)<br>
 <center><a href="https://doi.org/10.1107/S1600576719004333"><img src="https://github.com/arm61/sim_and_scat_paper/raw/master/toc.png" width="80%"></a></center>
 <small><i>An open educational resource to engage users of scattering techniques in classical simulation.</i></small>
-<hr>
-[**Assessing molecular simulation for the analysis of lipid monolayer reflectometry**](https://doi.org/10.1088/2399-6528/ab12a9)<br>
-<small>[Paper](https://doi.org/10.1088/2399-6528/ab12a9) \| [ESI](https://github.com/arm61/sim_vs_trad) \| [arXiv](https://arxiv.org/abs/1901.05514)</small><br>
-*J. Phys. Comm.*, Accepted, 2019<br>
-[Andrew R. McCluskey](https://orcid.org/0000-0003-3381-5911)\*, [James Grant](https://orcid.org/0000-0003-1362-2055), [Andrew J. Smith](https://orcid.org/0000-0003-3745-7082), [Jonathan L. Rawle](https://orcid.org/0000-0001-8767-4443), [David J. Barlow](https://orcid.org/0000-0002-0094-5122), [M. Jayne Lawrence](https://orcid.org/0000-0003-4738-4841), [Stephen C. Parker](https://orcid.org/0000-0003-3804-0975), [Karen J. Edler](https://orcid.org/0000-0001-5822-0127)\*<br>
-<small><i>Comparing different molecular dynamics potential models to improve reflectometry analysis.</i></small>
 <hr>
 [**Bayesian determination of the effect of a deep eutectic solvent on the structure of lipid monolayers**](https://doi.org/10.1039/C9CP00203K)<br>
 <small>[Paper](https://doi.org/10.1039/C9CP00203K) \| [ESI](https://github.com/arm61/lipids_at_airdes/tree/1.0) \| [Data](https://doi.org/10.15125/BATH-00548) \| [arXiv](https://arxiv.org/abs/1810.07616)</small><br>
