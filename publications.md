@@ -5,6 +5,12 @@ description: "Some writing"
 header-img: "img/banner.png"
 ---
 
+[**Coarse-grained modelling for soft-matter scattering**](https://doi.org/10.5281/zenodo.3238560)<br>
+<small>[ESI](https://doi.org/10.5281/zenodo.3238560)</small><br>
+*University of Bath*, PhD Thesis, 2019<br>
+[Andrew R. McCluskey](https://orcid.org/0000-0003-3381-5911)
+<small><i>An investigation of different coarse-graining methods to develop the analysis of scattering from soft matter species.</i></small>
+<hr>
 [**Assessing molecular simulation for the analysis of lipid monolayer reflectometry**](https://doi.org/10.1088/2399-6528/ab12a9)<br>
 <small>[Paper](https://doi.org/10.1088/2399-6528/ab12a9) \| [ESI](https://github.com/arm61/sim_vs_trad) \| [arXiv](https://arxiv.org/abs/1901.05514)</small><br>
 *J. Phys. Comm.*, Accepted, 2019<br>
