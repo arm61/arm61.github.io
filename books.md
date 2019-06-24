@@ -20,6 +20,8 @@ This is a catalogue of the books I have read in the past year. Occasionally I mi
 9. Home Fire - Kamila Shamsie
 10. This is Going to Hurt - Adam Kay
 11. The Ocean at the End of the Lane - Neil Gaiman
+12. Chernobyl: History of a Tragedy - Serhii Plokhy
+13. Genocidal Organ - Project Itoh
 
 # 2018
 
