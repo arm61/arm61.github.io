@@ -5,6 +5,10 @@ description: "A record of talks I have given"
 header-img: "img/banner.png"
 ---
 
+# 2019 
+
+- 2019-07-07: BAYES@LUND2019 -- University of Lund, Sweden
+
 # 2018
 
 - 2018-11-30: [The Hacker Within](/talks/hackerwithin18) -- University of Bath, UK
