@@ -22,6 +22,7 @@ This is a catalogue of the books I have read in the past year. Occasionally I mi
 11. The Ocean at the End of the Lane - Neil Gaiman
 12. Chernobyl: History of a Tragedy - Serhii Plokhy
 13. Genocidal Organ - Project Itoh
+14. Lost Japan - Alex Kerr
 
 # 2018
 
