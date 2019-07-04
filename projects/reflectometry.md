@@ -24,4 +24,4 @@ The hope is that this standard will allow for straightforward tagging of the exp
 # References
 
 1. A. R. McCluskey, A. Sanchez-Fernandez, K. J. Edler, S. C. Parker, A. J. Jackson, R. A. Campbell, & T. Arnold. *Phys. Chem. Chem. Phys.*, **21**(11), 6133-6141, 2019. DOI: [10.1039/C9CP00203K](https://doi.org/10.1039/C9CP00203K).
-2. A. R. McCluskey, J. Grant, A. J. Smith, J. L. Rawle, D. J. Barlow, M. J. Lawrence, S. C. Parker, & K. J. Edler. *J. Phys. Comm.*, **3**, 075001, 2019. DOI: [10.1088/2399-6528/ab12a9](https://doi.org/10.1088/2399-6528/ab12a9)
+2. A. R. McCluskey, J. Grant, A. J. Smith, J. L. Rawle, D. J. Barlow, M. J. Lawrence, S. C. Parker, & K. J. Edler. *J. Phys. Comm.*, **3**(7), 075001, 2019. DOI: [10.1088/2399-6528/ab12a9](https://doi.org/10.1088/2399-6528/ab12a9)
