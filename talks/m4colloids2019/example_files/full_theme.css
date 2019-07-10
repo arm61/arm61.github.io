@@ -528,9 +528,9 @@ html {
   background-size: auto 100%;
   display: inline-block;
   grid-area: header;
-  height: 3.5vmin;
-  margin-right: 10.5vmin;
-  width: 11.5vmin; }
+  height: 9vmin;
+  margin-right: 1.5vmin;
+  width: 14vmin; }
 
 .reveal .slides section .section {
   text-transform: uppercase;
@@ -594,13 +594,13 @@ html {
   grid-column-gap: 10vmin; }
 
 .reveal .slides section.title .logo {
-  background-image: url("../figures/2401.gif");
-  height: 6vmin;
-  width: 30vmin; }
+  background-image: url("../figures/logos.png");
+  height: 13vmin;
+  width: 40vmin; }
 
 .reveal .slides section.title .logo--full {
-  background-image: url("../figures/2401.gif");
-  width: 24vmin; }
+  background-image: url("../figures/logos.png");
+  width: 40vmin; }
 
 .reveal .slides section.title .content {
   align-self: center;
