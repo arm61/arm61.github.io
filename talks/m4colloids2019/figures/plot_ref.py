@@ -18,7 +18,7 @@ for e, i in enumerate(type):
     ax.tick_params(axis='y', colors='#888888')
     plt.plot(x, y, 'o', c='#2e94c4')
     plt.xlabel('$q$/Å')
-    plt.ylabel('log[R($q$)]')
+    plt.ylabel('log[$R(q)q^4$]')
     plt.title('{}'.format(type_nice[e]), c='#888888')
     plt.tight_layout()
     plt.savefig('{}.png'.format(i), dpi=600)
