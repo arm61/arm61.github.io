@@ -7,7 +7,7 @@ header-img: "img/banner.png"
 
 # 2019
 
-- 2019-07-12: M4 Colloids -- University of Bath, UK
+- 2019-07-12: [M4 Colloids](/talks/m4colloids2019) -- University of Bath, UK
 - 2019-05-07: [BAYES@LUND2019](/talks/bayes_at_lund2019.pdf) -- University of Lund, Sweden
 
 # 2018
