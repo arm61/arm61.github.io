@@ -16,6 +16,7 @@ github_username:  arm61
 twitter_username: an_drewmcc
 project_repository: arm61.github.io
 altmetric: true
+g-analytics: UA-77138846-5
 
 # Build settings
 gems: [jekyll-paginate]
