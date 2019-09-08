@@ -6,7 +6,7 @@ header-img: "img/banner.png"
 ---
 
 [**Coarse-grained modelling for soft-matter scattering**](https://doi.org/10.5281/zenodo.3238560)<br>
-<small>[ESI](https://github.com/arm61/thesis)</small><br>
+<small>[Thesis](https://researchportal.bath.ac.uk/files/192785635/ARM_thesis.pdf) \| [ESI](https://github.com/arm61/thesis)</small><br>
 *University of Bath*, PhD Thesis, 2019<br>
 [Andrew R. McCluskey](https://orcid.org/0000-0003-3381-5911)<br>
 <small><i>An investigation of different coarse-graining methods to develop the analysis of scattering from soft matter species.</i></small>
