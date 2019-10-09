@@ -27,6 +27,9 @@ This is a catalogue of the books I have read in the past year. Occasionally I mi
 16. What I Talk About When I Talk About Running - Haruki Murakami
 17. Oranges are Not the Only Fruit - Jeanette Winterson
 18. Names of the Sea: Strangers in Iceland - Sarah Moss
+19. The Thing Around Your Neck - Chimamanda Ngozi Adichie
+20. The Wind Through the Keyhole - Stephen King
+21. Superior: The Return of Race Science - Angela Saini
 
 # 2018
 
