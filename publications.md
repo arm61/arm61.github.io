@@ -7,7 +7,7 @@ header-img: "img/banner.png"
 
 [**Using Bayesian model selection to advise neutron reflectometry analysis from Langmuir-Blodgett monolayers**](https://arxiv.org/abs/1910.10581)<br>
 <small>[ESI](https://github.com/arm61/bayes_mod) \| [Data](https://github.com/arm61/bayes_mod/tree/master/data/neutron) \| [arXiv](https://arxiv.org/abs/1910.10581)</small><br>
-*Submitted*<br>
+*Submitted*, 2019<br>
 [Andrew R. McCluskey](https://orcid.org/0000-0003-3381-5911)\*, [Thomas Arnold](https://orcid.org/0000-0001-7196-7831), Joshaniel F. K. Cooper, [Tim Snow](https://orcid.org/0000-0001-7146-6885)<br>
 <small><i>Outlining and applying a Bayesian model selection framework for neutron reflectometry analysis.</i></small>
 <hr>
