@@ -9,6 +9,7 @@ header-img: "img/banner.png"
 <small>[ESI](https://github.com/arm61/bayes_mod) \| [Data](https://github.com/arm61/bayes_mod/tree/master/data/neutron) \| [arXiv](https://arxiv.org/abs/1910.10581)</small><br>
 *Submitted*, 2019<br>
 [Andrew R. McCluskey](https://orcid.org/0000-0003-3381-5911)\*, [Thomas Arnold](https://orcid.org/0000-0001-7196-7831), Joshaniel F. K. Cooper, [Tim Snow](https://orcid.org/0000-0001-7146-6885)<br>
+<center><a href="https://arxiv.org/abs/1910.10581"><img src="https://raw.githubusercontent.com/arm61/bayes_mod/master/toc.png" width="80%"></a></center>
 <small><i>Outlining and applying a Bayesian model selection framework for neutron reflectometry analysis.</i></small>
 <hr>
 [**Coarse-grained modelling for soft-matter scattering**](https://researchportal.bath.ac.uk/files/192785635/ARM_thesis.pdf)<br>
