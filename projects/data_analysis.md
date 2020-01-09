@@ -24,5 +24,5 @@ This work is being conducted in collaboration with ISIS Neutron and Muon Source 
 
 If you are using the large scale facilities and are interested in collaborating to make use of this "data analysis as a service"-like system, please [get in touch](mailto:andrew.mccluskey@diamond.ac.uk).
 
-In addition to applying these methods, I am also working closely with researchers at the University of Bath to develop statistically informed methods for the quantification of diffusion in battery materials. 
+In addition to applying these methods in reflectometry, I am also working closely with researchers at the University of Bath to develop statistically informed methods for the quantification of diffusion in battery materials. 
 This work involves the application of statistical techniques to accurately quantify the uncertainty in a given computational simulation. 
