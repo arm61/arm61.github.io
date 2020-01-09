@@ -9,7 +9,7 @@ posts: false
 
 X-ray and neutron reflectometry techniques probe the nanoscale structure of interfaces. 
 These measurements may be performed at large scale facilities, such as Diamond Light Source ([Beamline I07](https://www.diamond.ac.uk/Instruments/Structures-and-Surfaces/I07.html)) or [ISIS Neutron and Muon Source](https://www.isis.stfc.ac.uk/Pages/Reflectometry.aspx).
-In order to grow the use of this technique, in particular to engage non-traditional users, it is important to create methods to easily, and reproducibily, analyse the resulting data. 
+In order to grow the user-base for this technique, in particular to engage non-traditional users, it is important to fully information content of this method while developing tools to help in the automation and reproducibilty of the analysis. 
 
 <center><img src="/img/reflectometry.png" width="80%"></center>
 
