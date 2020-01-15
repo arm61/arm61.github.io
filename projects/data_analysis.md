@@ -9,9 +9,9 @@ posts: false
 
 The analysis of experimental data is fundamental to the physical and chemical sciences. 
 However, data analysis is rarely a trivial task, frequently being the most time-intensive part of a research project. 
-The use of data science methods, such as Bayesian inference and machine learning, has the ability to increase experimental throughput, improve analytical reproducibility, enable greater integration of theory, and possibly a allow for more complete understanding of the experimental technique.
+The use of data science methods, such as Bayesian inference and machine learning, has the ability to increase experimental throughput, improve analytical reproducibility, enable greater integration of theory, and possibly allow for more complete understanding of the experimental technique.
 
-Currently this work is being applied to the technique of X-ray and neutron reflectometry; which is a technique to probe the nanoscale structure of an interface. 
+Currently, this work is being applied to the technique of X-ray and neutron reflectometry; which is a technique to probe the nanoscale structure of an interface. 
 These measurements are typically conducted at large scale facilities, such as Diamond Light Source ([Beamline I07](https://www.diamond.ac.uk/Instruments/Structures-and-Surfaces/I07.html)) or [ISIS Neutron and Muon Source](https://www.isis.stfc.ac.uk/Pages/Reflectometry.aspx).
 This application involves using Bayesian inference and model selection to improve automation of analysis, allowing users to *hopefully* complete their beamtime with analysed data. 
 This work is a collaborative effort between Diamond Light Source, ISIS Neutron and Muon Source, and the University of Oxford.
