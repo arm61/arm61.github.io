@@ -5,6 +5,12 @@ description: "Some writing"
 header-img: "img/banner.png"
 ---
 
+[**Neutron reflectometry analysis: using model-dependent methods**](https://arxiv.org/abs/2003.08270)<br>
+<small>[Source](https://github.com/arm61/refl_maths) \| [arXiv](https://arxiv.org/abs/2003.08270)</small><br>
+*Submitted*, 2019<br>
+[Andrew R. McCluskey](https://orcid.org/0000-0003-3381-5911)\*<br>
+<small><i>A short tutorial on mathematical concepts of reflectometry analysis.</i></small>
+<hr>
 [**A general approach to maximise information density in neutron reflectometry analysis**](https://arxiv.org/abs/1910.10581)<br>
 <small>[ESI](https://github.com/arm61/model_select) \| [Data](https://github.com/arm61/model_select/tree/master/data) \| [arXiv](https://arxiv.org/abs/1910.10581)</small><br>
 *Submitted*, 2019<br>
