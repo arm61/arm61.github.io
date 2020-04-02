@@ -7,7 +7,7 @@ header-img: "img/banner.png"
 
 [**Neutron reflectometry analysis: using model-dependent methods**](https://arxiv.org/abs/2003.08270)<br>
 <small>[Source](https://github.com/arm61/refl_maths) \| [arXiv](https://arxiv.org/abs/2003.08270)</small><br>
-*Submitted*, 2019<br>
+*arXiv:2003.08270*, 2020<br>
 [Andrew R. McCluskey](https://orcid.org/0000-0003-3381-5911)\*<br>
 <small><i>A short tutorial on mathematical concepts of reflectometry analysis.</i></small>
 <hr>
