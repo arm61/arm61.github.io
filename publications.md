@@ -13,7 +13,7 @@ header-img: "img/banner.png"
 <hr>
 [**A general approach to maximise information density in neutron reflectometry analysis**](https://arxiv.org/abs/1910.10581)<br>
 <small>[ESI](https://github.com/arm61/model_select) \| [Data](https://github.com/arm61/model_select/tree/master/data) \| [arXiv](https://arxiv.org/abs/1910.10581)</small><br>
-*Submitted*, 2020<br>
+*Mach. Learn.: Sci. Technol.*, Accepted, 2020<br>
 [Andrew R. McCluskey](https://orcid.org/0000-0003-3381-5911)\*, [Thomas Arnold](https://orcid.org/0000-0001-7196-7831), Joshaniel F. K. Cooper, [Tim Snow](https://orcid.org/0000-0001-7146-6885)<br>
 <center><a href="https://arxiv.org/abs/1910.10581"><img src="https://raw.githubusercontent.com/arm61/bayes_mod/master/toc.png" width="80%"></a></center>
 <small><i>Outlining and applying a Bayesian model selection framework for neutron reflectometry analysis.</i></small>
