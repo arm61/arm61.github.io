@@ -9,7 +9,7 @@ header-img: "img/banner.png"
 <small>[Paper](https://github.com/arm61/uravu/blob/master/paper/paper.md) \| [Code](https://github.com/arm61/uravu)</small><br>
 *Submitted*, 2020<br>
 [Andrew R. McCluskey](https://orcid.org/0000-0003-3381-5911)\*, [Tim Snow](https://orcid.org/0000-0001-7146-6885)<br>
-<smaller><i>A straightforward library for Bayesian data analysis</i></small>
+<small><i>A straightforward library for Bayesian data analysis</i></small>
 <hr>
 [**Neutron reflectometry analysis: using model-dependent methods**](https://arxiv.org/abs/2003.08270)<br>
 <small>[Source](https://github.com/arm61/refl_maths) \| [arXiv](https://arxiv.org/abs/2003.08270)</small><br>
