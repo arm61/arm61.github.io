@@ -17,8 +17,8 @@ header-img: "img/banner.png"
 [Andrew R. McCluskey](https://orcid.org/0000-0003-3381-5911)\*<br>
 <small><i>A short tutorial on mathematical concepts of reflectometry analysis.</i></small>
 <hr>
-[**A general approach to maximise information density in neutron reflectometry analysis**](https://arxiv.org/abs/1910.10581)<br>
-<small>[ESI](https://github.com/arm61/model_select) \| [Data](https://github.com/arm61/model_select/tree/master/data) \| [arXiv](https://arxiv.org/abs/1910.10581)</small><br>
+[**A general approach to maximise information density in neutron reflectometry analysis**](https://doi.org/10.1088/2632-2153/ab94c4)<br>
+<small>[Paper](https://doi.org/10.1088/2632-2153/ab94c4) \| [ESI](https://github.com/arm61/model_select) \| [Data](https://github.com/arm61/model_select/tree/master/data) \| [arXiv](https://arxiv.org/abs/1910.10581)</small><br>
 *Mach. Learn.: Sci. Technol.*, Accepted, 2020<br>
 [Andrew R. McCluskey](https://orcid.org/0000-0003-3381-5911)\*, [Thomas Arnold](https://orcid.org/0000-0001-7196-7831), Joshaniel F. K. Cooper, [Tim Snow](https://orcid.org/0000-0001-7146-6885)<br>
 <small><i>Outlining and applying a Bayesian model selection framework for neutron reflectometry analysis.</i></small>
