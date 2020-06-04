@@ -14,7 +14,7 @@ header-img: "img/banner.png"
 <hr>
 [**uravu: Making Bayesian modelling easy(er)**](https://github.com/arm61/uravu/blob/master/paper/paper.md)<br>
 <small>[Paper](https://doi.org/10.21105/joss.02214) \| [Code](https://github.com/arm61/uravu) \| [Docs](https://uravu.readthedocs.io/en/latest/)</small><br>
-*J. Open Source Softw.*, **5**(50), 2214 2020<br>
+*J. Open Source Softw.*, **5**(50), 2214, 2020<br>
 [Andrew R. McCluskey](https://orcid.org/0000-0003-3381-5911)\*, [Tim Snow](https://orcid.org/0000-0001-7146-6885)<br>
 <small><i>A straightforward library for Bayesian data analysis.</i></small>
 <hr>
