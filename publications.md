@@ -8,7 +8,7 @@ header-img: "img/banner.png"
 
 [**A general approach to maximise information density in neutron reflectometry analysis**](https://doi.org/10.1088/2632-2153/ab94c4)<br>
 <small>[Paper](https://doi.org/10.1088/2632-2153/ab94c4) \| [ESI](https://github.com/arm61/model_select) \| [Data](https://github.com/arm61/model_select/tree/master/data) \| [arXiv](https://arxiv.org/abs/1910.10581)</small><br>
-*Mach. Learn.: Sci. Technol.*, Accepted, 2020<br>
+*Mach. Learn.: Sci. Technol.*, **1**(3), 035002, 2020<br>
 [Andrew R. McCluskey](https://orcid.org/0000-0003-3381-5911)\*, [Thomas Arnold](https://orcid.org/0000-0001-7196-7831), Joshaniel F. K. Cooper, [Tim Snow](https://orcid.org/0000-0001-7146-6885)<br>
 <small><i>Outlining and applying a Bayesian model selection framework for neutron reflectometry analysis.</i></small>
 <hr>
@@ -17,12 +17,6 @@ header-img: "img/banner.png"
 *J. Open Source Softw.*, **5**(50), 2214, 2020<br>
 [Andrew R. McCluskey](https://orcid.org/0000-0003-3381-5911)\*, [Tim Snow](https://orcid.org/0000-0001-7146-6885)<br>
 <small><i>A straightforward library for Bayesian data analysis.</i></small>
-<hr>
-[**Neutron reflectometry analysis: using model-dependent methods**](https://arxiv.org/abs/2003.08270)<br>
-<small>[Source](https://github.com/arm61/refl_maths) \| [arXiv](https://arxiv.org/abs/2003.08270)</small><br>
-*arXiv:2003.08270*, 2020<br>
-[Andrew R. McCluskey](https://orcid.org/0000-0003-3381-5911)\*<br>
-<small><i>A short tutorial on mathematical concepts of reflectometry analysis.</i></small>
 <hr>
 [**Coarse-grained modelling for soft-matter scattering**](https://researchportal.bath.ac.uk/files/192785635/ARM_thesis.pdf)<br>
 <small>[Thesis](https://researchportal.bath.ac.uk/files/192785635/ARM_thesis.pdf) \| [ESI](https://github.com/arm61/thesis)</small><br>
