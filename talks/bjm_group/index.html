@@ -14,7 +14,7 @@
 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-	<title>bayesian_analysis</title>
+	<title>Probabilistic analysis</title>
 
   <!-- Reveal themes -->
   <link rel="stylesheet" href="./example_files/reveal.css">
@@ -54,78 +54,27 @@
 
 	<!-- Slides start here -->
     <div class="slides" style="width: 1920px; height: 941px;">
-
-        <section class="stack present" style="display: block;" data-previous-indexv="0">
-			<section class="color--grad-white past" id="" style="display: block;" hidden="" aria-hidden="true">
-				<div class="grid-wrapper">
-					<div class="header">
-					</div>
-					<div class="content">
-						<center>
-                            <h1>Forthcoming SSCC Seminars</h1>
-                            <table>
-                                <tr style="border-bottom:1px solid #888888">
-                                    <th>
-                                        Date
-                                    </th>
-                                    <th>
-                                        Presenter
-                                    </th>
-                                    <th>
-                                        Title
-                                    </th>
-                                </tr>
-                                <tr style="border-bottom:1px solid #888888">
-                                    <td>15-07-2020</td>
-                                    <td>Ken Jones</td>
-                                    <td>Omron-Beckhoff-SMC EtherCAT RIO's and VACC Valves</td>
-                                </tr>
-                                <tr style="border-bottom:1px solid #888888">
-                                    <td>29-07-2020</td>
-                                    <td>SPACE AVAILABLE</td>
-                                    <td>SPACE AVAILABLE</td>
-                                </tr>
-                                <tr style="border-bottom:1px solid #888888">
-                                    <td>09-08-2020</td>
-                                    <td>Brian Nutter</td>
-                                    <td>Motion 101 + Delta Tau</td>
-                                </tr>
-                                <tr style="border-bottom:1px solid #888888">
-                                    <td>23-08-2020</td>
-                                    <td>Win Tun</td>
-                                    <td>Image data analysis with SuRVoS and Citizen Science</td>
-                                </tr>
-                            </table>
-                            <br>Volunteers to present future seminars from July 2020 are required. 
-                            <br>Please contact Shoaib Khaja or Mark Heron with a proposed topic.
-						</center>
-					</div>
-				</div>
-			</section>
-		</section>
-
 		<!-- These are the introductory slides -->
 		<section class="stack past" style="display: none;" data-previous-indexv="0" hidden="" aria-hidden="true">
 			<section class="title" id="title" style="display: none;" aria-hidden="true">
 				<div class="grid-wrapper">
 					<div class="content">
 						<h1>
-							Bayesian data analysis and its application to data measured at RAL 
+							Probabilistic data analysis: an introduction
 						</h1>
 						<div class="description">
-							Technical Seminar &mdash; 2020/07/01
+							Morgan Group Meeting&mdash; 2020/07/07
 						</div>
 					</div>
 					<div class="credit">
 						<hr>
                         <div class="name"><a href="https://armccluskey.com">Andrew R. McCluskey</a></div>
-                        <div class="label">Data Analysis Scientist - Reflectivity</div>
 						<div class="label"><a href="mailto:andrew.mccluskey@diamond.ac.uk"><i class="fas fa-at social_icon"></i><span>&nbsp;andrew.mccluskey@diamond.ac.uk</span></a></div>
 						<div class="label"><a href="https://twitter.com/an_drewmcc"><i class="fab fa-twitter social_icon"></i><span>&nbsp;an_drewmcc</span></a></div>
 						<div class="label"><a href="https://armccluskey.com"><i class="fas fa-mars social_icon"></i><span>&nbsp;&nbsp;(he/him)</span></a></div>
                     </div>
-                    <a class="presentation-url" href="http://armccluskey.com/talks/tech_seminar">
-                        arm61.github.io/talks/vicephec18</a>
+                    <a class="presentation-url" href="http://armccluskey.com/talks/bjm_group">
+                        armccluskey.com/talks/bjm_group</a>
 					<div class="logo">
 					</div>
 				</div>
@@ -142,51 +91,12 @@
 					</div>
 					<div class="content">
 						<center>
-                            <h1>Bayesian inference</h1>
-                            <br>
-                            <img src='figures/Thomas_Bayes.gif' width="25%">
-                            <br>
-                            probably not Thomas Bayes
+                            <h1>probability distribution</h1>
+                            A mathetmmatical description of chance.
 						</center>
 					</div>
 				</div>
             </section>
-            <section class="color--grad-white past" id="" style="display: block;">
-				<div class="grid-wrapper">
-					<div class="header">
-						<div class="twitterblue">
-							<a href="mailto:andrew.mccluskey@diamond.ac.uk"><i class="fas fa-at"></i><span> andrew.mccluskey@diamond.ac.uk</span></a>
-						</div>
-					</div>
-					<div class="content">
-						<center>
-                            <h1>use in reflectometry</h1>
-                            <a href="https://doi.org/10.1039/C9CP00203K"><img src='figures/dmpc3_all_corner.png' width='35%'></img></a>
-                            <a href="https://doi.org/10.1088/2632-2153/ab94c4"><img src='figures/best_per.png' width='40%'></img></a>
-                        </center>
-					</div>
-				</div>
-            </section>
-
-		</section>
-
-		<section class="stack present" style="display: block;" data-previous-indexv="0">
-			<section class="color--grad-purple past" id="" style="display: block;" hidden="" aria-hidden="true">
-				<div class="grid-wrapper">
-					<div class="header">
-						<div class="twitterwhite">
-							<a href="mailto:andrew.mccluskey@diamond.ac.uk"><i class="fas fa-at"></i><span> andrew.mccluskey@diamond.ac.uk</span></a>
-						</div>
-					</div>
-					<div class="content">
-						<center>
-                            <h1>model-dependent analysis</h1>
-                            this is where we use some functional <i>model</i> to interpret our data
-						</center>
-					</div>
-				</div>
-			</section>
-
 			<section class="color--grad-white past" id="" style="display: block;">
 				<div class="grid-wrapper">
 					<div class="header">
@@ -196,8 +106,8 @@
 					</div>
 					<div class="content">
 						<center>
-                            <h1>some data</h1>
-                            <img src='figures/data.png' width='50%'></img>
+                            <h1>probability density function</h1>
+                            <img src='figures/px.png' width='50%'></img>
                         </center>
 					</div>
 				</div>
@@ -212,24 +122,8 @@
 					</div>
 					<div class="content">
 						<center>
-                            <h1>a model</h1>
-                            $$M(\Theta, x) \equiv y =mx + c $$
-                        </center>
-					</div>
-				</div>
-            </section>
-
-            <section class="color--grad-white past" id="" style="display: block;">
-				<div class="grid-wrapper">
-					<div class="header">
-						<div class="twitterblue">
-							<a href="mailto:andrew.mccluskey@diamond.ac.uk"><i class="fas fa-at"></i><span> andrew.mccluskey@diamond.ac.uk</span></a>
-						</div>
-					</div>
-					<div class="content">
-						<center>
-                            <h1>a straight line fit</h1>
-                            <img src='figures/straight_line.png' width='50%'></img>
+                            <h1>normal distribution</h1>
+                            $$p(x) \equiv \mathcal{N}(\mu, \sigma^2) = \frac{1}{\sigma \sqrt{2\pi}}\exp{\Bigg(-\frac{1}{2}\bigg[\frac{x-\mu}{\sigma}\bigg]^2\Bigg)}$$
                         </center>
 					</div>
 				</div>
@@ -237,7 +131,7 @@
         </section>
 
         <section class="stack present" style="display: block;" data-previous-indexv="0">
-			<section class="color--grad-green past" id="" style="display: block;" hidden="" aria-hidden="true">
+			<section class="color--grad-purple past" id="" style="display: block;" hidden="" aria-hidden="true">
 				<div class="grid-wrapper">
 					<div class="header">
 						<div class="twitterwhite">
@@ -246,10 +140,9 @@
 					</div>
 					<div class="content">
 						<center>
-                            <h1>Bayes-ics</h1>
-                            <br>
-                            $$\text{posterior}(M, \Theta) = \frac{\text{likelihood}(M, \Theta)\times \text{prior}(M, \Theta)}{\text{evidence}(M)}$$
-						</center>
+                            <h1>probabilistic data</h1>
+                            Probably a lot more familiar than you think
+                        </center>
 					</div>
 				</div>
 			</section>
@@ -263,10 +156,8 @@
 					</div>
 					<div class="content">
 						<center>
-                        <h1>likelihood</h1>
-                        if the uncertainties are normally distributed 
-                        <br><br>
-                        $$\mathcal{L}(M, \Theta) = \exp\bigg(-\frac{1}{2} \sum{\bigg\{\frac{[y - M(\Theta, x)] ^ 2}{\delta y ^ 2} + \ln(\delta y ^ 2)\bigg\}}\bigg)$$
+                        <h1>data</h1>
+                        <img src='figures/data.png' width='50%'></img>
 					</center>
 					</div>
 				</div>
@@ -281,123 +172,8 @@
 					</div>
 					<div class="content">
 						<center>
-                        <h1>likelihood</h1>
-                        the likelihood is a probability distribution that describes the agreement between model and data
-                        <br><br>
-                        <img src='figures/likelihood.png' width='40%'></img>
-					</center>
-					</div>
-				</div>
-            </section>
-            
-            <section class="color--grad-white past" id="" style="display: block;">
-				<div class="grid-wrapper">
-					<div class="header">
-						<div class="twitterblue">
-							<a href="mailto:andrew.mccluskey@diamond.ac.uk"><i class="fas fa-at"></i><span> andrew.mccluskey@diamond.ac.uk</span></a>
-						</div>
-					</div>
-					<div class="content">
-						<center>
-                        <h1>priors</h1>
-                        in model-dependent analysis, we might know something about the system before the analysis
-                        <br><br>
-                        <img src='figures/priors.png' width='40%'></img>
-					</center>
-					</div>
-				</div>
-            </section>
-
-            <section class="color--grad-white past" id="" style="display: block;">
-				<div class="grid-wrapper">
-					<div class="header">
-						<div class="twitterwhite">
-							<a href="mailto:andrew.mccluskey@diamond.ac.uk"><i class="fas fa-at"></i><span> andrew.mccluskey@diamond.ac.uk</span></a>
-						</div>
-					</div>
-					<div class="content">
-						<center>
-                            <h1>posterior</h1>
-                            <br>
-                            $$\text{posterior}(M, \Theta) \propto \text{likelihood}(M, \Theta)\times \text{prior}(M, \Theta)$$
-                            <br> 
-                            we will return to the evidence in a bit
-						</center>
-					</div>
-				</div>
-            </section>
-            
-            <section class="color--grad-white past" id="" style="display: block;">
-				<div class="grid-wrapper">
-					<div class="header">
-						<div class="twitterblue">
-							<a href="mailto:andrew.mccluskey@diamond.ac.uk"><i class="fas fa-at"></i><span> andrew.mccluskey@diamond.ac.uk</span></a>
-						</div>
-					</div>
-					<div class="content">
-						<center>
-                        <h1>posterior</h1>
-                        what we know can influence the analysis 
-                        <br><br>
-                        <img src='figures/posterior.png' width='40%'></img>
-					</center>
-					</div>
-				</div>
-            </section>
-
-            <section class="color--grad-white past" id="" style="display: block;">
-				<div class="grid-wrapper">
-					<div class="header">
-						<div class="twitterblue">
-							<a href="mailto:andrew.mccluskey@diamond.ac.uk"><i class="fas fa-at"></i><span> andrew.mccluskey@diamond.ac.uk</span></a>
-						</div>
-					</div>
-					<div class="content">
-						<center>
-                        <h1>posterior vs. likelihood</h1>
-                        <img src='figures/posterior.png' width='40%'></img>
-                        <img src='figures/likelihood.png' width='40%'></img>
-                        <br>
-                        <table width='90%'>
-                            <tr>
-                                <td>posterior</td>
-                                <td>likelihood</td>
-                            </tr>
-                        </table>
-					</center>
-					</div>
-				</div>
-            </section>
-            
-            <section class="color--grad-white past" id="" style="display: block;">
-				<div class="grid-wrapper">
-					<div class="header">
-						<div class="twitterblue">
-							<a href="mailto:andrew.mccluskey@diamond.ac.uk"><i class="fas fa-at"></i><span> andrew.mccluskey@diamond.ac.uk</span></a>
-						</div>
-					</div>
-					<div class="content">
-						<center>
-                        <h1>the effect on our straight line</h1>
-                        <img src='figures/bayes_line.png' width='45%'></img>
-					</center>
-					</div>
-				</div>
-            </section>
-
-            <section class="color--grad-white past" id="" style="display: block;">
-				<div class="grid-wrapper">
-					<div class="header">
-						<div class="twitterblue">
-							<a href="mailto:andrew.mccluskey@diamond.ac.uk"><i class="fas fa-at"></i><span> andrew.mccluskey@diamond.ac.uk</span></a>
-						</div>
-					</div>
-					<div class="content">
-						<center>
-                        <h1>evidence</h1>
-                        $$\text{evidence} = \iint \big[\text{likelihood}(\Theta) \times \text{prior}(\Theta)\big] \text{d}\Theta$$
-                        <br>
-                        this is a multi-dimensional integral, so is hard to calculate
+                        <h1>data</h1>
+                        <img src='figures/data_p.png' width='100%'></img>
 					</center>
 					</div>
 				</div>
@@ -414,10 +190,10 @@
 					</div>
 					<div class="content">
 						<center>
-                            <h1>some practicalities</h1>
-                            we can use:
-                            <li>markov-chain monte carlo to sample the posterior distribution</li>
-                            <li>nested sampling to estimate the evidence</li>
+                            <h1>model-dependent analysis</h1>
+                            We propose a model, \(M(\Theta,x)\), and vary the parameters, \(\Theta\), to maximise<br>the likelihood, \(\mathcal{L}\),
+                            <br><br>
+                            $$\mathcal{L} = \sum{p_y[M(\Theta,x)]}$$
                         </center>
 					</div>
 				</div>
@@ -432,7 +208,9 @@
 					</div>
 					<div class="content">
 						<center>
-                        <a href='https://uravu.readthedocs.io/en/latest/mcmc.html' target="_blank"><h1>markov-chain monte carlo</h1></a>
+                            <h1>model-dependent analysis</h1>
+                            <img src='figures/fitted.png' width='100%'></img>
+                            $$M(\Theta, x) \equiv y = m x + c$$
 					</center>
 					</div>
 				</div>
@@ -447,7 +225,42 @@
 					</div>
 					<div class="content">
 						<center>
-                        <a href='https://uravu.readthedocs.io/en/latest/nested_sampling.html' target="_blank"><h1>nested sampling</h1></a>
+                        <h1>gradient descent</h1>
+                        <code>popt, pcov = scipy.optimize.curve_fit(model, x, y, sigma=dy)</code>
+					</center>
+					</div>
+				</div>
+            </section>
+
+            <section class="color--grad-white past" id="" style="display: block;">
+				<div class="grid-wrapper">
+					<div class="header">
+						<div class="twitterblue">
+							<a href="mailto:andrew.mccluskey@diamond.ac.uk"><i class="fas fa-at"></i><span> andrew.mccluskey@diamond.ac.uk</span></a>
+						</div>
+					</div>
+					<div class="content">
+						<center>
+                        <h1>parameter space</h1>
+                        <img src='figures/curve_fit.png' width='40%'></img> 
+					</center>
+					</div>
+				</div>
+            </section>
+
+            <section class="color--grad-white past" id="" style="display: block;">
+				<div class="grid-wrapper">
+					<div class="header">
+						<div class="twitterblue">
+							<a href="mailto:andrew.mccluskey@diamond.ac.uk"><i class="fas fa-at"></i><span> andrew.mccluskey@diamond.ac.uk</span></a>
+						</div>
+					</div>
+					<div class="content">
+						<center>
+                        <h1>assumptions</h1>
+                        <li>The measured uncertainties <b>must</b> correctly describe the population variance</li>
+                        <li>The model is an <b>accurate</b> and <b>complete</b> description of the data</li>
+                        <li>The parameter space <b>must</b> be monomodal and Gaussian</li>
 					</center>
 					</div>
 				</div>
@@ -464,7 +277,154 @@
 					</div>
 					<div class="content">
 						<center>
-                            <h1>use with RAL data</h1>
+                            <h1>sampling</h1>
+                            To overcome these assumptions, we sample. 
+                        </center>
+					</div>
+				</div>
+            </section>
+
+            <section class="color--grad-white past" id="" style="display: block;">
+				<div class="grid-wrapper">
+					<div class="header">
+						<div class="twitterblue">
+							<a href="mailto:andrew.mccluskey@diamond.ac.uk"><i class="fas fa-at"></i><span> andrew.mccluskey@diamond.ac.uk</span></a>
+						</div>
+					</div>
+					<div class="content">
+						<center>
+                        <h1>markov chain monte carlo</h1>
+					</center>
+					</div>
+				</div>
+            </section>
+
+            <section class="color--grad-white past" id="" style="display: block;">
+				<div class="grid-wrapper">
+					<div class="header">
+						<div class="twitterblue">
+							<a href="mailto:andrew.mccluskey@diamond.ac.uk"><i class="fas fa-at"></i><span> andrew.mccluskey@diamond.ac.uk</span></a>
+						</div>
+					</div>
+					<div class="content">
+						<center>
+                        <h1>comparison</h1>
+                        <img src="figures/mcmc_c.png" width="50%">
+					</center>
+					</div>
+				</div>
+            </section>
+
+            <section class="color--grad-white past" id="" style="display: block;">
+				<div class="grid-wrapper">
+					<div class="header">
+						<div class="twitterblue">
+							<a href="mailto:andrew.mccluskey@diamond.ac.uk"><i class="fas fa-at"></i><span> andrew.mccluskey@diamond.ac.uk</span></a>
+						</div>
+					</div>
+					<div class="content">
+						<center>
+                        <h1>nested sampling</h1>
+					</center>
+					</div>
+				</div>
+            </section>
+        </section>
+
+		<section class="stack present" style="display: block;" data-previous-indexv="0">
+			<section class="color--grad-purple past" id="" style="display: block;" hidden="" aria-hidden="true">
+				<div class="grid-wrapper">
+					<div class="header">
+						<div class="twitterwhite">
+							<a href="mailto:andrew.mccluskey@diamond.ac.uk"><i class="fas fa-at"></i><span> andrew.mccluskey@diamond.ac.uk</span></a>
+						</div>
+					</div>
+					<div class="content">
+						<center>
+							<h1>bayesian</h1>
+							Bayesian methods allow us to inform analysis with prior knowledge
+						</center>
+					</div>
+				</div>
+            </section>
+            
+            <section class="color--grad-white past" id="" style="display: block;">
+				<div class="grid-wrapper">
+					<div class="header">
+						<div class="twitterblue">
+							<a href="mailto:andrew.mccluskey@diamond.ac.uk"><i class="fas fa-at"></i><span> andrew.mccluskey@diamond.ac.uk</span></a>
+						</div>
+					</div>
+					<div class="content">
+						<center>
+                        <h1>bayes theorem</h1>
+                        $$\text{posterior}(M, \Theta) = \frac{\text{likelihood}(M, \Theta)\times \text{prior}(M, \Theta)}{\text{evidence}(M)} \propto \text{likelihood}(M, \Theta)\times \text{prior}(M, \Theta)$$
+					</center>
+					</div>
+				</div>
+            </section>
+
+            <section class="color--grad-white past" id="" style="display: block;">
+				<div class="grid-wrapper">
+					<div class="header">
+						<div class="twitterblue">
+							<a href="mailto:andrew.mccluskey@diamond.ac.uk"><i class="fas fa-at"></i><span> andrew.mccluskey@diamond.ac.uk</span></a>
+						</div>
+					</div>
+					<div class="content">
+						<center>
+                        <h1>priors</h1>
+                        <img src="figures/priors.png" width="50%">
+					</center>
+					</div>
+				</div>
+            </section>
+
+            <section class="color--grad-white past" id="" style="display: block;">
+				<div class="grid-wrapper">
+					<div class="header">
+						<div class="twitterblue">
+							<a href="mailto:andrew.mccluskey@diamond.ac.uk"><i class="fas fa-at"></i><span> andrew.mccluskey@diamond.ac.uk</span></a>
+						</div>
+					</div>
+					<div class="content">
+						<center>
+                        <h1>evidence</h1>
+                        $$\text{evidence}(M) = \iint \big[\text{likelihood}(M, \Theta) \times \text{prior}(M, \Theta)\big] \text{d}\Theta$$
+                        <br>
+                        this is a multi-dimensional integral, so is hard to calculate
+					</center>
+					</div>
+				</div>
+            </section>
+
+            <section class="color--grad-white past" id="" style="display: block;">
+				<div class="grid-wrapper">
+					<div class="header">
+						<div class="twitterblue">
+							<a href="mailto:andrew.mccluskey@diamond.ac.uk"><i class="fas fa-at"></i><span> andrew.mccluskey@diamond.ac.uk</span></a>
+						</div>
+					</div>
+					<div class="content">
+						<center>
+                        <h1>nested sampling</h1>
+					</center>
+					</div>
+				</div>
+            </section>
+        </section>
+        
+        <section class="stack present" style="display: block;" data-previous-indexv="0">
+			<section class="color--grad-green past" id="" style="display: block;" hidden="" aria-hidden="true">
+				<div class="grid-wrapper">
+					<div class="header">
+						<div class="twitterwhite">
+							<a href="mailto:andrew.mccluskey@diamond.ac.uk"><i class="fas fa-at"></i><span> andrew.mccluskey@diamond.ac.uk</span></a>
+						</div>
+					</div>
+					<div class="content">
+						<center>
+                            <h1>use with reflectometry</h1>
                         </center>
 					</div>
 				</div>
@@ -480,7 +440,7 @@
 					<div class="content">
 						<center>
                         <h1>phospholipid monolayers</h1>
-                        <img src="figures/lipids_at_airdes.png" width="60%">
+                        <img src="../tech_seminar/figures/lipids_at_airdes.png" width="60%">
                         <br>
                         <br>
                         <a href="https://doi.org/10.1039/C9CP00203K">McCluskey <i>et al.</i>, <i>Phys. Chem. Chem. Phys.</i>, <b>21</b>(11), 6133, 2019.</a>
@@ -498,8 +458,8 @@
 					</div>
 					<div class="content">
 						<center>
-                        <h1>dmpc</h1>
-                        <img src="figures/vols.png" width="90%">
+                            <h1>head groups volume</h1>
+                            <img src="../tech_seminar/figures/vols.png" width="90%">
 					</center>
 					</div>
 				</div>
@@ -515,7 +475,7 @@
 					<div class="content">
 						<center>
                           <h1>maximising information density</h1>
-                          <img src="figures/toc.png" width="60%">
+                          <img src="../tech_seminar/figures/toc.png" width="60%">
                           <br>
                           <br>
                           <a href="https://doi.org/10.1088/2632-2153/ab94c4">McCluskey <i>et al.</i>, <i>Mach. Learn.: Sci. Techno.</i>, Accepted, 2020.</a>
@@ -534,7 +494,7 @@
 					<div class="content">
 						<center>
                         <h1>model selection</h1>
-                        <img src="figures/evidence.png" width="100%">
+                        <img src="../tech_seminar/figures/evidence.png" width="100%">
 					</center>
 					</div>
 				</div>
@@ -550,38 +510,12 @@
 					<div class="content">
 						<center>
                         <h1>model selection</h1>
-                        <img src="figures/best_per.png" width="50%">
+                        <img src="../tech_seminar/figures/best_per.png" width="50%">
 					</center>
 					</div>
 				</div>
             </section>
         </section>
-
-		<section class="stack present" style="display: block;" data-previous-indexv="0">
-			<section class="color--grad-purple past" id="" style="display: block;" hidden="" aria-hidden="true">
-				<div class="grid-wrapper">
-					<div class="header">
-						<div class="twitterwhite">
-							<a href="mailto:andrew.mccluskey@diamond.ac.uk"><i class="fas fa-at"></i><span> andrew.mccluskey@diamond.ac.uk</span></a>
-						</div>
-					</div>
-					<div class="content">
-						<center>
-							<h1>ongoing research</h1>
-							<li>investigating the effect of analytical models on resolution; in collaboration with ISIS</li>
-                            <li>improving access to Bayesian methods with the uravu package</li>
-                            <li>co-refinement of X-ray and neutron reflectometry</li><br>
-                            <h1>further reading</h1>
-                            <li>D. S. Sivia and J. Skilling, <i>Data Analysis: A Bayesian Tutorial</i>, 2nd ed. (Oxford University Press, Oxford, UK, 2005)</li>
-                            <li><a href="https://doi.org/10.21105/joss.02214">McCluskey and Snow, <i>J. Open Source Softw.</i>, <b>5</b>(50), 2214, 2020</a></li>
-                            <li><a href="https://doi.org/10.1039/C9CP00203K">McCluskey <i>et al.</i>, <i>Phys. Chem. Chem. Phys.</i>, <b>21</b>(11), 6133, 2019.</a></li>
-                            <li><a href="https://doi.org/10.1088/2632-2153/ab94c4">McCluskey <i>et al.</i>, <i>Mach. Learn.: Sci. Techno.</i>, Accepted, 2020.</a></li>
-                            <li><a href="https://uravu.readthedocs.io">uravu.readthedocs.io</a></li>
-						</center>
-					</div>
-				</div>
-			</section>
-		</section>
 
 		<!-- Acknowledgements -->
 		<section class="stack present" style="display: block;" data-previous-indexv="0">
@@ -593,43 +527,12 @@
 						</div>
 					</div>
 					<div class="content"><center>
-                        <h1>acknowledgements</h1>
-                        <table>
-                            <tr>
-                                <td>
-                                    Tim Snow (DLS)
-                                </td>
-                                <td>
-                                    Jos Cooper (ISIS)
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    Tom Arnold (ESS)
-                                </td>
-                                <td>
-                                    Karen Edler (Bath)
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    Adrian Sanchez-Fernandez (Lund)
-                                </td>
-                                <td>
-                                    Stephen Parker (Bath)
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    Andrew Jackson (ESS)
-                                </td>
-                                <td>
-                                    Richard Campbell (Manchester)
-                                </td>
-                            </tr>
-                        </table>
-						<h1>funding</h1>
-							<img src="./figures/ALC_wht.png" width="25%">
+                        <h1>reading list</h1>
+                        <li>D. S. Sivia and J. Skilling, <i>Data Analysis: A Bayesian Tutorial</i>, 2nd ed. (Oxford University Press, Oxford, UK, 2005)</li>
+                        <li><a href="https://doi.org/10.21105/joss.02214">McCluskey and Snow, <i>J. Open Source Softw.</i>, <b>5</b>(50), 2214, 2020</a></li>
+                        <li><a href="https://doi.org/10.1039/C9CP00203K">McCluskey <i>et al.</i>, <i>Phys. Chem. Chem. Phys.</i>, <b>21</b>(11), 6133, 2019.</a></li>
+                        <li><a href="https://doi.org/10.1088/2632-2153/ab94c4">McCluskey <i>et al.</i>, <i>Mach. Learn.: Sci. Techno.</i>, Accepted, 2020.</a></li>
+                        <li><a href="https://uravu.readthedocs.io">uravu.readthedocs.io</a></li>
 						</center>
 					</div>
 				</div>
@@ -646,9 +549,9 @@
 				<div class="content">
                     <h1>Questions?</h1>
 					<figure class="display">
-						<img src="./figures/grad.jpg" width="42.3%"><img src="./figures/harrison.jpeg" width="50%">
+						<img src="./figures/grad.jpg" width="40%">
 					</figure>
-					<h4>Penny and Sadie, good dogs; and graduating with the boss</h4>
+					<h4>Penny and Sadie, good dogs</h4>
 				</div>
 			</div>
 		</section>
