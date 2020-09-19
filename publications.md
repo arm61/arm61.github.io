@@ -7,7 +7,7 @@ header-img: "img/banner.png"
 
 [**Disordered Filaments Mediate the Fibrillogenesis of Type-I Collagen in Solution**](https://doi.org/10.1021/acs.biomac.0c00667)<br>
 <small>[Paper](https://doi.org/10.1021/acs.biomac.0c00667)</small><br>
-*Biomacromolecules*, Accepted, 2020<br>
+*Biomacromolecules*, **21**(9), 3631, 2020<br>
 [Andrew R. McCluskey](https://orcid.org/0000-0003-3381-5911), Kennes S. W. Hung, [Bartosz Marzec](https://orcid.org/0000-0002-2263-5918), Julien O. Sindt, [Nico A. J. M. Sommerdijk](https://orcid.org/0000-0002-8956-195X), [Philip J. Camp](https://orcid.org/0000-0002-7901-1364), [Fabio Nudelman](https://orcid.org/0000-0001-7464-4309)<br>
 <small><i>Using cryogenic transmission electron microscopy and coarse-grained simulations to study the formation of collagen fibrils.</i></small>
 <hr>
