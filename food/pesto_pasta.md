@@ -17,7 +17,7 @@ header-img: "img/banner.png"
 
 ## Recipe
 
-1. Cook the pasta till it is like al dente, reserve like a ladel-full of the pasta water and drain.
+1. Cook the pasta till it is like al dente, reserve like a ladle-full of the pasta water and drain.
 2. Put everything else (not the mixins) and put them in the food processor with salt, pepper, and some olive oil, then blitz till it is a pretty smooth paste.
 3. Add the pesto to the pasta, then use the reserved water to rinse the food processor into the pasta.
 4. Put the pasta back on the heat and cook until glossyAF or the water has mostly evaporated.
