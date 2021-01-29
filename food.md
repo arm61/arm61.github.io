@@ -5,5 +5,5 @@ description: "A record of food, that is vegan"
 header-img: "img/banner.png"
 ---
 
-- [Vegan Fried Rice](./food/vegan_fried_rice)
-- [Pesto Pasta](./food/pesto_pasta)
+- [Vegan Fried Rice](./vegan_fried_rice)
+- [Pesto Pasta](./pesto_pasta)

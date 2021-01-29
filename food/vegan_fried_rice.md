@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Vegan Fried Rice"
+description: ""
 header-img: "img/banner.png"
 ---
 
