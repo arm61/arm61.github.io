@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Pesto Pasta"
+title: "Stir Fry"
 description: ""
 header-img: "img/banner.png"
 ---
@@ -27,7 +27,7 @@ header-img: "img/banner.png"
 - Once the oil is hot, place each tofu block in the oil to fry, after like 4 minutes or so flip them (I use chopsticks for this cause the hot oil burns) and cook another 3 minutes.
 - Transfer the tofu blocks to a plate with some kitchen roll on it.
 - Pour the majority of the oil into something to let it cool (like a jar), but leave enough to coat the bottom of the pan, and pop it back on the stove and turn the heat down a bit.
-- Add the onions, carrot, garlic and ginger to the pan and cook them for like 5 minutes then add the mushrooms, agave and some soy sauce (and rice vinegar/sesame oil if using). 
+- Add the onions, carrot, garlic and ginger to the pan and cook them for like 5 minutes then add the mushrooms, agave and some soy sauce (and rice vinegar/sesame oil if using).
 - Now cook the noodles based on what the packaging says.
 - Once the noodz are ready, drain them and add them to the veggie pan along with the cooked tofu.
 - Fry this on med/high to bring everything together and heat the tofu up.
