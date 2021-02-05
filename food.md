@@ -8,3 +8,4 @@ header-img: "img/banner.png"
 - [Vegan Fried Rice](./vegan_fried_rice)
 - [Pesto Pasta](./pesto_pasta)
 - [Stir Fry Noodz](./stir_fry)
+- [Simple Ramen](./simple_ramen)
