@@ -14,7 +14,7 @@
 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-	<title>bayesian_analysis</title>
+	<title>trad_ml_methods</title>
 
   <!-- Reveal themes -->
   <link rel="stylesheet" href="./css_etc/reveal.css">
@@ -154,6 +154,7 @@
 					<div class="content">
 						<center>
               <h1>Classification</h1>
+              Making use of labelled data
 						</center>
 					</div>
 				</div>
@@ -166,8 +167,61 @@
 					</div>
 					<div class="content">
 						<center>
-              <h1>some data</h1>
-              <pre><code class='black'>print('hello world')print('hello world')print('hello world')print('hello world')</code></pre>
+              <h1>Decision Trees</h1>
+              <ul>
+                <li>We segment our labelled training data</li>
+                <li>We can then use these segmentations to classify new data</li>
+                <li>Can anyone think of a common application of decision trees?</li>
+              </ul>
+            </center>
+					</div>
+				</div>
+      </section>
+
+      <section class="color--black past" id="" style="display: block;">
+				<div class="grid-wrapper">
+					<div class="header">
+            <div class="logo"></div>
+					</div>
+					<div class="content">
+						<center>
+              <h1>Correct! Buzzfeed Quizzes</h1>
+              <a href="https://www.buzzfeed.com/jenniferabidor/which-paul-rudd-character-are-you"><img src="./trad_ml_methods/paul_rudd.png" width="50%"></a>
+            </center>
+					</div>
+				</div>
+      </section>
+
+      <section class="color--black past" id="" style="display: block;">
+				<div class="grid-wrapper">
+					<div class="header">
+            <div class="logo"></div>
+					</div>
+					<div class="content">
+						<center>
+              <h1>Random Forest</h1>
+              <ul>
+                <li>To get a probabilistic (and more complete) classification to can use many trees</li>
+              </ul>
+              <br><br>
+              <img src="./trad_ml_methods/forest.png" width="60%">
+            </center>
+					</div>
+				</div>
+      </section>
+
+      <section class="color--black past" id="" style="display: block;">
+				<div class="grid-wrapper">
+					<div class="header">
+            <div class="logo"></div>
+					</div>
+					<div class="content">
+						<center>
+              <a href="https://mccluskey.scot/trad_ml_methods/classification.html">
+                <h1>Let's code</h1>
+                <br>
+                <img src="https://media3.giphy.com/media/YQitE4YNQNahy/giphy.gif?cid=ecf05e474zb7654l71r2gi24xmobyldiybnm9gj7kbdpg8ap&rid=giphy.gif" width="50%">
+              </a>
             </center>
 					</div>
 				</div>
@@ -185,6 +239,7 @@
 					<div class="content">
 						<center>
               <h1>Clustering</h1>
+              What if I don't have labels?
 						</center>
 					</div>
 				</div>
@@ -197,14 +252,70 @@
 					</div>
 					<div class="content">
 						<center>
-              <h1>some data</h1>
-              <pre><code class='black'>print('hello world')print('hello world')print('hello world')print('hello world')</code></pre>
+              <h1><i>k</i>-means clustering</h1>
+              <ul>
+                <li>This uses a simple algorithm to find data with similar values</li>
+                <li>The similar data are then grouped together</li>
+              </ul>
+            </center>
+					</div>
+				</div>
+      </section>
+
+      <section class="color--white past" id="" style="display: block;">
+				<div class="grid-wrapper">
+					<div class="header">
+            <div class="logo"></div>
+					</div>
+					<div class="content">
+						<center>
+              <h1>E-M algorithm (for <i>k</i>-means)</h1>
+              <ol>
+                <li>Make an initial guess of the cluster centre positions</li>
+                <li>Repeat to convergence</li>
+                <ol>
+                  <li>Identify the nearest cluster centre for each point</li>
+                  <li>Calculate the mean for each cluster; these are the new centres</li>
+              </ol>
+            </center>
+					</div>
+				</div>
+      </section>
+
+      <section class="color--white past" id="" style="display: block;">
+				<div class="grid-wrapper">
+					<div class="header">
+            <div class="logo"></div>
+					</div>
+					<div class="content">
+						<center>
+              <h1>Gaussian mixture models</h1>
+              <ul>
+                <li>Also uses the E-M algorithm</li>
+                <li>However, uses Gaussian probability distributions</li>
+              </ul>
+            </center>
+					</div>
+				</div>
+      </section>
+
+      <section class="color--white past" id="" style="display: block;">
+				<div class="grid-wrapper">
+					<div class="header">
+            <div class="logo"></div>
+					</div>
+					<div class="content">
+						<center>
+              <a href="https://mccluskey.scot/trad_ml_methods/clustering.html">
+                <h1>Let's code</h1>
+                <br>
+                <img src="https://media2.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.gif?cid=ecf05e47b2a29tuk1cscp6vdcumbmwr2ujl41abddtu4sz0x&rid=giphy.gif" width="50%">
+              </a>
             </center>
 					</div>
 				</div>
       </section>
     </section>
-
 
     <section class="stack present" style="display: block;" data-previous-indexv="0">
 			<section class="color--blue past" id="" style="display: block;" hidden="" aria-hidden="true">
@@ -216,6 +327,7 @@
 					<div class="content">
 						<center>
               <h1>Dimensionality reduction</h1>
+              Make our <b>big</b> data interpretable
 						</center>
 					</div>
 				</div>
@@ -229,14 +341,49 @@
 					</div>
 					<div class="content">
 						<center>
-              <h1>some data</h1>
-              <pre><code class='blue'>print('hello world')</code></pre>
+              <h1>Principal components analysis</h1>
+              <ul>
+                <li>Using linear algebra to define the variance in our data</li>
+                <li>This enables the reduction of high-dimensionality data</li>
+                <li>Collapsing correlated parameters</li>
+              </ul>
             </center>
 					</div>
 				</div>
       </section>
-    </section>
 
+      <section class="color--blue past" id="" style="display: block;">
+				<div class="grid-wrapper">
+					<div class="header">
+            <div class="logo">
+            </div>
+					</div>
+					<div class="content">
+						<center>
+              <h1>Want to learn the details?</h1>
+              <a href="https://doi.org/10.1039/C3AY41907J"><img src="./trad_ml_methods/pca.png" width="80%"></a>
+            </center>
+					</div>
+				</div>
+      </section>
+
+      <section class="color--blue past" id="" style="display: block;">
+        <div class="grid-wrapper">
+          <div class="header">
+            <div class="logo"></div>
+          </div>
+          <div class="content">
+            <center>
+              <a href="https://mccluskey.scot/trad_ml_methods/dimensionality_reduction.html">
+                <h1>Let's code</h1>
+                <br>
+                <img src="https://media0.giphy.com/media/QX6ruFElzFdeIfblrg/giphy.gif?cid=ecf05e47w3cfd2a3yabxa0jmi52k77kghjwa6xurmk8lza1a&rid=giphy.gif" width="50%">
+              </a>
+            </center>
+          </div>
+        </div>
+      </section>
+    </section>
 
     <section class="stack present" style="display: block;" data-previous-indexv="0">
       <section class="color--black past" id="" style="display: block;" hidden="" aria-hidden="true">
@@ -248,6 +395,23 @@
           <div class="content">
             <center>
               <h1>Bayesian model selection</h1>
+              Inform our analysis; with probability
+            </center>
+          </div>
+        </div>
+      </section>
+
+      <section class="color--black past" id="" style="display: block;" hidden="" aria-hidden="true">
+        <div class="grid-wrapper">
+          <div class="header">
+            <div class="logo">
+            </div>
+          </div>
+          <div class="content">
+            <center>
+              <h1>Model selection</h1>
+              <br>
+              <img src="./trad_ml_methods/models.png" width="40%">
             </center>
           </div>
         </div>
@@ -260,8 +424,44 @@
           </div>
           <div class="content">
             <center>
-              <h1>some data</h1>
-              <pre><code class='black'>print('hello world')print('hello world')print('hello world')print('hello world')</code></pre>
+              <h1>Bayesianism</h1>
+              <br>
+              <iframe width="800" height="450" src="https://www.youtube.com/embed/HZGCoVF3YvM" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </center>
+          </div>
+        </div>
+      </section>
+
+      <section class="color--black past" id="" style="display: block;">
+        <div class="grid-wrapper">
+          <div class="header">
+            <div class="logo"></div>
+          </div>
+          <div class="content">
+            <center>
+              <h1>Bayesian evidence</h1>
+              <br>
+              <ul>
+                <li>The Bayesian evidence, which is ignored if we want to perform parameter estimation is a tool for model comparison</li>
+                <li>We can use tools, like Nested Sampling, to estimate this Bayesian evidence</li>
+              </ul>
+            </center>
+          </div>
+        </div>
+      </section>
+
+      <section class="color--black past" id="" style="display: block;">
+        <div class="grid-wrapper">
+          <div class="header">
+            <div class="logo"></div>
+          </div>
+          <div class="content">
+            <center>
+              <a href="https://mccluskey.scot/trad_ml_methods/bayesian_model_selection.html">
+                <h1>Let's code</h1>
+                <br>
+                <img src="https://media1.giphy.com/media/TOWeGr70V2R1K/giphy.gif?cid=ecf05e47knupex119pn0vmlxbwgaspcs11wycr1p9trqs4bs&rid=giphy.gif" width="50%">
+              </a>
             </center>
           </div>
         </div>
