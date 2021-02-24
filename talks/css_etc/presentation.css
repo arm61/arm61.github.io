@@ -61,7 +61,9 @@ division for the cells */
 
 .reveal table th {
   font-weight: 500;
-  color: #888888;}
+  color: #2e94c4;
+  border-bottom: 1px solid #ffffff;
+}
 
 .commands table {
     margin: 0;
@@ -69,7 +71,7 @@ division for the cells */
 .commands table th {
     text-align: right;
 }
-.commands table th, .commands table td {
+.commands table td {
     border-bottom: none;
 }
 .commands table td + td {
