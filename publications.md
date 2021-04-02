@@ -5,6 +5,12 @@ description: "Some writing"
 header-img: "img/banner.png"
 ---
 
+[**Overscreening and Underscreening in Solid-Electrolyte Grain Boundary Space-Charge Layers**](https://arxiv.org/abs/2104.00623)<br>
+<small>[arXiv](https://arxiv.org/abs/2104.00623)</small><br>
+*arXiv*:2104.00623<br>
+[Jacob M. Dean](https://orcid.org/0000-0003-3363-4256), [Samuel W. Coles](https://orcid.org/0000-0001-9722-5676)\*, William R. Saunders, [Andrew R. McCluskey](https://orcid.org/0000-0003-3381-5911), [Matthew J. Wolf](https://orcid.org/0000-0001-5902-4187), [Alison B. Walker](https://orcid.org/0000-0002-2232-9734), [Benjamin J. Morgan](https://orcid.org/0000-0002-3056-8233)\*<br>
+<small><i>Identifying liquid-state phenomena in solid electrolyte systems; using kinetic Monte Carlo and Bayesian inference.</i></small>
+<hr>
 [**Disordered Filaments Mediate the Fibrillogenesis of Type-I Collagen in Solution**](https://doi.org/10.1021/acs.biomac.0c00667)<br>
 <small>[Paper](https://doi.org/10.1021/acs.biomac.0c00667)</small><br>
 *Biomacromolecules*, **21**(9), 3631, 2020<br>
