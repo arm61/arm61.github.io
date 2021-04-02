@@ -23,7 +23,7 @@ header-img: "img/banner.png"
 [Andrew R. McCluskey](https://orcid.org/0000-0003-3381-5911)\*, [Thomas Arnold](https://orcid.org/0000-0001-7196-7831), Joshaniel F. K. Cooper, [Tim Snow](https://orcid.org/0000-0001-7146-6885)<br>
 <small><i>Outlining and applying a Bayesian model selection framework for neutron reflectometry analysis.</i></small>
 <hr>
-[**uravu: Making Bayesian modelling easy(er)**](https://github.com/arm61/uravu/blob/master/paper/paper.md)<br>
+[**uravu: Making Bayesian modelling easy(er)**](https://doi.org/10.21105/joss.02214)<br>
 <small>[Paper](https://doi.org/10.21105/joss.02214) \| [Code](https://github.com/arm61/uravu) \| [Docs](https://uravu.readthedocs.io/en/latest/)</small><br>
 *J. Open Source Softw.*, **5**(50), 2214, 2020<br>
 [Andrew R. McCluskey](https://orcid.org/0000-0003-3381-5911)\*, [Tim Snow](https://orcid.org/0000-0001-7146-6885)<br>
