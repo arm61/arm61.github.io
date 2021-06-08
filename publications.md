@@ -5,6 +5,12 @@ description: "Some writing"
 header-img: "img/banner.png"
 ---
 
+[**FitBenchmarking: an open source Python package comparing data fitting software**](https://doi.org/10.21105/joss.03127)<br>
+<small>[Paper](https://doi.org/10.21105/joss.03127) \| [Code](https://github.com/fitbenchmarking/fitbenchmarking) \| [Docs](https://fitbenchmarking.readthedocs.io/en/latest) </small><br>
+*J. Open Source Softw.*, **6**(62), 3127, 2021<br>
+[Anders Markvardsen](https://orcid.org/0000-0001-8974-2868)\*, Tyronne Rees, Micheal Wathen, [Andrew Lister](https://orcid.org/0000-0003-0861-4034), Patrick Odagiu, Atijit Anuchitanukul, Tom Farmer, Anthony Lim, [Federico Montesino](https://orcid.org/0000-0002-2981-5612), [Tim Snow](https://orcid.org/0000-0001-7146-6885), [Andrew McCluskey](https://orcid.org/0000-0003-3381-5911)<br>
+<small><i>A tool to better understand the use of different optimisation approaches.</i></small>
+<hr>
 [**Overscreening and Underscreening in Solid-Electrolyte Grain Boundary Space-Charge Layers**](https://arxiv.org/abs/2104.00623)<br>
 <small>[arXiv](https://arxiv.org/abs/2104.00623)</small><br>
 *arXiv*:2104.00623<br>
