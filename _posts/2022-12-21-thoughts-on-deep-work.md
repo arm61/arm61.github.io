@@ -52,6 +52,7 @@ This includes not replying to an email if:
 
 I dislike this language, it suggests that one's need to perform "deep work" is more important than anyone else's. 
 Furthermore, this approach (1) assumes everyone follows the email practice that Newport outlines in the book and (2) strikes a very pompous tone. 
+With this in mind, I propose the following adjustment to my current approach:
 
 `4. Be a good/kind email user, but limit usage to the start of the day (replying to email from the previous day) and the end of the day (checking there are no fires).`
 
