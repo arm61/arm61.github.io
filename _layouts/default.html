@@ -27,7 +27,9 @@
       <div class="sidebar">
         <header>
           {% if site.logo %}
-            <img class="img-circle" src="{{site.logo | relative_url}}" alt="Logo">
+            <a href="{{ "/" | absolute_url }}">
+              <img class="img-circle" src="{{site.logo | relative_url}}" alt="Viking ship logo">
+            </a>
           {% endif %}
 
           {% if site.blank_title %}
