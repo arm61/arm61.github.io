@@ -15,5 +15,5 @@ This is a page that aims to answer some questions, it also serves a place to sto
 **Q**: I am working in a forked Github repository, how to I catch the fork up with the `upstream`?<br>
 **A**: First, make sure that the `upstream` is [configured](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/configuring-a-remote-repository-for-a-fork) and then the forked branch can be [synced](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork#syncing-a-fork-branch-from-the-command-line).
 
-**Q**: Have you seen [this video](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjB59-Q6Ir8AhUgQPEDHUDVAvAQtwJ6BAgaEAI&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DNMS2VnDveP8&usg=AOvVaw0y7yjfAS68I5iPQUxMU3Pv)?<br>
+**Q**: Have you seen [this video about a voice activated elevator in Scotland](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjB59-Q6Ir8AhUgQPEDHUDVAvAQtwJ6BAgaEAI&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DNMS2VnDveP8&usg=AOvVaw0y7yjfAS68I5iPQUxMU3Pv)?<br>
 **A**: Yes.
