@@ -1,0 +1,45 @@
+title: scattering and stats
+logo: /assets/img/logo.png
+email: andrew.mccluskey at ess dot eu
+description: navigating between physics, chemistry, mathematics, and computer science
+show_downloads: false
+markdown: kramdown
+color-scheme: auto
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+
+# You can find fonts from https://iconify.design or https://fontawesome.com. Below is just an example illustrating how to use custom icons
+sidebar:
+  - name: blog
+    icon: <i class="fa-solid fa-pen"></i>
+    link: /blog/
+  - name: publications
+    icon: <i class="fa-solid fa-book"></i>
+    link: /publications/
+  - name: " resume"
+    icon: <i class="fa-solid fa-file"></i>
+    link: https://nbviewer.org/github/arm61/resume/blob/master/resume.pdf
+  - name: github
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/arm61
+  - name: strava
+    icon: <i class="fa-solid fa-person-running"></i>
+    link: https://www.strava.com/athletes/8500579
+  - name: photo
+    icon: <i class="fa-solid fa-camera"></i> 
+    link: /photo/
+  - name: faq
+    icon: <i class="fa-solid fa-circle-question"></i>
+    link: /faq/
+
+# https://github.com/github/pages-gem/issues/399#issuecomment-301827749
+# When running locally, we run into the following error —
+# GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
+# adding this avoids it
+github: [metadata]
+
+collections:
+  publications:
+    date: true
