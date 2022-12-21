@@ -2,7 +2,7 @@
 date: 2023-01-01
 title:  Advice on describing Bayesian analysis of neutron and X-ray reflectometry
 journal: J. Appl. Crystallogr.
-paper: Accepted
+pages: Accepted
 year: 2023
 authors:
     - Andrew R. McCluskey
