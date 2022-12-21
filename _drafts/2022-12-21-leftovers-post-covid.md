@@ -12,5 +12,9 @@ I am rewatching the Damon Lindelof TV show [The Leftovers](https://en.wikipedia.
 Rewatching in a “post-COVID” world, the show seems prophetic. 
 I put “post-COVID” in scare quotes to reflect the uncertainty still felt by many, but here in Denmark we are definitely [post-COVID](https://www.dr.dk/nyheder/indland/ordfoerere-glaeder-sig-over-aendret-coronakurs-ingen-oensker-nye-restriktioner). 
 
+Description of how the Leftovers world it. 
+
+Comparison with post COVID real world. 
+
 
 [^1] And becoming convinced it is the best TV show ever. 
