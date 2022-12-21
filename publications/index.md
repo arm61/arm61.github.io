@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% for pub in site.publications reversed %}
+{% for pub in site.data.publications reversed %}
   <body>
   <b>
     {{ pub.title }}

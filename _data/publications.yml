@@ -1,0 +1,245 @@
+- title: Model-dependent Small-angle Scattering for the Study of Complex Organic Material
+  journal: Curr. Org. Chem.
+  volume: 22
+  issue: 8
+  pages: 750
+  year: 2018
+  authors:
+      - Andrew R. McCluskey
+      - Karen J. Edler*
+  paper: https://doi.org/10.2174/1875692115666170612104439
+  caption: This review article introduces the method of model-dependent analysis of small angle scattering.
+- title: "pylj: A teaching tool for classical atomistic simulation"
+  journal: J. Open Source Educ.
+  volume: 1
+  issue: 2
+  pages: 19
+  year: 2018
+  authors:
+      - Andrew R. McCluskey*
+      - Benjamin J. Morgan
+      - Karen J. Edler
+      - Stephen C. Parker
+  paper: https://doi.org/10.2174/1875692115666170612104439
+  code: https://github.com/arm61/pylj
+  docs: https://pylj.readthedocs.io/en/latest/
+  caption: pylj is an educational software to introduce students to classical atomistic simulation using a Lennnard-Jones potential model.
+- title: "Bayesian determination of the effect of a deep eutectic solvent on the structure of lipid monolayers"
+  journal: Phys. Chem. Chem. Phys.
+  volume: 21
+  issue: 11
+  pages: 6133
+  year: 2019
+  authors:
+      - Andrew R. McCluskey*
+      - Adrian Sanchez-Fernandez
+      - Karen J. Edler
+      - Stephen C. Parker
+      - Andrew J. Jackson
+      - Richard A. Campbell
+      - Thomas Arnold*
+  paper: https://doi.org/10.1039/C9CP00203K
+  esi: https://github.com/arm61/lipids_at_airdes/
+  data: https://doi.org/10.15125/BATH-00548
+  arxiv: https://arxiv.org/abs/1810.07616
+  caption: A novel reflectometry analysis method reveals the structure of lipid monolayers at the air-DES interface.
+- title: "An introduction to classical molecular dynamics simulation for experimental scattering users"
+  journal: J. Appl. Crystallogr.
+  volume: 52
+  issue: 3
+  pages: 655
+  year: 2019
+  authors:
+      - Andrew R. McCluskey*
+      - James Grant
+      - Adam R. Symington
+      - Tim Snow
+      - James Doutch
+      - Benjamin J. Morgan*
+      - Stephen C. Parker
+      - Karen J. Edler
+  paper: https://doi.org/10.1107/S1600576719004333
+  oer: https://pythoninchemistry.org/sim_and_scat
+  arxiv: https://arxiv.org/abs/1902.01324
+  caption: An open educational resource to engage users of scattering techniques in classical simulation.
+- title: Coarse-grained modelling for soft matter scattering
+  journal: University of Bath
+  pages: PhD Thesis
+  year: 2019
+  authors:
+      - Andrew R. McCluskey
+  thesis: https://researchportal.bath.ac.uk/en/studentTheses/coarse-grained-modelling-for-soft-matter-scattering
+  esi: https://github.com/arm61/thesis
+  caption: An investigation of different coarse-graining methods to develop the analysis of scattering from soft matter species.
+- title: Assessing molecular simulation for the analysis of lipid monolayer reflectometry
+  journal: J. Phys. Comm. 
+  volume: 3
+  issue: 7
+  pages: 075001
+  year: 2019
+  authors:
+      - Andrew R. McCluskey*
+      - James Grant
+      - Andrew J. Smith
+      - Jonathan L. Rawle
+      - David J. Barlow
+      - M. Jayne Lawrence
+      - Stephen C. Parker
+      - Karen J. Edler*
+  paper: https://doi.org/10.1088/2399-6528/ab12a9
+  esi: https://github.com/arm61/sim_vs_trad
+  data: https://doi.org/10.15125/BATH-00586
+  arxiv: https://arxiv.org/abs/1901.05514
+  caption: Comparing different molecular dynamics potential models to improve reflectometry analysis.
+- date: 2020-06-05
+  title: "uravu: Making Bayesian modelling easy(er)"
+  journal: J. Open Source Softw.
+  volume: 5
+  issue: 50
+  pages: 2214
+  year: 2020
+  authors:
+      - Andrew R. McCluskey*
+      - Tim Snow
+  paper: https://doi.org/10.21105/joss.02214
+  code: https://github.com/arm61/uravu
+  docs: https://uravu.readthedocs.io/
+  caption: A straightforward library for Bayesian data analysis.
+- title: A general approach to maximise information density in neutron reflectometry analysis
+  journal: "Mach. Learn.: Sci Technol."
+  volume: 1
+  issue: 3
+  pages: 035002
+  year: 2020
+  authors:
+      - Andrew R. McCluskey*
+      - Thomas Arnold
+      - Joshanial F. K. Cooper
+      - Tim Snow
+  paper: https://doi.org/10.1088/2632-2153/ab94c4
+  esi: https://github.com/arm61/model_select
+  data: https://github.com/arm61/model_select/tree/master/data
+  arxiv: https://arxiv.org/abs/1910.10581
+  caption: Outlining and applying a Bayesian model selection framework for neutron reflectometry analysis.
+- title: Disordered Filaments Mediate the Fibrillogenesis of Type-I Collagen in Solution
+  journal: Biomacromolecules
+  volume: 21
+  issue: 9
+  pages: 3611
+  year: 2020
+  authors:
+      - Andrew R. McCluskey
+      - Kennes S. W. Hung
+      - Bartosz Marzec
+      - Julien O. Sindt
+      - Nico A. J. M. Sommerdijk
+      - Philip J. Camp
+      - Fabio Nudelman*
+  paper: https://doi.org/10.1021/acs.biomac.0c00667
+  caption: Using cryogenic transmission electron microscopy and coarse-grained simulations to study the formation of collagen fibrils.
+- title: "FitBenchmarking: an open source Python package comparing data fitting software"
+  journal: J. Open Source Softw.
+  volume: 6
+  issue: 62
+  pages: 3127
+  year: 2021
+  authors:
+      - Anders Markvardsen*
+      - Tyronne Rees
+      - Micheal Wathen
+      - Andrew Lister
+      - Patrick Odagiu
+      - Atijit Anuchitanukul
+      - Tom Farmer
+      - Anthony Lim
+      - Federico Montesino
+      - Tim Snow
+      - Andrew R. McCluskey
+  paper: https://doi.org/10.21105/joss.03127
+  code: https://github.com/fitbenchmarking/fitbenchmarking
+  docs: https://fitbenchmarking.readthedocs.io/
+  caption: A tool to better understand the use of different optimisation approaches.
+- title:  Overscreening and Underscreening in Solid-Electrolyte Grain Boundary Space-Charge Layers
+  journal: Phys. Rev. Lett.
+  volume: 127
+  issue: 13
+  pages: 135502
+  year: 2021
+  authors:
+      - Jacob M. Dean
+      - Samuel W. Coles*
+      - William R. Saunders
+      - Andrew R. McCluskey
+      - Matthew J. Wolf
+      - Alison B. Walker
+      - Benjamin J. Morgan*
+  paper: https://doi.org/10.1103/PhysRevLett.127.135502
+  esi: https://github.com/j-m-dean/data_overscreening_and_underscreening
+  arxiv: https://arxiv.org/abs/2104.00623
+  caption: Identifying liquid-state phenomena in solid electrolyte systems; using kinetic Monte Carlo and Bayesian inference.
+- title: A Report on the Third Meeting of the Open Reflectivity Standards Organisation (ORSO)
+  journal: Neutron News
+  volume: 33
+  issue: 1
+  pages: 2
+  year: 2022
+  authors:
+      - Thomas Arnold*
+      - Bridget Murphy
+      - Andrew R. McCluskey
+      - Jochen Stahn
+      - Maximilian W. A. Skoda
+  paper: https://doi.org/10.1080/10448632.2021.2005422
+  caption: Describing the third meeting of ORSO.
+- title: The 16th International Conference on Surface X-ray and Neutron Scattering (SXNS16)
+  journal: Neutron News
+  volume: 33
+  issue: 2
+  pages: 2
+  year: 2022
+  authors:
+      - Thomas Arnold*
+      - Ann Terry
+      - Elizabeth Blackburn
+      - Uta Hejral
+      - Zsuzsa Heles
+      - Andrew R. McCluskey
+      - Tommy Nylander
+      - Max Wolff
+  paper: https://doi.org/10.1080/10448632.2021.2005422
+  caption: A short description of the SXNS16 conference.
+- title: "islatu: A Python package for the reduction of reflectometry data"
+  journal: J. Open Source Softw.
+  volume: 7
+  issue: 77
+  pages: 4397
+  year: 2022
+  authors:
+      - Richard Brearton
+      - Andrew R. McCluskey
+      - Tim Snow
+  paper: https://doi.org/10.21105/joss.03127
+  code: https://github.com/RBrearton/islatu
+  docs: https://islatu.readthedocs.io/
+  caption: Reflectometry data reduction at Diamond Light Source.
+- title:  Advice on describing Bayesian analysis of neutron and X-ray reflectometry
+  journal: J. Appl. Crystallogr.
+  pages: Accepted
+  year: 2023
+  authors:
+      - Andrew R. McCluskey
+      - Andrew J. Caruana
+      - Christy J. Kinane
+      - Alexander J. Armstrong
+      - Thomas Arnold
+      - Joshaniel F. K. Cooper
+      - David L. Cortie
+      - Arwel V. Hughes
+      - Jean-François Moulin
+      - Andrew R. J. Nelson
+      - Wojciech Potrzebowski
+      - Vladimir Starostin
+  paper: http://arxiv.org/abs/2207.10406
+  esi: https://github.com/arm61/reporting_sampling
+  data: https://doi.org/10.5281/zenodo.6645201
+  caption: The opinion of ORSO members on how best to share results from Bayesian sampling.

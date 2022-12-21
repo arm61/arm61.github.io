@@ -40,6 +40,3 @@ sidebar:
 # adding this avoids it
 github: [metadata]
 
-collections:
-  publications:
-    date: true
