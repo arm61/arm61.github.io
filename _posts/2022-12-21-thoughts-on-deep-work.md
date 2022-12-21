@@ -7,6 +7,7 @@ tags:
     - deep work
     - email
     - work-life balance
+    - productivity
 ---
 
 The subject of "[deep work](https://www.calnewport.com/books/deep-work/)" resonates with me, I have a habit of getting *stuck* in a problem. 
