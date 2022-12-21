@@ -15,7 +15,7 @@ authors:
     - Richard A. Campbell
     - Thomas Arnold*
 paper: https://doi.org/10.1039/C9CP00203K
-esi: https://github.com/arm61/lipids_at_airdes/tree/1.0
+esi: https://github.com/arm61/lipids_at_airdes/
 data: https://doi.org/10.15125/BATH-00548
 arxiv: https://arxiv.org/abs/1810.07616
 caption: A novel reflectometry analysis method reveals the structure of lipid monolayers at the air-DES interface.
