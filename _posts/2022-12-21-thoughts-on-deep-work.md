@@ -7,6 +7,7 @@ tags:
     - deep work
     - email
     - work-life balance
+    - productivity
 ---
 
 The subject of "[deep work](https://www.calnewport.com/books/deep-work/)" resonates with me, I have a habit of getting *stuck* in a problem. 
@@ -40,7 +41,7 @@ Planning every minute of a workday literally means writing down what you will wo
 Unless there is a good reason (which allows flexibility as the plan can be rewritten), this plan should be followed. 
 I will test this practice by: 
 
-`3. Make a plan at the start of each work day and review it continuously by time tracking.`
+`3. Make a plan at the start of each work day and review it continuously by time-tracking.`
 
 However, I worry that often it is hard to quantify how long a task will take. 
 By time-tracking deep and shallow work, it will also be possible to quantify where I am spending too much/too little time. 
@@ -52,6 +53,7 @@ This includes not replying to an email if:
 
 I dislike this language, it suggests that one's need to perform "deep work" is more important than anyone else's. 
 Furthermore, this approach (1) assumes everyone follows the email practice that Newport outlines in the book and (2) strikes a very pompous tone. 
+With this in mind, I propose the following adjustment to my current approach:
 
 `4. Be a good/kind email user, but limit usage to the start of the day (replying to email from the previous day) and the end of the day (checking there are no fires).`
 
@@ -60,4 +62,4 @@ I admit to being rather bipolar with focus; sometimes completely in the zone and
 I would like to become a more focused, deliberate person, and to this end, I am making a conscious effort to focus on things, both at work and at home.
 Hopefully, this will help me pay more attention to the TV shows and films that I watch instead of looking at my phone. 
 
-[^1]: As I write this, I am ignoring a stomach rumbling for some lunch). 
+[^1]: As I write this, I am ignoring a stomach rumbling for some lunch. 
