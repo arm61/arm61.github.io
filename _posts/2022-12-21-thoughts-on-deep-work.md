@@ -29,7 +29,7 @@ The activity of block time and actively deciding to work on project X has the po
 Therefore, I decided on the following takeaway: 
 
 <blockquote class="var">
-    Create work blocks with a minimum length of one week, decide which project will be worked on in advance and put this in my calendar as a reminder.`
+    1. Create work blocks with a minimum length of one week, decide which project will be worked on in advance and put this in my calendar as a reminder.`
 </blockquote>
 
 Newport advocates for a *shutdown ritual* that indicates the end of a period of deep work. 
@@ -38,7 +38,7 @@ This idea will be valuable if one can get it to work.
 Therefore, I will introduce the following practice: 
 
 <blockquote class="var">
-    At the end of the work day, make notes on the work conducted and detail the next steps. If you have any new ideas after the work day is finished put this in a note but think no further on them until the next day.
+    2. At the end of the work day, make notes on the work conducted and detail the next steps. If you have any new ideas after the work day is finished put this in a note but think no further on them until the next day.
 </blockquote>
 
 Planning every minute of a workday literally means writing down what you will work on at the start of the day. 
@@ -46,7 +46,7 @@ Unless there is a good reason (which allows flexibility as the plan can be rewri
 I will test this practice by: 
 
 <blockquote class="var">
-    Make a plan at the start of each work day and review it continuously by time-tracking.
+    3. Make a plan at the start of each work day and review it continuously by time-tracking.
 </blockquote>
 
 However, I worry that often it is hard to quantify how long a task will take. 
@@ -62,7 +62,7 @@ Furthermore, this approach (1) assumes everyone follows the email practice that 
 With this in mind, I propose the following adjustment to my current approach:
 
 <blockquote class="var">
-    Be a good/kind email user, but limit usage to the start of the day (replying to email from the previous day) and the end of the day (checking there are no fires).
+    4. Be a good/kind email user, but limit usage to the start of the day (replying to email from the previous day) and the end of the day (checking there are no fires).
 </blockquote>
 
 Reading this book made me think critically about how I focus. 
