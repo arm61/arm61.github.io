@@ -28,20 +28,26 @@ I typically have five or six projects running simultaneously, and have found mys
 The activity of block time and actively deciding to work on project X has the power to reduce the amount of time I get *stuck* in a single project. 
 Therefore, I decided on the following takeaway: 
 
-`1. Create work blocks with a minimum length of one week, decide which project will be worked on in advance and put this in my calendar as a reminder.`
+<blockquote class="var">
+    Create work blocks with a minimum length of one week, decide which project will be worked on in advance and put this in my calendar as a reminder.`
+</blockquote>
 
 Newport advocates for a *shutdown ritual* that indicates the end of a period of deep work. 
 This is a procedure that ensures that the work is documented and will help to turn off the part of your brain that has been focused deeply. 
 This idea will be valuable if one can get it to work. 
 Therefore, I will introduce the following practice: 
 
-`2. At the end of the work day, make notes on the work conducted and detail the next steps. If you have any new ideas after the work day is finished put this in a note but think no further on them until the next day.`
+<blockquote class="var">
+    At the end of the work day, make notes on the work conducted and detail the next steps. If you have any new ideas after the work day is finished put this in a note but think no further on them until the next day.
+</blockquote>
 
 Planning every minute of a workday literally means writing down what you will work on at the start of the day. 
 Unless there is a good reason (which allows flexibility as the plan can be rewritten), this plan should be followed. 
 I will test this practice by: 
 
-`3. Make a plan at the start of each work day and review it continuously by time-tracking.`
+<blockquote class="var">
+    Make a plan at the start of each work day and review it continuously by time-tracking.
+</blockquote>
 
 However, I worry that often it is hard to quantify how long a task will take. 
 By time-tracking deep and shallow work, it will also be possible to quantify where I am spending too much/too little time. 
@@ -49,13 +55,15 @@ By time-tracking deep and shallow work, it will also be possible to quantify whe
 Newport suggests that one should be "hard to reach" by email, reducing the "shallow work" (the arch enemy of "deep work") load as a result. 
 This includes not replying to an email if:
 
-> Nothing really good would happen if you did respond and nothing really bad would happen if you didn't.
+> "Nothing really good would happen if you did respond and nothing really bad would happen if you didn't."
 
 I dislike this language, it suggests that one's need to perform "deep work" is more important than anyone else's. 
 Furthermore, this approach (1) assumes everyone follows the email practice that Newport outlines in the book and (2) strikes a very pompous tone. 
 With this in mind, I propose the following adjustment to my current approach:
 
-`4. Be a good/kind email user, but limit usage to the start of the day (replying to email from the previous day) and the end of the day (checking there are no fires).`
+<blockquote class="var">
+    Be a good/kind email user, but limit usage to the start of the day (replying to email from the previous day) and the end of the day (checking there are no fires).
+</blockquote>
 
 Reading this book made me think critically about how I focus. 
 I admit to being rather bipolar with focus; sometimes completely in the zone and other times, completely distracted. 
