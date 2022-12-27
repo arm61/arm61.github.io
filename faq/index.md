@@ -4,7 +4,7 @@ layout: default
 
 # FAQ
 
-This is a page that aims to answer some questions, it also serves a place to store knowledge/links that might otherwise get lost. 
+This is a page that answers some questions. It also serves a place to store knowledge/links that might otherwise get lost. 
 
 **Q**: Why the viking ship?<br>
 **A**: Well, (1) I am a 🏴󠁧󠁢󠁳󠁣󠁴󠁿 living in 🇩🇰 and (2) it is a cool logo that I modified a few years ago and I wanted to use it somewhere. (If you are viewing this page on a phone you probably can't see the viking ship).
