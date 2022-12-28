@@ -27,7 +27,7 @@ However, this is one of the strongest parallels between the reaction to these wo
 
 <img src="https://www.gannett-cdn.com/-mm-/a03e7fcfb1a79443bc714f2c4db4c3dcf594ac12/c=0-307-3062-2037/local/-/media/2017/04/11/USATODAY/USATODAY/636274713860203578-TLO-Kevin-and-Nora-VR-279.jpg" alt="Kevin (Justin Theroux) and Nora (Carrie Coon) from the Leftovers in a bedroom.">
 <small>
-Source: <a href="https://www.everyonelovescartoons.com/blog/Illustrated-booknotes-deep-work">www.everyonelovescartoons.com/blog/Illustrated-booknotes-deep-work</a>.
+Source: <a href="https://eu.usatoday.com/story/life/tv/2017/04/11/final-hbo-leftovers-season-prepares-for-apocalyptic-end-of-days/100315890/">eu.usatoday.com/story/life/tv/2017/04/11/final-hbo-leftovers-season-prepares-for-apocalyptic-end-of-days/100315890/</a>.
 </small>
 
 
@@ -41,4 +41,5 @@ I hoped that a [universal basic income]() would remove the worries we faces at t
 Yet, the reduction of the pandemic to its effect on economic growth reveals that I was being too optimistic. 
 
 [^1] And becoming convinced it is the best TV show ever. 
+
 [^2] For an all too familiar story, check out Christian Wolmar’s book on the history of [British Rail](https://www.christianwolmar.co.uk/book/british-rail/).
