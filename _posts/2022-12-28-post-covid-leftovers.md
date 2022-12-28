@@ -37,7 +37,7 @@ Finally, the UK’s current Conservative government is in the process of convinc
 
 The “over-the-top” reactions that we see in The Leftovers will always have parallels in the real world. 
 At the start of the pandemic, I (naïvely) hoped that, should we make it through this, we would live in a more caring world. 
-I hoped that a [universal basic income]() would remove the worries we faces at the start of the pandemic over government-supported furlough. 
+I hoped that a [universal basic income](https://en.wikipedia.org/wiki/Universal_basic_income) would remove the worries we faced at the start of the pandemic over government-supported furlough. 
 Yet, the reduction of the pandemic to its effect on economic growth reveals that I was overly optimistic. 
 
 [^1]: And becoming convinced it is the best TV show ever. 
