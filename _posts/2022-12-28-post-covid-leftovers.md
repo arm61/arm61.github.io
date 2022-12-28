@@ -1,6 +1,6 @@
 —--
 layout: post
-title: The Leftovers: an accurate picture of a post-COVID world?
+title: "The Leftovers: an accurate picture of a post-COVID world?"
 date: 2022-12-28
 upstream: /blog/
 tags: 
