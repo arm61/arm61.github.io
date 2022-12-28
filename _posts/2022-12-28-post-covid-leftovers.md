@@ -40,6 +40,5 @@ At the start of the pandemic, I (naïvely) hoped that, should we make it through
 I hoped that a [universal basic income]() would remove the worries we faces at the start of the pandemic over government-supported furlough. 
 Yet, the reduction of the pandemic to its effect on economic growth reveals that I was being too optimistic. 
 
-[^1] And becoming convinced it is the best TV show ever. 
-
-[^2] For an all too familiar story, check out Christian Wolmar’s book on the history of [British Rail](https://www.christianwolmar.co.uk/book/british-rail/).
+[^1]: And becoming convinced it is the best TV show ever. 
+[^2]: For an all too familiar story, check out Christian Wolmar’s book on the history of [British Rail](https://www.christianwolmar.co.uk/book/british-rail/).
