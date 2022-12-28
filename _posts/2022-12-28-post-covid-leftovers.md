@@ -1,4 +1,4 @@
-—--
+---
 layout: post
 title: "The Leftovers: an accurate picture of a post-COVID world?"
 date: 2022-12-28
@@ -7,7 +7,7 @@ tags:
     - tv shows
     - covid
     - socialism
-—--
+---
 
 I have been rewatching the Damon Lindelof TV show [The Leftovers](https://en.wikipedia.org/wiki/The_Leftovers_(TV_series))[^1], which I admit I didn’t finish the first time around (so no spoilers, please).
 I have noticed that in a “post-COVID” world, parts of this show begin to appear prophetic. 
