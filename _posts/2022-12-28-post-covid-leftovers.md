@@ -25,11 +25,7 @@ In [S02E04](https://www.imdb.com/title/tt4550146/), “the departure” is refer
 Of course, the scales are different (the current death toll from COVID is around 4% of the number that are departed) and the causeless nature of the departure means that The Leftovers expresses an extreme result. 
 However, this is one of the strongest parallels between the reaction to these world-changing events. 
 
-<img src=“https://www.gannett-cdn.com/-mm-/a03e7fcfb1a79443bc714f2c4db4c3dcf594ac12/c=0-307-3062-2037/local/-/media/2017/04/11/USATODAY/USATODAY/636274713860203578-TLO-Kevin-and-Nora-VR-279.jpg” alt=“Image of Kevin (Justin Theroux) and Nora (Carrie Coon) in their bedroom from the Leftovers.”>
-<small>
-Source: <a href=“https://eu.usatoday.com/story/life/tv/2017/04/11/final-hbo-leftovers-season-prepares-for-apocalyptic-end-of-days/100315890/”>eu.usatoday.com/story/life/tv/2017/04/11/final-hbo-leftovers-season-prepares-for-apocalyptic-end-of-days/100315890/</a>.
-</small>
-
+<img src="https://www.gannett-cdn.com/-mm-/a03e7fcfb1a79443bc714f2c4db4c3dcf594ac12/c=0-307-3062-2037/local/-/media/2017/04/11/USATODAY/USATODAY/636274713860203578-TLO-Kevin-and-Nora-VR-279.jpg" alt="Kevin (Justin Theroux) and Nora (Carrie Coon) from the Leftovers in a bedroom.">
 
 
 We are currently facing [cost of living crises](https://www.dr.dk/nyheder/penge/flere-danskere-kan-ikke-betale-uforudsete-regninger) across Europe, which are sold by many as a direct result of COVID, overlooking decades of runaway and unrestrained capitalism. 
