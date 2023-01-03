@@ -215,7 +215,7 @@
   pages: 4397
   year: 2022
   authors:
-      - Richard Brearton
+      - Richard Brearton*
       - Andrew R. McCluskey
       - Tim Snow
   paper: https://doi.org/10.21105/joss.03127
@@ -227,7 +227,7 @@
   pages: Accepted
   year: 2023
   authors:
-      - Andrew R. McCluskey
+      - Andrew R. McCluskey*
       - Andrew J. Caruana
       - Christy J. Kinane
       - Alexander J. Armstrong
