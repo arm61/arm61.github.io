@@ -14,9 +14,9 @@ body {
   font-size: 11px;
 }
 
-.footnotes li { 
-  padding: 0 0 0 0;
-}  
+.footnotes p {
+  margin: 0 0 5px
+}
 
 h1, h2, h3, h4, h5, h6 {
   color: var(--clr-h1-and-bold);
@@ -143,6 +143,7 @@ th {
 
 img {
   max-width:100%;
+  border-radius:5px;
 }
 
 kbd {
