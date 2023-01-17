@@ -185,7 +185,7 @@
   font-weight: bold;
 }
 .highlight .nn {
-  color: #555555;
+  color: var(--clr-code-emph-text);
 }
 .highlight .nt {
   color: #000080;
@@ -203,7 +203,7 @@
   color: #008080;
 }
 .highlight .ow {
-  color: #000000;
+  color: var(--clr-code-bold-text);
   font-weight: bold;
 }
 .highlight .o {
