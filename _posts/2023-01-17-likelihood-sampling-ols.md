@@ -100,7 +100,10 @@ We are interested in sampling the likelihood, so we must define it.
 We will assume that the residuals are normally distributed, so we can describe the model with a [multi-dimensional normal distribution](https://en.wikipedia.org/wiki/Multivariate_normal_distribution), the log-likelihood of which is, 
 
 $$
-\ln{\mathcal{L}} = -\frac{1}{2}\big[ \ln{(|\Sigma|)} + {(m-\mu)}^{\text{T}}(\Sigma)^{-1}(m-\mu) + n\ln{(2\pi)}\big],
+\begin{aligned}
+    \ln{\mathcal{L}} = -\frac{1}{2}\big[ & \ln{(|\Sigma|)} + {(m-\mu)}^{\text{T}}(\Sigma)^{-1}(m-\mu) \\
+    & + n\ln{(2\pi)}\big],
+\end{aligned}
 $$
 
 where, $$m$$ is the model, $$\mu$$ is the data, $$n$$ is the number of data points and $$\Sigma$$ is the covariance matrix of the data. 
@@ -120,10 +123,10 @@ $$
 |\Sigma| = |\sigma^2(m-\mu) I_n| = (\sigma^2(m-\mu)) ^ n.
 $$
 
-Secondly, that the inverse of an identity matrix is an identity matrix, 
+Secondly, that the inverse of an identity matrix is an identity matrix, so,  
 
 $$
-(\Sigma)^{-1} = (\sigma^2(m-\mu) I_n)^{-1} = (\sigma^2(m-\mu))^{-1}I_n^{-1} = (\sigma^2(m-\mu))^{-1}I_n.
+(\Sigma)^{-1} = (\sigma^2(m-\mu))^{-1}I_n.
 $$
 
 These small mathematical manipulations have a significant impact on the computational efficiency of the code[^2], which we can implement as follows. 
