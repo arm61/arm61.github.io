@@ -10,7 +10,7 @@ tags:
 ---
 
 I have recently been working on a variety of linear least squares-like problems. 
-This let me to the following question:
+This led me to the following question:
 
 <blockquote class="var">
     How can I compare likelihood sampling and <a href="https://en.wikipedia.org/wiki/Ordinary_least_squares">ordinary least squares</a>?
