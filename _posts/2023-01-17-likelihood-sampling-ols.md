@@ -13,7 +13,7 @@ I have recently been working on a variety of linear least squares-like problems.
 This led me to the following question:
 
 <blockquote class="var">
-    How can I compare likelihood sampling and <a href="https://en.wikipedia.org/wiki/Ordinary_least_squares">ordinary least squares</a>?
+    How can I compare results from likelihood sampling and <a href="https://en.wikipedia.org/wiki/Ordinary_least_squares">ordinary least squares</a>?
 </blockquote>
 
 The examples of linear modelling for [independent and identically distributed](https://en.wikipedia.org/wiki/Independent_and_identically_distributed_random_variables) data, seemed to use an additional modelling parameter as the data variance; i.e. [this example from the PyMC documentation](https://docs.pymc.io/en/v5.0.1/learn/core_notebooks/GLM_linear.html#glm-linear).
@@ -154,7 +154,7 @@ With this in place, it is just a matter of finding the maximum likelihood values
 def nll(*args) -> float:
     """
     General purpose negative log-likelihood.
-    
+
     :return: Negative log-likelihood
     """
     return -log_likelihood(*args)
