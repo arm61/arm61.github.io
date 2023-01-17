@@ -16,7 +16,7 @@ This led me to the following question:
     How can I compare likelihood sampling and <a href="https://en.wikipedia.org/wiki/Ordinary_least_squares">ordinary least squares</a>?
 </blockquote>
 
-The examples of linear modelling for independent and identically distributed](https://en.wikipedia.org/wiki/Independent_and_identically_distributed_random_variables) data, seemed to use an additional modelling parameter as the data variance; i.e. [this example from the PyMC documentation](https://docs.pymc.io/en/v5.0.1/learn/core_notebooks/GLM_linear.html#glm-linear).
+The examples of linear modelling for [independent and identically distributed](https://en.wikipedia.org/wiki/Independent_and_identically_distributed_random_variables) data, seemed to use an additional modelling parameter as the data variance; i.e. [this example from the PyMC documentation](https://docs.pymc.io/en/v5.0.1/learn/core_notebooks/GLM_linear.html#glm-linear).
 However, as I understand it, for ordinary least squares, there is no additional "fitting" parameter[^1], so how can we make something comparable?
 
 Let's start by generating some data that we will try to model with our straight line. 
