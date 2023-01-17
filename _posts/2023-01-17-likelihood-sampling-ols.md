@@ -178,14 +178,14 @@ flatchain = sampler.get_chain(flat=True, thin=10, discard=500)
 
 From the `flatchain`, we can get summary statistics for the gradient and the intercept and observe that these agree well with the results from the OLS.
 
+```python
+print(f'm = {flatchain[:, 0].mean():.3f} +/- {flatchain[:, 0].std():.3f}')
+print(f'c = {flatchain[:, 1].mean():.3f} +/- {flatchain[:, 1].std():.3f}')
 ```
-print(flatchain.mean(0))
 
->>> [2.3978698  0.09230872]
-
-print(flatchain.std(0))
-
->>> [0.23626473 1.44840048]
+```bash
+m = 2.398 +/- 0.092
+c = 0.236 +/- 1.448
 ```
 
 Additionally, you can produce a plot, showing the probability distribution of the model. 
