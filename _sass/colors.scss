@@ -52,6 +52,7 @@ hvr -> hover
   --clr-code-bg: hsl(0, 0%, var(--L-code-bg));
   --clr-code-border: hsl(0, 0%, var(--L-code-border));
   --clr-code-bold-text: hsl(0, 0%, var(--L-code-bold-text));
+  --clr-code-emph-text: hsl(0, 0%, var(--L-code-emph-text));
   //kbd these are keyboard shortcuts eg <kbd>CMD+R</kbd>
   --clr-kbd-bg: hsl(210, 25%, var(--L-kbd-bg));
   --clr-kbd-border: hsl(212.7, 10.7%, var(--L-kbd-border));
@@ -81,7 +82,8 @@ hvr -> hover
   --L-code-text: 20%;
   --L-code-bg: 97%;
   --L-code-border: 90%;
-  --L-code-bold-text: 0%;
+  --L-code-bold-text: 10%;
+  --L-code-emph-text: 40%;
   //kbd these are keyboard shortcuts eg <kbd>CMD+R</kbd>
   --L-kbd-bg: 98%;
   --L-kbd-border: 80%;
@@ -109,8 +111,9 @@ hvr -> hover
   // code blocks  
   --L-code-text: 80%;
   --L-code-bg: 3%;
-  --L-code-border: 5%;
-  --L-code-bold-text: 100%;
+  --L-code-border: 10%;
+  --L-code-bold-text: 90%;
+  --L-code-bold-text: 60%;
   //kbd these are keyboard shortcuts eg <kbd>CMD+R</kbd>
   --L-kbd-bg: 30%;
   --L-kbd-border: 45%;
