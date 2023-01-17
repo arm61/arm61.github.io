@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Likelihood sampling analogous of ordinary least squares
+title: Likelihood sampling analogue of ordinary least squares
 date: 2023-01-17
 upstream: /blog/
 tags: 
