@@ -154,6 +154,7 @@ With this in place, it is just a matter of finding the maximum likelihood values
 def nll(*args) -> float:
     """
     General purpose negative log-likelihood.
+    
     :return: Negative log-likelihood
     """
     return -log_likelihood(*args)
