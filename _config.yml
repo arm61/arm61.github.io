@@ -18,8 +18,8 @@ sidebar:
   - name: publications
     icon: <i class="fa-solid fa-book"></i>
     link: /publications/
-  - name: " resume"
-    icon: <i class="fa-solid fa-file"></i>
+  - name: resume
+    icon: <i class="fa-regular fa-user"></i>
     link: https://nbviewer.org/github/arm61/resume/blob/master/resume.pdf
   - name: github
     icon: <i class="fa-brands fa-github"></i>
