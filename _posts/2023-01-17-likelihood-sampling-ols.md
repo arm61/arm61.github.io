@@ -45,7 +45,7 @@ plt.show()
 ```
 
 <center>
-    <img src="/assets/img/ols1.png" width="70%"><br>
+    <img src="/assets/img/ols1.png" width="80%"><br>
     <small>
         The "noisy" linear data.
     </small>
@@ -212,7 +212,7 @@ plt.show()
 ```
 
 <center>
-    <img src="/assets/img/ols2.png" width="70%"><br>
+    <img src="/assets/img/ols2.png" width="80%"><br>
     <small>
         The likelihood distribution for our model, on the noisy data.<br>
     </small>
