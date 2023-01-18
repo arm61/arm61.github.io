@@ -224,7 +224,8 @@
   caption: Reflectometry data reduction at Diamond Light Source.
 - title:  Advice on describing Bayesian analysis of neutron and X-ray reflectometry
   journal: J. Appl. Crystallogr.
-  pages: Accepted
+  volume: 56
+  issue: 1
   year: 2023
   authors:
       - Andrew R. McCluskey*

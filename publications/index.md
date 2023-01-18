@@ -15,7 +15,10 @@ layout: default
     {% if pub.issue.size > 0 %}
         ({{ pub.issue }}), 
     {% endif %}
-    {{ pub.pages}}, {{ pub.year }} &mdash; 
+    {% if pub.pages.size > 0 %}
+    {{ pub.pages}},
+    {% endif %}
+    {{ pub.year }} &mdash; 
     {% if pub.paper.size > 0 %}
         <a href="{{ pub.paper }}">Paper</a>
     {% endif %}
