@@ -239,7 +239,8 @@
       - Andrew R. J. Nelson
       - Wojciech Potrzebowski
       - Vladimir Starostin
-  paper: http://arxiv.org/abs/2207.10406
+  paper: https://doi.org/10.1107/S1600576722011426
+  arxiv: http://arxiv.org/abs/2207.10406
   esi: https://github.com/arm61/reporting_sampling
   data: https://doi.org/10.5281/zenodo.6645201
   caption: The opinion of the ORSO members on how best to share results from Bayesian sampling.
