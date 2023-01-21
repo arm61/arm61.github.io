@@ -54,10 +54,10 @@ The desire to perform likelihood sampling is driven by an interest in finding th
 This is possible in a purely ordinary least squares world with the following matrix manipulation, 
 
 $$
-M = (X^{\mathrm{T}}C^{-1}X)^{-1},
+M = (\mathrm{X}^{\mathrm{T}}\mathrm{C}^{-1}\mathrm{X})^{-1},
 $$
 
-where, $$X$$ is the [design matrix](https://en.wikipedia.org/wiki/Design_matrix) and $$C$$ is an identity matrix, scaled by the variance of the residuals (the difference between the OLS line of best fit and the data).
+where, $$\mathrm{X}$$ is the [design matrix](https://en.wikipedia.org/wiki/Design_matrix) and $$\mathrm{C}$$ is an identity matrix, scaled by the variance of the residuals (the difference between the OLS line of best fit and the data).
 This is what [`scipy.stats.linregress`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html) will do. 
 
 ```python
