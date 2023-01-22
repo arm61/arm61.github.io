@@ -1,7 +1,7 @@
 ---
 layout: post
 title: København marathon
-date: 2022-06-01
+date: 2023-01-22
 upstream: /blog/
 tags: 
     - running
