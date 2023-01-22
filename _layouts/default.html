@@ -39,7 +39,7 @@
           {% endif %}
 
           {% if site.email %}
-            <p class="addr"><i class="fa-solid fa-envelope"></i>&nbsp;{{ site.email }}</p>
+            <p class="addr"><i class="fa-solid fa-envelope fa-fw"></i>&nbsp;{{ site.email }}</p>
           {% endif %}
 
           <p>{{ site.description | default: site.github.project_tagline }}</p>
@@ -63,16 +63,16 @@
       {% else %}
       {% if site.posts.size > 0 %}
         <h2>Recent Posts</h2>
-        <ul>
+        <ul class="blog">
           {% for post in site.posts limit:3 %}
             <li>
               <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: '%Y-%m-%d' }}
             </li>
-          {% endfor %}<br>
+          {% endfor %}
           </ul>
+          <a href="/blog/">All Posts</a>
         {% endif %}
       {% endif %}
-
       </section>
       <footer>
         {%- include footer.html -%}
