@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<h1>Publications</h1>
+
 {% for pub in site.data.publications reversed %}
   <body>
   <b>

@@ -17,6 +17,7 @@ The result of this "year of trains"[^2] is that I enjoyed many days, and sometim
 And in additional to the ease of train travel, I have found an additional benefit, which I feel other "knowledge workers" (to borrow a phrase I don’t like from Cal Newport’s [Deep Work](https://mccluskey.scot/2022/12/21/thoughts-on-deep-work.html)) may be interested in. 
 This is trains as a *Deep Work space*. 
 
+The idea of a *Deep Work space* is introduced in Cal Newport's book, perhaps without using that term. 
 
 
 I hope that this will give others a different perspective on train-travel for work purposes and inspire others to travel more by this more climate-friendly approach. 
@@ -28,5 +29,5 @@ I hope that this will give others a different perspective on train-travel for wo
 A discussion about why train travel is better for work travel than flying.
 Specifically focusing on productivity
 
-[^1]: Calling [Amager](https://en.wikipedia.org/wiki/Amager) mainland Europe is a stretch I know. 
+[^1]: Calling [Amager](https://en.wikipedia.org/wiki/Amager) mainland Europe is a stretch, I know. 
 [^2]: I confess, I also flew more than I should have.
