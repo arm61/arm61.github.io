@@ -13,25 +13,25 @@ plugins:
 # You can find fonts from https://iconify.design or https://fontawesome.com. Below is just an example illustrating how to use custom icons
 sidebar:
   - name: blog
-    icon: <i class="fa-solid fa-pen"></i>
+    icon: fa-solid fa-pen
     link: /blog/
   - name: publications
-    icon: <i class="fa-solid fa-book"></i>
+    icon: fa-solid fa-book
     link: /publications/
   - name: resume
-    icon: <i class="fa-solid fa-user"></i>
+    icon: fa-solid fa-user
     link: https://nbviewer.org/github/arm61/resume/blob/master/resume.pdf
   - name: github
-    icon: <i class="fa-brands fa-github"></i>
+    icon: fa-brands fa-github
     link: https://github.com/arm61
   - name: strava
-    icon: <i class="fa-solid fa-person-running"></i>
+    icon: fa-solid fa-person-running
     link: https://www.strava.com/athletes/8500579
   - name: photo
-    icon: <i class="fa-solid fa-camera"></i> 
+    icon: fa-solid fa-camera
     link: /photo/
   - name: faq
-    icon: <i class="fa-solid fa-circle-question"></i>
+    icon: fa-solid fa-circle-question
     link: /faq/
 
 # https://github.com/github/pages-gem/issues/399#issuecomment-301827749

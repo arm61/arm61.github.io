@@ -10,7 +10,7 @@
         }
     </style>
     {%- for platform in site.sidebar %}
-    <nobr><a href="{{ platform.link }}" rel="me">{{ platform.icon }}</a>
+    <nobr><a href="{{ platform.link }}" rel="me"><i class="{{ platform.icon }} fa-xl"></i></a>
     {%- unless forloop.last %}<span style="margin-left: 6px;"></span>{% endunless %}</nobr>
     {%- endfor %}
 </div>
