@@ -2,6 +2,7 @@
 layout: post
 title: Likelihood sampling analogue of ordinary least squares
 date: 2023-01-17
+updated: 2023-01-22
 upstream: /blog/
 tags: 
     - maths
