@@ -13,6 +13,11 @@ In 2022, with COVID restrictions reducing, I found myself with a lot more work-t
 In the interest of being more environmentally conscious, and due to the fact that I am now living in mainland Europe[^1], I decided to use the train as much as possible. 
 There is also selfish reasons, of course, I enjoy train-travel and have an interest in railways.
 
+<img src="/assets/img/rail_dk.png" alt="A map of Denmark showing the train lines (from OpenRailwayMap).">
+<small>
+Source: <a href="https://www.openrailwaymap.org/?style=standard&lat=56.04596557185144&lon=10.94512939453125&zoom=8">www.openrailwaymap.org</a>.
+</small>
+
 The result of this "year of trains"[^2] is that I enjoyed many days, and sometimes multiple days, travelling by train to different parts of Europe. 
 And in additional to the ease of train travel, I have found an additional benefit, which I feel other "knowledge workers" (to borrow a phrase I don’t like from Cal Newport’s [Deep Work](https://mccluskey.scot/2022/12/21/thoughts-on-deep-work.html)) may be interested in. 
 This is trains as a *Deep Work space*. 
