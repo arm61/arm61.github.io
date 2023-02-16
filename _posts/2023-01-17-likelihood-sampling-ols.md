@@ -114,20 +114,20 @@ The example in the PyMC documentation here used an identity matrix scaled by the
 However, to make the process analogous to OLS, we should use the variance of the residuals, $$\sigma^2(m-\mu)$$, between our model and our data, as the scaling factor for an identity matrix,
 
 $$
-\Sigma = \sigma^2(m-\mu) I_n.
+\Sigma = \sigma^2_{(m-\mu)} I_n.
 $$
 
 From this, we can start to make the log-likelihood equation more efficient to calculate. 
 Firstly, by recognising that the determinant of a diagonal matrix (including identity matrices) is the product of the diagonal, 
 
 $$
-|\Sigma| = |\sigma^2(m-\mu) I_n| = (\sigma^2(m-\mu)) ^ n.
+|\Sigma| = |\sigma^2(m-\mu) I_n| = (\sigma^2_{(m-\mu)}) ^ n.
 $$
 
 Secondly, that the inverse of an identity matrix is an identity matrix, so,  
 
 $$
-(\Sigma)^{-1} = (\sigma^2(m-\mu))^{-1}I_n.
+(\Sigma)^{-1} = (\sigma^2_{(m-\mu)})^{-1}I_n.
 $$
 
 These small mathematical manipulations have a significant impact on the computational efficiency of the code[^2], which we can implement as follows. 
