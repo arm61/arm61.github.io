@@ -29,7 +29,7 @@ The activity of block time and actively deciding to work on project X has the po
 Therefore, I decided on the following takeaway: 
 
 <blockquote class="var">
-    1. Create work blocks with a minimum length of one week, decide which project will be worked on in advance and put this in my calendar as a reminder.`
+    1. Create work blocks with a minimum length of one week, decide which project will be worked on in advance and put this in my calendar as a reminder.
 </blockquote>
 
 Newport advocates for a *shutdown ritual* that indicates the end of a period of deep work. 
