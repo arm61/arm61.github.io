@@ -20,7 +20,7 @@
       - Benjamin J. Morgan
       - Karen J. Edler
       - Stephen C. Parker
-  paper: https://doi.org/10.2174/1875692115666170612104439
+  paper: https://doi.org/10.21105/jose.00019
   code: https://github.com/arm61/pylj
   docs: https://pylj.readthedocs.io/en/latest/
   caption: pylj is an educational software to introduce students to classical atomistic simulation using a Lennnard-Jones potential model.
@@ -206,7 +206,7 @@
       - Andrew R. McCluskey
       - Tommy Nylander
       - Max Wolff
-  paper: https://doi.org/10.1080/10448632.2021.2005422
+  paper: https://doi.org/10.1080/10448632.2022.2050633
   caption: A short description of the SXNS16 conference.
 - title: "islatu: A Python package for the reduction of reflectometry data"
   journal: J. Open Source Softw.
@@ -218,7 +218,7 @@
       - Richard Brearton*
       - Andrew R. McCluskey
       - Tim Snow
-  paper: https://doi.org/10.21105/joss.03127
+  paper: https://doi.org/10.21105/joss.04397
   code: https://github.com/RBrearton/islatu
   docs: https://islatu.readthedocs.io/
   caption: Reflectometry data reduction at Diamond Light Source.
