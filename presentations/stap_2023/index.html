@@ -8,6 +8,10 @@
 </script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=default"></script>
+<script type="module">
+    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+    mermaid.initialize({ startOnLoad: true});
+</script>
 
 <!-- saved from url=(0044)http://bitsandchips.me/Talks/PyCon.html#/3/1 -->
 <html prefix="og: http://ogp.me/ns#" class="js no-mobile desktop no-ie chrome chrome68 talks-section gradient rgba opacity textshadow multiplebgs boxshadow borderimage borderradius cssreflections csstransforms csstransitions no-touch no-retina fontface domloaded gr__bitsandchips_me w-1920 gt-240 gt-320 gt-480 gt-640 gt-768 gt-800 gt-1024 gt-1280 gt-1440 gt-1680 no-portrait landscape" id="pycon-page"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style id="stndz-style">div[class*="item-container-obpd"], a[data-blackirect*="paid.outbrain.com"], a[onmousedown*="paid.outbrain.com"] { display: none !important; } a div[class*="item-container-ad"] { height: 0px !important; overflow: hidden !important; position: absolute !important; } div[data-item-syndicated="true"] { display: none !important; } .grv_is_sponsored { display: none !important; } .zergnet-widget-related { display: none !important; } </style>
@@ -64,7 +68,7 @@
 				<div class="grid-wrapper">
 					<div class="content">
 						<h1>
-                            Neutron Reflectometry &mdash; ESTIA
+                            IDS for Neutron Reflectometry (ESTIA)
 						</h1>
 						<div class="description">
 							DMSC STAP &mdash; 2023/04/26
@@ -124,19 +128,19 @@
                         <center>
                             <h1>
                                 Current reposibilities
-                            </h1>
+                            </h1><br>
                             <ul>
                                 <li>
-                                    Instrument Data Scientist for ESTIA
+                                    Instrument Data Scientist for ESTIA 🪛
                                 </li>
                                 <li>
-                                    Project owner/lead developer EasyReflectometry
+                                    Project owner/lead developer EasyReflectometry 🧑‍💻
                                 </li>
                                 <li>
-                                    Lead organiser of DMSC Summer School
+                                    Lead organiser of DMSC Summer School 🧑‍🏫
                                 </li>
                                 <li>
-                                    Independent research
+                                    Independent research 🔬
                                 </li>
                             </ul>
                         </center>
@@ -172,7 +176,7 @@
                         <center>
                             <h1>
                                 Service Blueprint
-                            </h1>
+                            </h1><br>
                             <ul>
                                 <li>
                                     Planning the interactions between the user and the data pipeline at ESS
@@ -200,14 +204,42 @@
                             </ul>
                             <br>
                             <br>
-                            <img src="images/service_blueprint.png" width="60%">
-                            <br>
-                            <small>
-                                An example of the service blueprints, some of which can be found in the <a href="https://indico.esss.lu.se/event/3239/attachments/14033/26058/Reflectometry_stap_april_2023-4.pdf">Reflectometry STAP Report</a>.
-                            </small>
+                            <pre class="mermaid">
+                                sequenceDiagram
+                                    participant U as User
+                                    participant IDS
+                                    participant UO as User Office
+                                    participant IS as Instrument Scientist
+                                    participant N as NICOS
+                                    participant S as Scipp
+                                    participant V as VISA
+                                    participant SC as SciCat
+                                    note left of U: Aware
+                                    UO->>U: Beamtime proposal accepted
+                                    IDS->>U: Reduction and analysis support outlined
+                                    note over IDS: Create reduction/analysis script repository
+                                    IDS->>SC: Link to reduction/analysis script repository
+                                    note left of U: Join
+                                    UO->>U: Reduction/analysis requirements survey
+                                    U->>IDS: Survey results
+                                    loop Agreement of analysis support
+                                        IDS-->U: Discussion
+                                    end
+                                    IDS->>IS: Reduction/analysis requirements outline
+                                    loop Agreement of reduction workflow
+                                        IDS-->U: Discussion
+                                    end
+                                    IDS->>S: Set up of automated workflow
+                                    U->>UO: Sample definition
+                                    UO->>SC: Sample definition metadata communicated
+                            </pre> 
                         </center>
                     </div>
                 </div>
+                <script type="module">
+                    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+                    mermaid.initialize({ startOnLoad: true, theme: 'base'});
+                    </script>
             </section>
 
             <section class="color--white past" id="" style="display: block;" hidden="" aria-hidden="true">
@@ -220,7 +252,7 @@
                         <center>
                             <h1>
                                 Data Reduction Workflows
-                            </h1>
+                            </h1><br>
                             <ul>
                                 <li>
                                     Eight potential operation modes for ESTIA
@@ -232,10 +264,10 @@
                                     <br>
                                 </li>
                                 <li>
-                                    Currently workflows exist for the 100 and 000 modes
+                                    Currently workflows exist for the <code>100</code> and <code>000</code> modes
                                 </li>
                                 <li>
-                                    <b>Next 6 months</b>: developing McStas simulations to cover the remaining modes
+                                    <b>Next 6 months</b>: Developing McStas simulations to cover the remaining modes
                                 </li>
                             </ul>
                             <br>
@@ -261,10 +293,10 @@
                         <center>
                             <h1>
                                 Selene Guide Commissioning
-                            </h1>
+                            </h1><br>
                             <ul>
                                 <li>
-                                    Integration of metrology cart and robot for ESTIA Selene guide
+                                    Integration of metrology cart and screwdriver robot for ESTIA Selene guide
                                 </li>
                                 <li>
                                     <b>Next 6 months</b>: Complete integration and start on guide optimisation software
@@ -272,11 +304,13 @@
                             </ul>
                             <br>
                             <br>
-                            <img src="images/scipp-mantid.png" width="36%">
-                            <img src="images/off.png" width="38%">
+                            <video width="470" controls autoplay muted loop>
+                                <source src="images/screw.mp4" type="video/mp4">
+                              Your browser does not support the video tag.
+                              </video>
                             <br>
                             <small>
-                                Data from OFFSPEC instrument, reduced with Mantid and <code>scipp</code>, the <code>scipp</code> reduced data was then analysed with EasyReflectometry.
+                                A demonstration of the screwdriver robot in action.
                             </small>
                         </center>
                     </div>
@@ -294,26 +328,41 @@
                     <div class="content">
                         <center>
                             <h1>
-                                Self-diffusion coefficient
+                                EasyReflectometry
                             </h1>
+                        </center>
+                    </div>
+                </div>
+            </section>
+
+            <section class="color--black past" id="" style="display: block;" hidden="" aria-hidden="true">
+                <div class="grid-wrapper">
+                    <div class="header">
+                        <div class="logo">
+                        </div>
+                    </div>
+                    <div class="content">
+                        <center>
+                            <h1>
+                                EasyReflectometry
+                            </h1><br>
                             <ul>
                                 <li>
-                                    Quantified the diffusion &rarr; linked to conductivity.
+                                    Easy to use and extensible analysis package for reflectometry
                                 </li>
                                 <li>
-                                    Found by <i>fitting a straight line</i>.
+                                    Built on successes of EasyScience/EasyDiffraction
+                                </li>
+                                <li>
+                                    Functionality includes co-refinement, such as for multiple isotopic contrasts
                                 </li>
                             </ul>
-                            <br><br>
-                            \[
-                                \big\langle \Delta \mathbf{r} (t) ^2 \big\rangle = 2dD^*t + c
-                            \]
                             <br>
                             <br>
-                            <img src="images/msd.png" width="50%">
+                            <img src="https://github.com/easyScience/EasyReflectometryApp/raw/main/resources/images/er_analysis_dark.png" width="50%">
                             <br>
                             <small>
-                                Mean-squared displacement as a function of time interval.
+                                The sample tab for the EasyReflectometry GUI interface.
                             </small>
                         </center>
                     </div>
@@ -329,214 +378,52 @@
                     <div class="content">
                         <center>
                             <h1>
-                                Self-diffusion coefficient
-                            </h1>
+                                Roadmap
+                            </h1><br>
                             <ul>
                                 <li>
-                                    Quantified the diffusion &rarr; linked to conductivity.
+                                    Outlines planned <i>functionality</i> for EasyReflectometry between now and SOUP
                                 </li>
                                 <li>
-                                    Found by <i>fitting a straight line</i>.
+                                    <b>Next 6 months</b>: User experience enhancements and <i>real</i> user engagement
+                                </li>
+                                <li>
+                                    <b>Next 12 months</b>: Development of magnetism support and Bayesian analysis
                                 </li>
                             </ul>
-                            <br><br>
-                            \[
-                                \big\langle \Delta \mathbf{r} (t) ^2 \big\rangle = 2dD^*t + c
-                            \]
-                            <br>
-                            <br>
-                            <img src="images/msd_ols.png" width="50%">
-                            <br>
-                            <small>
-                                Mean-squared displacement as a function of time interval, <i>with a line of best fit</i>.
-                            </small>
-                        </center>
-                    </div>
-                </div>
-            </section>
+                            <pre class="mermaid">
+                                %%{init: {'theme': 'dark'}}%%
+                                gantt
+                                    title EasyReflectometry Roadmap Nov 2022-Jan 2027
+                                    dateFormat  YYYY-MM
+                                    axisFormat  %Y-%m
+                                    todaymarker off
 
-            <section class="color--black past" id="" style="display: block;" hidden="" aria-hidden="true">
-                <div class="grid-wrapper">
-                    <div class="header">
-                        <div class="logo">
-                        </div>
-                    </div>
-                    <div class="content">
-                        <center>
-                            <h1>
-                                Stochastic simulations
-                            </h1>
-                            <ul>
-                                <li>
-                                    MD simulations are stochastic. 
-                                </li>
-                                <li>
-                                    There are many possible mean-squared displacements that might be observed.
-                                </li>
-                            </ul>
-                            <br>
-                            <br>
-                            <img src="images/msd_range.gif" width="50%">
-                            <br>
-                            <small>
-                                Examples of different random walks, <i>each with a different line of best fit</i>.
-                            </small>
-                        </center>
-                    </div>
-                </div>
-            </section>
+                                    section General
+                                    User experience enhancement :a1, 2022-12, 24w
+                                    Resolution smearing :a2, 2023-04, 8w
+                                    File IO :a3, after a1, 16w
+                                    Video Tutorials :a4, after d3, 16w
+                                    Ready for real users: milestone, m1, after a3, 2min
 
-            <section class="color--black past" id="" style="display: block;" hidden="" aria-hidden="true">
-                <div class="grid-wrapper">
-                    <div class="header">
-                        <div class="logo">
-                        </div>
-                    </div>
-                    <div class="content">
-                        <center>
-                            <h1>
-                                Stochastic simulations
-                            </h1>
-                            <ul>
-                                <li>
-                                    MD simulations are stochastic. 
-                                </li>
-                                <li>
-                                    There are many possible <i>diffusion coefficients</i> that might be observed.
-                                </li>
-                            </ul>
-                            <br>
-                            <br>
-                            <img src="images/d_ols.png" width="50%">
-                            <br>
-                            <small>
-                                The distribution of possible \(D^*\) values.
-                            </small>
-                        </center>
-                    </div>
-                </div>
-            </section>
+                                    section New functionality
+                                    Mixed area models :b1, after m1, 20w
+                                    ESS integration :b2, after c2, 20w
+                                    Bayesian analysis :b3, after b2, 30w
+                                    Ready for first ESS instruments :milestone, m2, after b2, 2min
+                                    ESS Start of User Operation :milestone, m3, 2026-11, 2min
 
-            <section class="color--black past" id="" style="display: block;" hidden="" aria-hidden="true">
-                <div class="grid-wrapper">
-                    <div class="header">
-                        <div class="logo">
-                        </div>
-                    </div>
-                    <div class="content">
-                        <center>
-                            <h1>
-                                Uncertainty underestimation
-                            </h1>
-                            <ul>
-                                <li>
-                                    <i>Fitting a straight line</i> underestimates the true uncertainty.
-                                </li>
-                            </ul>
-                            <br>
-                            <br>
-                            <img src="images/d_ols_err.png" width="50%">
-                            <br>
-                            <small>
-                                The distribution of possible \(D^*\) values <i>with the estimated uncertainty from a single straight line</i>.
-                            </small>
-                        </center>
-                    </div>
-                </div>
-            </section>
-        </section>
+                                    section Hard Condensed Matter
+                                    Magnetism support :c1, after m1, 52w
+                                    Spin asymmetry and polarisation analysis :c2, after c1, 40w
 
-        <section class="stack present" style="display: block;" data-previous-indexv="0">
-            <section class="color--white past" id="" style="display: block;" hidden="" aria-hidden="true">
-                <div class="grid-wrapper">
-                    <div class="header">
-                        <div class="logo">
-                        </div>
-                    </div>
-                    <div class="content">
-                        <center>
-                            <h1>
-                                Displacements are not <b>iid</b>
-                            </h1>
-                            <ul>
-                                <li>
-                                    Independent: the displacement is correlated.
-                                </li>
-                                <li>
-                                    Identically distributed: the variance increases with \(t\).
-                                </li>
-                            </ul>
-                            <br>
-                            <br>
-                            <img src="images/cov.png" width="100%">
-                            <br>
-                            <small>
-                                Mean-squared displacement, with error bars (left) as a function of time interval and covariance matrix (right).
-                            </small>
-                        </center>
-                    </div>
-                </div>
-            </section>
-            
-            <section class="color--white past" id="" style="display: block;" hidden="" aria-hidden="true">
-                <div class="grid-wrapper">
-                    <div class="header">
-                        <div class="logo">
-                        </div>
-                    </div>
-                    <div class="content">
-                        <center>
-                            <h1>
-                                Account for these aspects
-                            </h1>
-                            <ul>
-                                <li>
-                                    We can use:
-                                    <ul>
-                                        <li>
-                                            Generalised least squares (limited to linear problems),
-                                        </li>
-                                        <li>
-                                            Probabilistic sampling with a covariant multivariate normal distribution.
-                                        </li>
-                                    </ul>
-                                </li>
-                            </ul>
-                            <br>
-                            <br>
-                            <img src="images/d_gls_err.png" width="50%">
-                            <br>
-                            <small>
-                                The distribution of possible \(D^*\) values <i>with the GLS estimated uncertainty from a single straight line</i>.
-                            </small>
-                        </center>
-                    </div>
-                </div>
-            </section>
-
-            <section class="color--white past" id="" style="display: block;" hidden="" aria-hidden="true">
-                <div class="grid-wrapper">
-                    <div class="header">
-                        <div class="logo">
-                        </div>
-                    </div>
-                    <div class="content">
-                        <center>
-                            <h1>
-                                Accurate uncertainty & high efficiency
-                            </h1>
-                            <ul>
-                                <li>
-                                    When considering the non-iid nature, there is also a significant improvement in statistical efficiency.
-                                </li>
-                            </ul>
-                            <br>
-                            <br>
-                            <img src="images/ols_gls.png" width="60%">
-                            <br>
-                            <small>
-                                Comparison of results from GLS (left) and OLS (right)
-                            </small>
+                                    section Item Library
+                                    Bilayer item :d1, 2023-01, 8w
+                                    Material gradient :d2, after a2, 8w
+                                    Mixed surfactant layer :d3, after b1, 8w
+                                    Bilayer with embedded protein :d4, after c1, 16w
+                                    Mixed bilayer item :d5, after c2, 8w
+                                </pre>
                         </center>
                     </div>
                 </div>
@@ -544,30 +431,83 @@
         </section>
 
         <section class="stack present" style="display: block;" data-previous-indexv="0"> 
-            <section class="color--black past" id="" style="display: block;" hidden="" aria-hidden="true">
+            <section class="color--white past" id="" style="display: block;" hidden="" aria-hidden="true">
                 <div class="grid-wrapper">
                     <div class="header">
                         <div class="logo">
                         </div>
                     </div>
                     <div class="content">
-                        <a href="https://kinisi.rtfd.io">
-                            <img src="https://github.com/bjmorgan/kinisi/raw/master/docs/source/_static/logo_dark.png?raw=true" width="20%">
-                        </a>
-                        <br><br>
                         <center>
+                            <h1>
+                                Independent Research
+                            </h1>
+                        </center>
+                    </div>
+                </div>
+            </section>
+
+            <section class="color--white past" id="" style="display: block;" hidden="" aria-hidden="true">
+                <div class="grid-wrapper">
+                    <div class="header">
+                        <div class="logo">
+                        </div>
+                    </div>
+                    <div class="content">
+                        <center>
+                            <h1>
+                                Probabilistic modelling
+                            </h1><br>
+                            <ul>
+                                <li>
+                                    Linking atomistic data (simulations/etc) with neutron scattering
+                                </li>
+                                <li>
+                                    Building on success in quantifying diffusion from mean-squared displacement
+                                </li>
+                                <li>
+                                    <b>Next 6 months</b>: Applying for funding with collaborators from DTU and Queen Mary University of London
+                                </li>
+                            </ul>
+                            <br><br>
                             <a href="https://kinisi.rtfd.io">
-                                <img src="https://github.com/bjmorgan/kinisi/raw/master/docs/source/_static/schematic_dark.png?raw=true">
+                                <img src="https://github.com/bjmorgan/kinisi/raw/master/docs/source/_static/schematic_light.png?raw=true">
                             </a>
                             <br>
-                            <small>
-                                <a href="https://kinisi.rtfd.io">kinisi.rtfd.io</a>
-                            </small>
                         </center>
                     </div>
                 </div>
             </section>
 		</section>
+
+        <section class="stack present" style="display: block;" data-previous-indexv="0">
+            <section class="color--black past" id="" style="display: block;">
+                <div class="grid-wrapper">
+                    <div class="header">
+                        <div class="logo">
+                        </div>
+                    </div>
+                    <div class="content">
+                        <center>
+                            <h1>
+                                Vision +5 years
+                            </h1><br>
+                            <ul>
+                                <li>
+                                    50 % joint position between ESTIA IDS and lectureship in local University
+                                </li>
+                                <li>
+                                    Continue as EasyReflectometry product owner but with dedicated software developer
+                                </li>
+                                <li>
+                                    Research- and teaching-active, while supporting users at ESTIA
+                                </li>
+                            </ul>
+                        </center>
+                    </div>
+                </div>
+            </section>
+        </section>
 
         <section class="stack present" style="display: block;" data-previous-indexv="0">
             <section class="color--blue past" id="" style="display: block;">
@@ -579,49 +519,40 @@
                     <div class="content">
                         <center>
                             <h1>
-                                Questions?
-                            </h1>
-                            Tak for at lytte
+                                Contributors
+                            </h1><br>
+                            <table>
+                                <tr>
+                                  <td>Massimiliano Novelli</td>
+                                  <td>Simon Heybrock</td>
+                                  <td>Neil Vaytet</td>
+                                </tr>
+                                <tr>
+                                  <td>Jan-Lukas Wynen</td>
+                                  <td>Jos Cooper (ISIS)</td>
+                                  <td>Jonas Petersson</td> 
+                                </tr>
+                                <tr>
+                                  <td>Artur Glavic (PSI)</td>
+                                  <td>Federico Rojas</td>
+                                  <td>Simon Ward</td>
+                                </tr>
+                                <tr>
+                                  <td>Piotr Rozyczko</td>
+                                  <td>Andrew Sazonov</td>
+                                  <td>Ben Morgan (Bath)</td>
+                                </tr>
+                                <tr>
+                                  <td>Sam Coles (Bath)</td>
+                                  <td>Keith Butler (QMUL)</td>
+                                  <td>Ivano Castelli (DTU)</td>
+                                </tr>
+                              </table>
                         </center>
                     </div>
                 </div>
             </section>
         </section>
-
-        <!--- THIS SECTION WILL BE WHITE -->
-        <section class="stack present" style="display: block;" data-previous-indexv="0">
-            <section class="color--black past" id="" style="display: block;" hidden="" aria-hidden="true">
-                <div class="grid-wrapper">
-                    <div class="header">
-                        <div class="logo">
-                        </div>
-                    </div>
-                    <div class="content">
-                        <center>
-                            <h1>
-                                Discussion
-                            </h1>
-                            Considering an experimental/simulation technique that you work with regularly:
-                            <br>
-                            <ul>
-                                <li>
-                                    Do you know what effect ignoring correlations in your errors<br>would have on your data/system/decision making?
-                                </li>
-                                <li>
-                                    Are you worried about correlations in your data/system/decision making? 
-                                </li>
-                                <li>
-                                    Should you be?
-                                </li>
-                                <li>
-                                    How would you go about determining correlation<br>between data for your technique?
-                                </li>
-                            </ul>
-                        </center>
-                    </div>
-                </div>
-            </section>
-		</section>
 
         <section id="end" class="color--dogs">
 		</section>
@@ -660,3 +591,4 @@
   		]
   	});
 </script>
+
