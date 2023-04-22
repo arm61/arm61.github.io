@@ -89,7 +89,7 @@ It is clear that by using the linear form of the Arrhenius equation we significa
 <center>
     <img src="/assets/img/arr3.png" width="100%"><br>
     <small>
-        The bias introduced in using linear least squares for Arrhenius behaviour.<br>
+        The bias introduced in using linear least squares for Arrhenius behaviour, the vertical line represents the true activation energy.<br>
     </small>
 </center><br> 
 
