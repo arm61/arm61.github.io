@@ -3,4 +3,4 @@ layout: blog
 title: Blog
 ---
 
-The blind leading the blind. 
+The garbage that I write represents my own views and not those of my employer. 
