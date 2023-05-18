@@ -246,3 +246,15 @@
   esi: https://github.com/arm61/reporting_sampling
   data: https://doi.org/10.5281/zenodo.6645201
   caption: The opinion of the ORSO members on how best to share results from Bayesian sampling.
+- title:  Nature of the Superionic Transition of Lithium Nitride from Machine Learning Force Fields
+  journal: Submitted.
+  year: 2023
+  authors:
+      - Gabriel Krenzer
+      - Johan Klarbring
+      - Kasper Tolborg
+      - Hugo Rossignol
+      - Andrew R. McCluskey
+      - Benjamin J. Morgan*
+      - Aron Walsh*
+  caption: Investigations in superionic behaviour in lithiun nitride, quantified with non-Arrhenius diffusion. 
