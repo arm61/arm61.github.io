@@ -20,12 +20,12 @@ layout: default
     {% if pub.pages.size > 0 %}
     {{ pub.pages}},
     {% endif %}
-    {{ pub.year }} &mdash; 
+    {{ pub.year }}
     {% if pub.paper.size > 0 %}
-        <a href="{{ pub.paper }}">Paper</a>
+        <a href="{{ pub.paper }}"> &mdash; Paper</a>
     {% endif %}
     {% if pub.thesis.size > 0 %}
-        <a href="{{ pub.thesis }}">Thesis</a>
+        <a href="{{ pub.thesis }}"> &mdash; Thesis</a>
     {% endif %}
     {% if pub.code.size > 0 %}
          | <a href="{{ pub.code }}">Code</a>
