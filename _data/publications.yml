@@ -258,3 +258,12 @@
       - Benjamin J. Morgan*
       - Aron Walsh*
   caption: Investigations in superionic behaviour of lithiun nitride, quantified with non-Arrhenius diffusion. 
+- title:  Is there still a place for linearization in the chemistry curriculum?
+  journal: Submitted
+  year: 2023
+  authors:
+      - Andrew R. McCluskey*
+  paper: https://github.com/arm61/linearization-issues/blob/main-pdf/ms.pdf
+  esi: https://github.com/arm61/linearization-issues
+  data: https://doi.org/10.5281/zenodo.7949905
+  caption: A commentary questioning the role of linearization in an undergraduate chemistry education.
