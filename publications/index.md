@@ -46,7 +46,7 @@ layout: default
          | <a href="{{ pub.arxiv }}">arXiv</a>
     {% endif %}
     {% if pub.chemrxiv.size > 0 %}
-         | <a href=“{{ pub.chemrxiv }}”>ChemRxiv</a>
+         | <a href="{{ pub.chemrxiv }}">ChemRxiv</a>
     {% endif %}
     <br>
     {{ pub.authors | join: ", " }}
