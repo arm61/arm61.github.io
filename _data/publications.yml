@@ -24,7 +24,7 @@
   code: https://github.com/arm61/pylj
   docs: https://pylj.readthedocs.io/en/latest/
   caption: pylj is an educational software to introduce students to classical atomistic simulation using a Lennnard-Jones potential model.
-- title: "Bayesian determination of the effect of a deep eutectic solvent on the structure of lipid monolayers"
+- title: Bayesian determination of the effect of a deep eutectic solvent on the structure of lipid monolayers
   journal: Phys. Chem. Chem. Phys.
   volume: 21
   issue: 11
@@ -43,7 +43,7 @@
   data: https://doi.org/10.15125/BATH-00548
   arxiv: https://arxiv.org/abs/1810.07616
   caption: A novel reflectometry analysis method reveals the structure of lipid monolayers at the air-DES interface.
-- title: "An introduction to classical molecular dynamics simulation for experimental scattering users"
+- title: An introduction to classical molecular dynamics simulation for experimental scattering users
   journal: J. Appl. Crystallogr.
   volume: 52
   issue: 3
