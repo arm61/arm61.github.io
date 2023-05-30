@@ -266,4 +266,17 @@
   paper: https://github.com/arm61/linearization-issues/blob/main-pdf/ms.pdf
   esi: https://github.com/arm61/linearization-issues
   data: https://doi.org/10.5281/zenodo.7949905
+  chemrxiv: https://doi.org/10.26434/chemrxiv-2023-44b29
   caption: A commentary questioning the role of linearization in an undergraduate chemistry education.
+- title: Accurate Estimation of Diffusion Coefficients and their Uncertainties from Computer Simulation
+  journal: Submitted
+  year: 2023
+  authors:
+      - Andrew R. McCluskey*
+      - Samuel W. Coles
+      - Benjamin J. Morgan*
+  paper: https://arxiv.org/pdf/2305.18244.pdf
+  esi: https://github.com/arm61/msd-errors
+  data: https://doi.org/10.5072/zenodo.1206872
+  arxiv: https://arxiv.org/abs/2305.18244
+  caption: A physics-informed statistical model to efficiently estimate diffusion and accurately quantify uncertainty.
