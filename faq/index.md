@@ -1,8 +1,7 @@
 ---
 layout: default
+title: FAQ
 ---
-
-# FAQ
 
 This is a page that answers some questions. It also serves a place to store knowledge/links that might otherwise get lost. 
 

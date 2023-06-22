@@ -56,6 +56,10 @@
       </div>
       <section>
 
+      {% if page.url != "/" %}
+      <h1>{{ page.title }}</h1>
+      {% endif %}
+
       {{ content }}
 
       {% if page.url != "/" %}
