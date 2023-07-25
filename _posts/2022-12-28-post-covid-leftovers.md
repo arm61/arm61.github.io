@@ -32,7 +32,7 @@ Source: <a href="https://eu.usatoday.com/story/life/tv/2017/04/11/final-hbo-left
 
 
 We are currently facing [cost of living crises](https://www.dr.dk/nyheder/penge/flere-danskere-kan-ikke-betale-uforudsete-regninger) across Europe, which are sold by many as a direct result of COVID, overlooking decades of runaway and unrestrained capitalism. 
-Globally we are facing [major supply chain problems](supply chain article), inflating prices and increasing wait times, and we ignore the influence of the developed world propping up dictators that became rich on the back of a [sweatshop economy](article about Cambodia). 
+Globally we are facing major supply chain problems, inflating prices and increasing wait times, and we ignore the influence of the developed world propping up dictators that became rich on the back of a sweatshop economy.
 Finally, the UK’s current Conservative government is in the process of convincing the populous of the exclusive role that COVID has played in the imminent collapse of the [National Health Service](https://en.wikipedia.org/wiki/National_Health_Service), and not more than a decade of active dismantling through underfunding[^2]. 
 
 The “over-the-top” reactions that we see in The Leftovers will always have parallels in the real world. 

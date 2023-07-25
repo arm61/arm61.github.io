@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<small>From: {{ page.date | date: "%Y-%m-%-d" }}</small>
+<small>from: {{ page.date | date: "%Y-%m-%-d" }}</small>
 {% if page.updated %}
   <small>&nbsp;|&nbsp;Updated: {{ page.updated | date: "%Y-%m-%-d" }}</small>
 {% endif %}
@@ -15,4 +15,17 @@ layout: default
 {% if page.tags %}
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 {% endif %}<br>
+
+<div class="PageNavigation">
+  {% if page.previous.url %}
+    <a class="prev" href="{{page.previous.url}}">&laquo; previous</a>
+  {% else %}
+    <a class="prev" href=""></a>
+  {% endif %}
+  {% if page.next.url %}
+    <a class="next" href="{{page.next.url}}">next &raquo;</a>
+  {% else %}
+    <a class="next" href=""></a>
+  {% endif %}
+</div>
 

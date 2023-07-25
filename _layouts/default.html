@@ -60,9 +60,7 @@
 
       {{ content }}
 
-      {% if page.url != "/" %}
-      <small><a href="{{ page.upstream | default: "../" }}"">back</a></small>
-      {% else %}
+      {% if page.url == "/" %}
       {% if site.posts.size > 0 %}
         <h2>Recent Posts</h2>
         <ul class="blog">

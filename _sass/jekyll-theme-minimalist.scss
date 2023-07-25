@@ -5,9 +5,18 @@
 body {
   background-color: var(--clr-bg);
   padding:50px;
-  font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 15px/1.5 "Ubuntu Mono";
   color: var(--clr-text);
   font-weight:400;
+}
+
+sup {
+  font: "Ubuntu Mono"; 
+  font-size: 0.75em; 
+}
+
+sub {
+  font: "Ubuntu Mono";
 }
 
 .footnotes {
@@ -58,6 +67,7 @@ a {
 
 a:hover, a:focus {
   color: var(--clr-a-text-hvr);
+  text-decoration: underline;
 }
 
 a small {
@@ -113,7 +123,7 @@ blockquote {
 }
 
 code, pre {
-  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+  font-family: "Ubuntu Mono";
   color: var(--clr-code-text);
 }
 
@@ -134,6 +144,24 @@ th, td {
   text-align:left;
   padding:5px 10px;
   border-bottom:1px solid var(--clr-splitter-blockquote-and-section);
+}
+
+.PageNavigation {
+  font-size: 14px;
+  display: block;
+  width: auto;
+  overflow: hidden;
+}
+
+.PageNavigation a {
+  display: block;
+  width: 50%;
+  float: left;
+  margin: 1em 0;
+}
+
+.PageNavigation .next {
+  text-align: right;
 }
 
 dt {
