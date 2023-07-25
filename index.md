@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-This is the personal blog of Andrew R. McCluskey, he is a Lecturer in Chemistry and Scientific Computing at the [University of Bristol](https://www.bristol.ac.uk), where he leads the [SCAMs@bristol]() research group.
+This is the personal blog of Andrew R. McCluskey, he is a Lecturer in Chemistry and Scientific Computing at the [University of Bristol](https://www.bristol.ac.uk), where he leads the [SCAMs@bristol](https://scams-research.github.io) research group.
 Originally from [Glasgow](https://goo.gl/maps/uqEbSEupr8jSi6Qn7), he now lives in [Bristol](https://goo.gl/maps/476YLFRjRMtga9jH9).
 
 If not in the office he will likely be found running up and down muddy hills. 
