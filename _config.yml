@@ -17,7 +17,7 @@ sidebar:
     link: /blog/
   - name: resume
     icon: fa-solid fa-user
-    link: https://nbviewer.org/github/arm61/resume/blob/master/resume.pdf
+    link: https://nbviewer.org/github/arm61/resume/blob/main/resume.pdf
   - name: github
     icon: fa-brands fa-github
     link: https://github.com/arm61
