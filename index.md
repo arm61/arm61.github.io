@@ -10,4 +10,4 @@ If not in the office he will likely be found running up and down muddy hills.
 
 ## Where to find Andrew
 
-Andrew can often be found in S214 in the [School of Chemistry](https://goo.gl/maps/f9JrPsB4EbG18Xek6) in the Tyndalls Park area of the city. 
+Andrew can often be found in N515 in the [School of Chemistry](https://goo.gl/maps/f9JrPsB4EbG18Xek6) in the Tyndalls Park area of the city. 
