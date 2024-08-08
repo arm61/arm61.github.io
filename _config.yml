@@ -27,6 +27,9 @@ sidebar:
   - name: photo
     icon: fa-solid fa-camera
     link: /photo/
+  - name: group
+    icon: fa-solid fa-people-group
+    link: https://scams-research.github.io
 
 # https://github.com/github/pages-gem/issues/399#issuecomment-301827749
 # When running locally, we run into the following error —
