@@ -27,7 +27,7 @@ STFC funds applicant-led research in PPAN, but unlike other funding councils[^2]
 While the other councils employ staff primarily focused on administering funding for research projects, the majority of STFC employees are scientists actively engaged in conducting world-leading research. 
 
 Operating large-scale facilities and engaging in international collaborations pose very different challenges from funding applicant-led research. 
-This work requires long funding timescales, making it difficult to react to external economic challenges, including rising electricity costs in the UK[^4] and fluctuations in foreign exchange rates.
+This work requires long funding timescales, making it difficult to react to external economic challenges, including rising electricity costs in the UK[^3] and fluctuations in foreign exchange rates.
 It is these challenges that UKRI identified as the cause of the “unique situation at STFC”[^4]. 
 
 # How STFC Cuts Will Influence Other Councils
