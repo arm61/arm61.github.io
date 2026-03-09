@@ -1,4 +1,4 @@
-—
+---
 layout: post
 title: The Hidden Cost of STFC Cuts
 date: 2026-03-09
@@ -6,7 +6,7 @@ tags:
     - funding
     - ukri
     - stfc
-—
+---
 
 The future of UK research funding has been the subject of significant discussion in the past few months, driven by the transition to Prof. Sir Patrick Vallance’s buckets, an approach to simplify the research funding landscape and more easily relate funding to real-world impacts that can be communicated to the public.
 Included in this has been the announcement of [substantial budget reductions for STFC (Science, Technology and Facilities Council)](https://www.researchprofessionalnews.com/rr-news-uk-research-councils-2026-1-uk-physics-research-and-science-facilities-face-substantial-cuts/), which operates the [UK’s National Laboratories](https://www.ukri.org/who-we-are/stfc/facilities/). 
