@@ -1,6 +1,6 @@
 —
 layout: post
-title: A Case For UK Science Facilities
+title: The Hidden Cost of STFC Cuts
 date: 2026-03-09
 tags: 
     - funding
