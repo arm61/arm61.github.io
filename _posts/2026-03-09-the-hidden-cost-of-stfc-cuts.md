@@ -23,11 +23,11 @@ UKRI (UK Research and Innovation) is split into funding councils, which support 
 Materials science and chemistry research, for example, is supported by EPSRC (Engineering and Physical Sciences Research Council); it typically funds scientific research through “applicant-led” grants, covering salaries and consumables. 
 
 Prof. Sir Patrick Vallance has acknowledged that STFC is a bit of a different beast from the other councils[^1]. 
-STFC funds applicant-led research in PPAN, but unlike other funding councils[^2], STFC also operates several laboratories and large-scale research facilities across the UK, including [ISIS Neutron and Muon Source](https://www.isis.stfc.ac.uk/) and [Diamond Light Source](https://www.diamond.ac.uk/Home.html), and is also responsible for the UK’s investment in international research collaborations such as the [European Space Agency](https://www.esa.int), [CERN](https://home.cern), and the [European Spallation Source](https://europeanspallationsource.se). 
+STFC funds applicant-led research in PPAN, but unlike other funding councils[^2], STFC also operates and funds several laboratories and large-scale research facilities across the UK, including [ISIS Neutron and Muon Source](https://www.isis.stfc.ac.uk/) and [Diamond Light Source](https://www.diamond.ac.uk/Home.html), and is also responsible for the UK’s investment in international research collaborations such as the [European Space Agency](https://www.esa.int), [CERN](https://home.cern), and the [European Spallation Source](https://europeanspallationsource.se). 
 While the other councils employ staff primarily focused on administering funding for research projects, the majority of STFC employees are scientists actively engaged in conducting world-leading research. 
 
 Operating large-scale facilities and engaging in international collaborations pose very different challenges from funding applicant-led research. 
-This work requires long funding timescales, making it difficult to react to external economic challenges, including rising electricity costs in the UK[^3] and fluctuations in foreign exchange rates.
+This work requires long funding timescales, making it difficult to react to external economic challenges, including rising electricity costs in the UK[^4] and fluctuations in foreign exchange rates.
 It is these challenges that UKRI identified as the cause of the “unique situation at STFC”[^4]. 
 
 # How STFC Cuts Will Influence Other Councils
