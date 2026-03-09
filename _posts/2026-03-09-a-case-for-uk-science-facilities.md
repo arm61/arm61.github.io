@@ -49,7 +49,7 @@ Instead, EPSRC, BBSRC, and MRC make up over 90% of Diamond’s UKRI-funded activ
 
 If we look at the list of [STFC Facilities](https://www.ukri.org/who-we-are/stfc/facilities/)[^5], Diamond is not the only one that delivers non-“STFC science”. 
 Cuts to facilities resulting from an STFC budget reduction **will affect all areas of UK science**.
-And currently, I feel that users of these facilities are not communicating how vital they are to the delivery of their research.
+And currently, I worry that users of these facilities are not communicating how vital they are to the delivery of their research.
 If we do not make this case, we risk the government overlooking the facilities’ important role across UK science. 
 Now is the time to make our case for their continued support. 
 
