@@ -2,11 +2,14 @@
 layout: post
 title: The Hidden Cost of STFC Cuts
 date: 2026-03-09
+updated: 2026-03-14
 tags: 
     - funding
     - ukri
     - stfc
 ---
+
+[**Read The Open Letter**](https://stfc-open-letter.co.uk)
 
 The future of UK research funding has been the subject of significant discussion in the past few months, driven by the transition to Prof. Sir Patrick Vallance’s buckets, an approach to simplify the research funding landscape and more easily relate funding to real-world impacts that can be communicated to the public.
 Included in this has been the announcement of [substantial budget reductions for STFC (Science, Technology and Facilities Council)](https://www.researchprofessionalnews.com/rr-news-uk-research-councils-2026-1-uk-physics-research-and-science-facilities-face-substantial-cuts/), which operates the [UK’s National Laboratories](https://www.ukri.org/who-we-are/stfc/facilities/). 
@@ -35,7 +38,7 @@ It is these challenges that UKRI identified as the cause of the “unique situat
 While there has been substantial pushback against the cuts to STFC from researchers who receive STFC applicant-led funding (i.e., those in PPAN), I have not seen this level of concern from those who benefit from STFC facilities. 
 
 I am not eligible to apply for STFC applicant-led grants; instead, as a researcher in the chemical sciences, I would be supported by EPSRC funding.
-Despite this, my research relies on STFC-operated or supported research facilities to conduct my science; I am a regular visitor to [ISIS Neutron and Muon Source](https://www.isis.stfc.ac.uk/), the [Institut Laue-Langevin](https://ill.eu), and [Diamond Light Source](https://www.diamond.ac.uk/Home.html).
+Despite this, my research relies on STFC-operated or supported research facilities to conduct my science; I am a regular visitor to [ISIS Neutron and Muon Source](https://www.isis.stfc.ac.uk/), [Diamond Light Source](https://www.diamond.ac.uk/Home.html), and in future the [European Spallation Source](https://europeanspallationsource.se).
 Without access to these world-leading facilities, my research would not be possible. 
 I am not alone; the figure below shows that the vast majority of UKRI-funded research conducted at Diamond Light Source is not funded by STFC.
 Instead, EPSRC, BBSRC, and MRC make up over 90% of Diamond’s UKRI-funded activity. 
