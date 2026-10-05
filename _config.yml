@@ -24,6 +24,9 @@ sidebar:
   - name: strava
     icon: fa-solid fa-person-running
     link: https://www.strava.com/athletes/8500579
+  - name: draws
+    icon: fa-solid fa-palette
+    link: https://drewdraws.com
   - name: photo
     icon: fa-solid fa-camera
     link: /photo/
