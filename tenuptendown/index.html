@@ -1,0 +1,228 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ten Up, Ten Down – Scorekeeper for iPhone and iPad</title>
+<meta name="description" content="Ten Up, Ten Down keeps score for the trick-taking card game. Bids, trumps, tricks and running totals on iPhone and iPad. Support and help.">
+<link rel="icon" href="app-icon.png">
+<link rel="apple-touch-icon" href="app-icon.png">
+<style>
+  :root {
+    --bg: #ffffff;
+    --text: #1c1c1e;
+    --muted: #6e6e73;
+    --accent: #119955;
+    --accent-text: #ffffff;
+    --panel: #f2f7f4;
+    --card: #f5f5f7;
+    --rule: #e5e5ea;
+    --red: #d91f26;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #000000;
+      --text: #f2f2f7;
+      --muted: #a1a1a6;
+      --accent: #34c27a;
+      --accent-text: #00140a;
+      --panel: #10251a;
+      --card: #1c1c1e;
+      --rule: #2c2c2e;
+      --red: #ff5a5f;
+    }
+  }
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font: 17px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  main { max-width: 720px; margin: 0 auto; padding: 0 16px 64px; }
+  a { color: var(--accent); }
+  h2 { font-size: 1.5rem; line-height: 1.25; margin: 0 0 0.6em; }
+  h3 { font-size: 1.05rem; margin: 0 0 0.3em; }
+  p { margin: 0 0 1em; }
+  section { padding-top: 48px; }
+
+  nav {
+    max-width: 720px; margin: 0 auto; padding: 16px;
+    display: flex; gap: 20px; justify-content: flex-end; flex-wrap: wrap;
+    font-size: 0.95rem;
+  }
+  nav a { text-decoration: none; color: var(--muted); }
+  nav a:hover { color: var(--accent); }
+
+  .hero { text-align: center; padding-top: 24px; }
+  .hero img { width: 112px; height: 112px; border-radius: 25px; box-shadow: 0 8px 24px rgba(0,0,0,0.18); }
+  .hero h1 { font-size: 2.4rem; line-height: 1.1; margin: 20px 0 8px; }
+  .tagline { font-size: 1.2rem; color: var(--muted); max-width: 30em; margin: 0 auto 24px; }
+  .suits { font-size: 1.5rem; letter-spacing: 0.2em; margin-bottom: 4px; }
+  .suits .red { color: var(--red); }
+  .store-button {
+    display: inline-block; padding: 12px 24px; border-radius: 12px;
+    background: var(--accent); color: var(--accent-text);
+    font-weight: 600; text-decoration: none;
+  }
+  .store-note { font-size: 0.9rem; color: var(--muted); margin-top: 10px; }
+
+  .features { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; }
+  .feature { background: var(--card); border-radius: 14px; padding: 16px; }
+  .feature p { margin: 0; color: var(--muted); font-size: 0.95rem; }
+  .feature .icon { font-size: 1.4rem; margin-bottom: 6px; }
+
+  .scoring { background: var(--panel); border-left: 4px solid var(--accent); border-radius: 10px; padding: 16px 18px; }
+  .scoring ul { margin: 0; padding-left: 1.2em; }
+  .scoring li { margin-bottom: 0.3em; }
+  .example { color: var(--muted); font-size: 0.95rem; margin-top: 10px; }
+
+  details { border-bottom: 1px solid var(--rule); padding: 14px 0; }
+  details:first-of-type { border-top: 1px solid var(--rule); }
+  summary { cursor: pointer; font-weight: 600; list-style: none; position: relative; padding-right: 28px; }
+  summary::-webkit-details-marker { display: none; }
+  summary::after { content: "+"; position: absolute; right: 4px; top: -2px; font-size: 1.3rem; color: var(--accent); }
+  details[open] summary::after { content: "−"; }
+  details p { margin: 10px 0 0; color: var(--muted); }
+
+  .contact { background: var(--card); border-radius: 14px; padding: 20px; }
+  .contact p:last-child { margin-bottom: 0; }
+
+  footer {
+    max-width: 720px; margin: 0 auto; padding: 24px 16px 40px;
+    border-top: 1px solid var(--rule); color: var(--muted); font-size: 0.9rem;
+    display: flex; gap: 16px; flex-wrap: wrap; justify-content: space-between;
+  }
+  footer a { color: var(--muted); }
+</style>
+</head>
+<body>
+<nav>
+  <a href="#features">Features</a>
+  <a href="#scoring">Scoring</a>
+  <a href="#support">Support</a>
+  <a href="privacy.html">Privacy</a>
+</nav>
+
+<main>
+  <section class="hero">
+    <img src="app-icon.png" alt="Ten Up, Ten Down app icon">
+    <h1>Ten Up, Ten Down</h1>
+    <div class="suits" aria-hidden="true">♠<span class="red">♥</span>♣<span class="red">♦</span></div>
+    <p class="tagline">The scorekeeper for the trick-taking card game. Enter the bids, pick the trump, count the tricks — the app does the sums.</p>
+    <!-- When the app is live, replace this button with Apple's official "Download on the App Store"
+         badge (from Apple's Marketing Resources) linking to the app's App Store page. -->
+    <a class="store-button" href="#support">Coming soon to the App Store</a>
+    <p class="store-note">For iPhone and iPad · iOS 17 or later · Free of ads and tracking</p>
+  </section>
+
+  <section id="features">
+    <h2>Made for the card table</h2>
+    <div class="features">
+      <div class="feature">
+        <div class="icon">🃏</div>
+        <h3>Every round, step by step</h3>
+        <p>Bids, then trumps, then tricks taken. The app shows who deals, who bids first and who picks the trump.</p>
+      </div>
+      <div class="feature">
+        <div class="icon">⚖️</div>
+        <h3>Rules built in</h3>
+        <p>The dealer can’t make the bids add up, and a round can’t finish until the tricks are right.</p>
+      </div>
+      <div class="feature">
+        <div class="icon">👥</div>
+        <h3>2 to 10 players</h3>
+        <p>Hands go from 10 cards down to 1 and back up. With more than 5 players, the game starts from a smaller hand.</p>
+      </div>
+      <div class="feature">
+        <div class="icon">📊</div>
+        <h3>Standings and scoreboard</h3>
+        <p>Running totals after every round, and a full scoreboard of every bid, trick and score.</p>
+      </div>
+      <div class="feature">
+        <div class="icon">✏️</div>
+        <h3>Fix mistakes</h3>
+        <p>Tap any finished round on the scoreboard to correct it. The totals update straight away.</p>
+      </div>
+      <div class="feature">
+        <div class="icon">🔒</div>
+        <h3>Private</h3>
+        <p>No accounts, no ads, no data collected. Your game saves on your device and picks up where you left off.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="scoring">
+    <h2>How scoring works</h2>
+    <div class="scoring">
+      <ul>
+        <li><strong>Make your bid exactly:</strong> 10 points, plus 2 for every trick you bid.</li>
+        <li><strong>Miss it:</strong> 10 points, minus 3 for each trick short of your bid, or minus 2 for each trick over.</li>
+      </ul>
+      <p class="example">Bid 3 and take 3: 16 points. Bid 3 and take 1: 4 points. Bid 1 and take 4: 4 points.</p>
+    </div>
+  </section>
+
+  <section id="support">
+    <h2>Support</h2>
+    <p>Answers to common questions are below. If you can’t find what you need, <a href="#contact">get in touch</a>.</p>
+
+    <details>
+      <summary>How do I start a game?</summary>
+      <p>Enter the players’ names in seating order, choose who deals first, then tap <strong>Start Game</strong>. Tap <strong>Edit</strong> to reorder players, or swipe left on a name to remove it.</p>
+    </details>
+    <details>
+      <summary>Why can’t the dealer choose a certain bid?</summary>
+      <p>The dealer bids last and isn’t allowed to make the total of all bids equal the number of tricks, so someone always misses. The app shows the one bid the dealer can’t make, and <strong>Lock In Bids</strong> stays off until they choose another.</p>
+    </details>
+    <details>
+      <summary>Who picks the trump?</summary>
+      <p>The player with the highest bid. If two or more players tie, whoever of them bid first picks. They can choose a suit or <strong>NT</strong> for no trumps.</p>
+    </details>
+    <details>
+      <summary>Why can’t I enter the tricks taken?</summary>
+      <p>Choose the trump first. Once the bids are locked in, pick a suit or NT under <strong>Trumps</strong> and the tricks counters will unlock. The screen changes to the trump’s colour so you know play has started.</p>
+    </details>
+    <details>
+      <summary>Why can’t I finish the round?</summary>
+      <p>The tricks taken must add up to the number of cards dealt. The count under the players turns red until they do.</p>
+    </details>
+    <details>
+      <summary>I made a mistake. How do I fix it?</summary>
+      <p>For the round you’re playing, tap <strong>Change Bids</strong>. For a finished round, open the scoreboard (the grid button, top right), tap the round, correct it and tap <strong>Save</strong>.</p>
+    </details>
+    <details>
+      <summary>How many rounds are there?</summary>
+      <p>With 2 to 5 players: 20 rounds, from 10 cards down to 1, the 1-card round twice, then back up to 10. With more players there are fewer cards each, so fewer rounds — for example 16 rounds starting at 8 cards with 6 players, or 10 rounds with 9 or 10 players.</p>
+    </details>
+    <details>
+      <summary>Will I lose my game if I close the app?</summary>
+      <p>No. The game saves after every change, so you can close the app or switch off your phone and carry on later.</p>
+    </details>
+    <details>
+      <summary>How do I start again?</summary>
+      <p>Tap <strong>New Game</strong> at the top left, then <strong>End Game</strong>. The scores are cleared, and the setup screen remembers the players’ names.</p>
+    </details>
+    <details>
+      <summary>Does the app collect my data?</summary>
+      <p>No. Names and scores stay on your device and are never sent anywhere. See the <a href="privacy.html">privacy policy</a>.</p>
+    </details>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <div class="contact">
+      <p>Found a problem, or have an idea for the app? I’d like to hear about it.</p>
+      <p><strong>Email:</strong> <a href="mailto:andrew@mccluskey.scot?subject=Ten%20Up%2C%20Ten%20Down">andrew@mccluskey.scot</a></p>
+      <p>If you’re reporting a problem, it helps to include your device, its iOS version, and the app version (shown under <strong>ⓘ ▸ Version</strong> on the setup screen).</p>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <span>© 2026 Andrew McCluskey</span>
+  <span><a href="privacy.html">Privacy Policy</a> · <a href="https://mccluskey.scot">mccluskey.scot</a></span>
+</footer>
+</body>
+</html>
